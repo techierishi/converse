@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>German A1-A2 Conversation Practice</title>
+<title>German Conversation Practice</title>
 <style>
 body {
   font-family: Arial, sans-serif;
@@ -140,22 +140,138 @@ label {
   color: #999999;
   text-align: center;
 }
+/* progress tracking */
+.progress-summary {
+  margin: 18px 0 4px;
+  font-size: 14px;
+  color: #555555;
+  text-align: center;
+}
+.progress-bar {
+  height: 10px;
+  background: #e5e5e5;
+  border-radius: 999px;
+  overflow: hidden;
+  margin: 8px 0 20px;
+}
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #2b7cff, #4caf50);
+  border-radius: 999px;
+  transition: width 0.3s ease;
+}
+/* scenario header controls */
+.scenario-head {
+  text-align: center;
+}
+.controls-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.btn-group {
+  display: inline-flex;
+  border: 1px solid #d0d0d0;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #ffffff;
+}
+.btn-group button {
+  border: none;
+  background: #ffffff;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.btn-group button + button {
+  border-left: 1px solid #d0d0d0;
+}
+.btn-group button:hover {
+  background: #f0f4ff;
+}
+.btn-group button.active {
+  background: #2b7cff;
+  color: #ffffff;
+}
+.version-select {
+  padding: 6px 10px;
+  border: 1px solid #d0d0d0;
+  border-radius: 8px;
+  background: #ffffff;
+  font-size: 13px;
+  cursor: pointer;
+}
+.confidence-group button.active.low {
+  background: #e05d5d;
+}
+.confidence-group button.active.medium {
+  background: #f0a52e;
+}
+.confidence-group button.active.high {
+  background: #4caf50;
+}
+.practice-status {
+  font-size: 13px;
+  color: #888888;
+  margin-top: 6px;
+  text-align: center;
+}
+button.practiced-btn.active {
+  background: #4caf50;
+  color: #ffffff;
+}
+/* result badges */
+.result-item .result-title {
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.badge {
+  font-size: 11px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  color: #ffffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.badge-low {
+  background: #e05d5d;
+}
+.badge-medium {
+  background: #f0a52e;
+}
+.badge-high {
+  background: #4caf50;
+}
+.badge-practiced {
+  background: #9aa4b1;
+}
 </style>
 </head>
 <body>
 <div class="container">
-<h1>German A1-A2 Conversation Practice</h1>
-<p>50 Alltagsszenen mit kurzen einfachen Sätzen und Audio.</p>
+<h1>German Conversation Practice</h1>
 
 <div class="controls">
   <label for="scenario-search">Search conversations</label>
   <input type="search" id="scenario-search" placeholder="Type to search, e.g. Bakery, doctor, hamster…" autocomplete="off">
   <div id="search-results" class="search-results" role="listbox"></div>
-  <div class="search-hint">Type to filter by title or dialogue text. Click a result to open it (↑ ↓ and Enter also work).</div>
+  <div class="search-hint">Type to filter by title or dialogue text. Every conversation has multiple versions — mark your confidence after practicing.</div>
 </div>
+
+<div class="progress-summary" id="progress-summary"></div>
+<div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
 
 <div id="scenario-root"></div>
 
+<script src="scenarios-variants.js"></script>
 <script>
 function speak(text) {
   const utterance = new SpeechSynthesisUtterance(text);
@@ -1674,17 +1790,152 @@ const scenarios = [
   ...buildExtraScenarios()
 ];
 
-function createScenario(title, lines) {
+scenarios.forEach((scenario) => {
+  const variants = (typeof SCENARIO_VARIANTS !== 'undefined' && SCENARIO_VARIANTS[scenario.title]) || [];
+  scenario.versions = [{ label: 'V1', lines: scenario.lines }].concat(variants);
+});
+
+const STORAGE_KEY = 'germanPractice.v1';
+
+function b64(title) {
+  return btoa(unescape(encodeURIComponent(title)));
+}
+
+function loadState() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; } catch (e) { return {}; }
+}
+let state = loadState();
+
+function saveState() {
+  try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch (e) {}
+}
+
+function getRecord(title) {
+  const key = b64(title);
+  return state[key] || { confidence: null, practiced: false, count: 0 };
+}
+
+function setRecord(title, patch) {
+  const key = b64(title);
+  const prev = getRecord(title);
+  const next = Object.assign({}, prev, patch);
+  if (patch.practiced === true && !prev.practiced) next.count = (prev.count || 0) + 1;
+  if (patch.practiced !== undefined || patch.confidence !== undefined) {
+    next.last = new Date().toISOString();
+  }
+  state[key] = next;
+  saveState();
+  return next;
+}
+
+function practiceStatusText(record) {
+  if (!record.practiced && !record.confidence) {
+    return 'Not practiced yet — set your confidence level after practicing.';
+  }
+  const parts = [];
+  if (record.practiced) parts.push(`Practiced ${record.count || 1}×`);
+  if (record.confidence) parts.push(`Confidence: ${record.confidence}`);
+  if (record.last) parts.push(`Last: ${new Date(record.last).toLocaleDateString()}`);
+  return parts.join(' · ');
+}
+
+function updateProgress() {
+  const total = scenarios.length;
+  const practiced = scenarios.filter(s => getRecord(s.title).practiced).length;
+  const counts = { low: 0, medium: 0, high: 0 };
+  scenarios.forEach(s => {
+    const c = getRecord(s.title).confidence;
+    if (c) counts[c] += 1;
+  });
+  const summary = document.getElementById('progress-summary');
+  if (summary) {
+    summary.textContent =
+      `Practiced ${practiced} / ${total} conversations · High ${counts.high} · Medium ${counts.medium} · Low ${counts.low}`;
+  }
+  const fill = document.getElementById('progress-fill');
+  if (fill) fill.style.width = total ? `${(practiced / total) * 100}%` : '0%';
+}
+
+function createScenario(index) {
+  const scenario = scenarios[index];
+  const versions = scenario.versions;
+  const record = getRecord(scenario.title);
+  const versionIdx = Math.min(record.version || 0, versions.length - 1);
+  const version = versions[versionIdx];
+
   const section = document.createElement('section');
   section.className = 'scenario';
 
+  const head = document.createElement('div');
+  head.className = 'scenario-head';
+
   const heading = document.createElement('h2');
-  heading.textContent = title;
-  section.appendChild(heading);
+  heading.textContent = scenario.title;
+  head.appendChild(heading);
+
+  const row = document.createElement('div');
+  row.className = 'controls-row';
+
+  const versionSelect = document.createElement('select');
+  versionSelect.className = 'version-select';
+  versions.forEach((v, i) => {
+    const opt = document.createElement('option');
+    opt.value = String(i);
+    opt.textContent = `V${i + 1}`;
+    if (i === versionIdx) opt.selected = true;
+    versionSelect.appendChild(opt);
+  });
+  versionSelect.addEventListener('change', () => {
+    setRecord(scenario.title, { version: Number(versionSelect.value) });
+    renderScenario(index);
+  });
+  row.appendChild(versionSelect);
+
+  const confGroup = document.createElement('div');
+  confGroup.className = 'btn-group confidence-group';
+  confGroup.setAttribute('role', 'group');
+  confGroup.setAttribute('aria-label', 'Confidence');
+  ['low', 'medium', 'high'].forEach(level => {
+    const b = document.createElement('button');
+    b.type = 'button';
+    b.textContent = level.charAt(0).toUpperCase() + level.slice(1);
+    b.classList.add(level);
+    if (record.confidence === level) b.classList.add('active');
+    b.addEventListener('click', () => {
+      setRecord(scenario.title, {
+        confidence: record.confidence === level ? null : level,
+        practiced: true
+      });
+      updateProgress();
+      renderScenario(index);
+    });
+    confGroup.appendChild(b);
+  });
+  row.appendChild(confGroup);
+
+  const practicedBtn = document.createElement('button');
+  practicedBtn.type = 'button';
+  practicedBtn.className = 'practiced-btn';
+  practicedBtn.textContent = '✓ Practiced';
+  if (record.practiced) practicedBtn.classList.add('active');
+  practicedBtn.addEventListener('click', () => {
+    setRecord(scenario.title, { practiced: !record.practiced });
+    updateProgress();
+    renderScenario(index);
+  });
+  row.appendChild(practicedBtn);
+
+  head.appendChild(row);
+
+  const status = document.createElement('div');
+  status.className = 'practice-status';
+  status.textContent = practiceStatusText(record);
+  head.appendChild(status);
+
+  section.appendChild(head);
 
   const list = document.createElement('ul');
-
-  lines.forEach(([speakerClass, speakerLabel, text]) => {
+  version.lines.forEach(([speakerClass, speakerLabel, text]) => {
     const item = document.createElement('li');
 
     const textWrapper = document.createElement('div');
@@ -1711,6 +1962,12 @@ function createScenario(title, lines) {
   return section;
 }
 
+function renderScenario(index) {
+  const root = document.getElementById('scenario-root');
+  root.innerHTML = '';
+  root.appendChild(createScenario(index));
+}
+
 function normalize(s) {
   return s.toLowerCase()
     .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
@@ -1720,21 +1977,26 @@ function normalize(s) {
 function searchScenarios(query) {
   const q = normalize(query.trim());
   if (!q) {
-    return scenarios.map((scenario, index) => ({ scenario, index, titleMatch: true, matchedLines: [] }));
+    return scenarios.map((scenario, index) => ({ scenario, index, titleMatch: true, matched: [] }));
   }
   const hits = [];
   scenarios.forEach((scenario, index) => {
     const titleMatch = normalize(scenario.title).includes(q);
-    const matchedLines = [];
-    scenario.lines.forEach(([, speakerLabel, text]) => {
-      if (normalize(`${speakerLabel} ${text}`).includes(q)) matchedLines.push(text);
+    const matched = [];
+    const versions = scenario.versions || [{ label: 'A1', lines: scenario.lines }];
+    versions.forEach((v) => {
+      v.lines.forEach(([, speakerLabel, text]) => {
+        if (normalize(`${speakerLabel} ${text}`).includes(q)) {
+          matched.push({ text, version: v.label });
+        }
+      });
     });
-    if (titleMatch || matchedLines.length) {
-      hits.push({ scenario, index, titleMatch, matchedLines });
+    if (titleMatch || matched.length) {
+      hits.push({ scenario, index, titleMatch, matched });
     }
   });
   hits.sort((a, b) =>
-    (b.titleMatch - a.titleMatch) || (b.matchedLines.length - a.matchedLines.length)
+    (b.titleMatch - a.titleMatch) || (b.matched.length - a.matched.length)
   );
   return hits;
 }
@@ -1746,9 +2008,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
   let activeIndex = -1;
 
-  function renderScenario(index) {
-    root.innerHTML = '';
-    root.appendChild(createScenario(scenarios[index].title, scenarios[index].lines));
+  function statusBadge(title) {
+    const r = getRecord(title);
+    if (r.confidence) return r.confidence;
+    if (r.practiced) return 'practiced';
+    return '';
   }
 
   function renderResults() {
@@ -1776,9 +2040,24 @@ document.addEventListener('DOMContentLoaded', () => {
       title.textContent = hit.scenario.title;
       button.appendChild(title);
 
-      if (!hit.titleMatch && hit.matchedLines.length) {
+      const badge = statusBadge(hit.scenario.title);
+      if (badge) {
+        const chip = document.createElement('span');
+        chip.className = 'badge ' + (badge === 'practiced' ? 'badge-practiced' : `badge-${badge}`);
+        chip.textContent = badge === 'practiced' ? '✓' : badge;
+        title.appendChild(chip);
+      }
+
+      if (!hit.titleMatch && hit.matched.length) {
         const snippet = document.createElement('small');
-        snippet.textContent = `Mentioned: ${hit.matchedLines.slice(0, 2).join(' · ')}`;
+        const uniq = [];
+        const seen = new Set();
+        hit.matched.forEach(m => {
+          if (!seen.has(m.text)) { seen.add(m.text); uniq.push(m); }
+        });
+        snippet.textContent = 'Mentioned: ' + uniq.slice(0, 2)
+          .map(m => m.version === 'V1' ? m.text : `${m.text} (${m.version})`)
+          .join(' · ');
         button.appendChild(snippet);
       }
 
@@ -1828,6 +2107,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+  updateProgress();
   renderScenario(0);
 });
 </script>
