@@ -80,13 +80,65 @@ label {
   font-weight: bold;
   margin-bottom: 8px;
 }
-select {
+#scenario-search {
   width: 100%;
   padding: 12px 14px;
   border: 1px solid #d0d0d0;
   border-radius: 10px;
   background: #ffffff;
   font-size: 16px;
+  box-sizing: border-box;
+}
+.search-results {
+  display: none;
+  margin-top: 8px;
+  max-height: 340px;
+  overflow-y: auto;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+.search-results.show {
+  display: block;
+}
+.result-item {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 10px 14px;
+  font-size: 15px;
+  cursor: pointer;
+  border-radius: 0;
+}
+.result-item:last-child {
+  border-bottom: none;
+}
+.result-item:hover,
+.result-item.active {
+  background: #eef3ff;
+}
+.result-item .result-title {
+  font-weight: 600;
+}
+.result-item small {
+  display: block;
+  color: #888888;
+  margin-top: 2px;
+  font-size: 13px;
+}
+.no-results {
+  padding: 12px 14px;
+  color: #888888;
+}
+.search-hint {
+  margin-top: 6px;
+  font-size: 13px;
+  color: #999999;
+  text-align: center;
 }
 </style>
 </head>
@@ -96,8 +148,10 @@ select {
 <p>50 Alltagsszenen mit kurzen einfachen Sätzen und Audio.</p>
 
 <div class="controls">
-  <label for="scenario-select">Choose a conversation</label>
-  <select id="scenario-select"></select>
+  <label for="scenario-search">Search conversations</label>
+  <input type="search" id="scenario-search" placeholder="Type to search, e.g. Bakery, doctor, hamster…" autocomplete="off">
+  <div id="search-results" class="search-results" role="listbox"></div>
+  <div class="search-hint">Type to filter by title or dialogue text. Click a result to open it (↑ ↓ and Enter also work).</div>
 </div>
 
 <div id="scenario-root"></div>
@@ -1657,27 +1711,123 @@ function createScenario(title, lines) {
   return section;
 }
 
+function normalize(s) {
+  return s.toLowerCase()
+    .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
+    .replace(/ae/g, 'a').replace(/oe/g, 'o').replace(/ue/g, 'u').replace(/ss/g, 's');
+}
+
+function searchScenarios(query) {
+  const q = normalize(query.trim());
+  if (!q) {
+    return scenarios.map((scenario, index) => ({ scenario, index, titleMatch: true, matchedLines: [] }));
+  }
+  const hits = [];
+  scenarios.forEach((scenario, index) => {
+    const titleMatch = normalize(scenario.title).includes(q);
+    const matchedLines = [];
+    scenario.lines.forEach(([, speakerLabel, text]) => {
+      if (normalize(`${speakerLabel} ${text}`).includes(q)) matchedLines.push(text);
+    });
+    if (titleMatch || matchedLines.length) {
+      hits.push({ scenario, index, titleMatch, matchedLines });
+    }
+  });
+  hits.sort((a, b) =>
+    (b.titleMatch - a.titleMatch) || (b.matchedLines.length - a.matchedLines.length)
+  );
+  return hits;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
-  const select = document.getElementById('scenario-select');
+  const search = document.getElementById('scenario-search');
+  const results = document.getElementById('search-results');
   const root = document.getElementById('scenario-root');
 
-  scenarios.forEach((scenario, index) => {
-    const option = document.createElement('option');
-    option.value = String(index);
-    option.textContent = scenario.title;
-    select.appendChild(option);
-  });
+  let activeIndex = -1;
 
   function renderScenario(index) {
     root.innerHTML = '';
     root.appendChild(createScenario(scenarios[index].title, scenarios[index].lines));
   }
 
-  select.addEventListener('change', (event) => {
-    renderScenario(Number(event.target.value));
+  function renderResults() {
+    const hits = searchScenarios(search.value);
+    results.innerHTML = '';
+    activeIndex = -1;
+
+    if (!hits.length) {
+      const none = document.createElement('div');
+      none.className = 'no-results';
+      none.textContent = 'No conversations match your search.';
+      results.appendChild(none);
+      results.classList.add('show');
+      return;
+    }
+
+    hits.forEach((hit, i) => {
+      const button = document.createElement('button');
+      button.type = 'button';
+      button.className = 'result-item';
+      button.setAttribute('role', 'option');
+
+      const title = document.createElement('span');
+      title.className = 'result-title';
+      title.textContent = hit.scenario.title;
+      button.appendChild(title);
+
+      if (!hit.titleMatch && hit.matchedLines.length) {
+        const snippet = document.createElement('small');
+        snippet.textContent = `Mentioned: ${hit.matchedLines.slice(0, 2).join(' · ')}`;
+        button.appendChild(snippet);
+      }
+
+      button.addEventListener('click', () => {
+        renderScenario(hit.index);
+        search.value = hit.scenario.title;
+        results.classList.remove('show');
+        activeIndex = -1;
+        root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+
+      results.appendChild(button);
+    });
+
+    results.classList.add('show');
+  }
+
+  search.addEventListener('input', renderResults);
+
+  search.addEventListener('focus', () => {
+    renderResults();
   });
 
-  select.value = '0';
+  search.addEventListener('keydown', (event) => {
+    const items = results.querySelectorAll('.result-item');
+    if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+      if (!items.length) return;
+      event.preventDefault();
+      activeIndex = event.key === 'ArrowDown'
+        ? (activeIndex + 1) % items.length
+        : (activeIndex - 1 + items.length) % items.length;
+      items.forEach((el, i) => el.classList.toggle('active', i === activeIndex));
+      items[activeIndex].scrollIntoView({ block: 'nearest' });
+    } else if (event.key === 'Enter') {
+      if (!items.length) return;
+      event.preventDefault();
+      items[activeIndex >= 0 ? activeIndex : 0].click();
+    } else if (event.key === 'Escape') {
+      results.classList.remove('show');
+      activeIndex = -1;
+    }
+  });
+
+  document.addEventListener('click', (event) => {
+    if (!results.contains(event.target) && event.target !== search) {
+      results.classList.remove('show');
+    }
+  });
+
   renderScenario(0);
 });
 </script>
