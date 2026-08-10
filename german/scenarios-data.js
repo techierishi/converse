@@ -14463,5 +14463,4074 @@ const SCENARIOS_DATA = [
         ]
       }
     ]
+  },
+  {
+    "title": "At the bank — opening an account",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Bankangestellte", "Guten Tag, wie kann ich Ihnen helfen?"],
+          ["speaker-b", "Kunde", "Ich möchte ein Konto eröffnen."],
+          ["speaker-a", "Bankangestellte", "Gern. Ihren Ausweis bitte."],
+          ["speaker-b", "Kunde", "Hier, mein Reisepass."],
+          ["speaker-a", "Bankangestellte", "Danke. Ein Girokonto oder Sparkonto?"],
+          ["speaker-b", "Kunde", "Ein Girokonto, bitte."],
+          ["speaker-a", "Bankangestellte", "Haben Sie einen Nachweis über Ihr Einkommen?"],
+          ["speaker-b", "Kunde", "Ja, meine letzten drei Gehaltsabrechnungen."],
+          ["speaker-a", "Bankangestellte", "Sehr gut. Möchten Sie eine EC-Karte?"],
+          ["speaker-b", "Kunde", "Ja, bitte auch eine Kreditkarte."],
+          ["speaker-a", "Bankangestellte", "Die Jahresgebühr beträgt 36 Euro."],
+          ["speaker-b", "Kunde", "Das ist in Ordnung."],
+          ["speaker-a", "Bankangestellte", "Hier ist der Vertrag. Bitte unterschreiben."],
+          ["speaker-b", "Kunde", "Wo genau?"],
+          ["speaker-a", "Bankangestellte", "Hier unten rechts."],
+          ["speaker-b", "Kunde", "Erledigt. Danke schön."],
+          ["speaker-a", "Bankangestellte", "Ihre Karte kommt in fünf Werktagen."],
+          ["speaker-b", "Kunde", "Super, auf Wiedersehen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Beraterin", "Guten Morgen. Bitte nehmen Sie Platz."],
+          ["speaker-b", "Kunde", "Danke. Ich brauche ein neues Konto."],
+          ["speaker-a", "Beraterin", "Sind Sie schon Kunde bei uns?"],
+          ["speaker-b", "Kunde", "Nein, ich bin neu in der Stadt."],
+          ["speaker-a", "Beraterin", "Dann brauche ich Ihren Personalausweis."],
+          ["speaker-b", "Kunde", "Moment, ich habe ihn dabei."],
+          ["speaker-a", "Beraterin", "Und Ihre Steueridentifikationsnummer?"],
+          ["speaker-b", "Kunde", "Die weiß ich leider nicht auswendig."],
+          ["speaker-a", "Beraterin", "Kein Problem, die können Sie nachreichen."],
+          ["speaker-b", "Kunde", "Gibt es ein kostenloses Konto?"],
+          ["speaker-a", "Beraterin", "Ja, ab 700 Euro monatlichem Geldeingang."],
+          ["speaker-b", "Kunde", "Das erfülle ich."],
+          ["speaker-a", "Beraterin", "Dann ist es komplett gebührenfrei."],
+          ["speaker-b", "Kunde", "Wunderbar, machen wir das."],
+          ["speaker-a", "Beraterin", "Online-Banking möchten Sie auch?"],
+          ["speaker-b", "Kunde", "Ja, unbedingt."],
+          ["speaker-a", "Beraterin", "Ich richte gleich alles ein."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Berater", "Willkommen bei der Stadtbank. Was führt Sie zu uns?"],
+          ["speaker-b", "Kundin", "Ich möchte ein Geschäftskonto eröffnen."],
+          ["speaker-a", "Berater", "Selbstständig oder GmbH?"],
+          ["speaker-b", "Kundin", "Selbstständig, ich bin Freiberuflerin."],
+          ["speaker-a", "Berater", "Dafür brauche ich die Gewerbeanmeldung."],
+          ["speaker-b", "Kundin", "Die habe ich als Kopie mitgebracht."],
+          ["speaker-a", "Berater", "Ausgezeichnet. Wie hoch ist Ihr monatlicher Umsatz?"],
+          ["speaker-b", "Kundin", "Etwa dreitausend Euro im Durchschnitt."],
+          ["speaker-a", "Berater", "Dann empfehle ich das Business-Konto Plus."],
+          ["speaker-b", "Kundin", "Welche Vorteile hat das?"],
+          ["speaker-a", "Berater", "Kostenlose Transaktionen und ein Dispokredit von fünftausend."],
+          ["speaker-b", "Kundin", "Hört sich gut an. Ich nehme das."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the post office — sending a package",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Postbeamter", "Guten Tag, was kann ich für Sie tun?"],
+          ["speaker-b", "Kundin", "Ich möchte dieses Paket verschicken."],
+          ["speaker-a", "Postbeamter", "Wohin soll es gehen?"],
+          ["speaker-b", "Kundin", "Nach Berlin."],
+          ["speaker-a", "Postbeamter", "Soll es versichert sein?"],
+          ["speaker-b", "Kundin", "Ja, bis 500 Euro bitte."],
+          ["speaker-a", "Postbeamter", "Möchten Sie es als Päckchen oder Paket?"],
+          ["speaker-b", "Kundin", "Als Paket."],
+          ["speaker-a", "Postbeamter", "Das macht 6,99 Euro."],
+          ["speaker-b", "Kundin", "Hier sind 10 Euro."],
+          ["speaker-a", "Postbeamter", "Und 3,01 Euro zurück. Hier Ihre Quittung."],
+          ["speaker-b", "Kundin", "Wann kommt es an?"],
+          ["speaker-a", "Postbeamter", "Morgen Vormittag."],
+          ["speaker-b", "Kundin", "Vielen Dank. Auf Wiedersehen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Schalterbeamte", "Der Nächste, bitte."],
+          ["speaker-b", "Kunde", "Ich muss ein Einschreiben aufgeben."],
+          ["speaker-a", "Schalterbeamte", "Einwurf-Einschreiben oder mit Rückschein?"],
+          ["speaker-b", "Kunde", "Mit Rückschein, das ist sicherer."],
+          ["speaker-a", "Schalterbeamte", "Gut. Empfängeradresse?"],
+          ["speaker-b", "Kunde", "München, Hauptstraße 15."],
+          ["speaker-a", "Schalterbeamte", "Absender bitte auch angeben."],
+          ["speaker-b", "Kunde", "Steht schon drauf."],
+          ["speaker-a", "Schalterbeamte", "Stimmt, habe ich übersehen. 4,30 Euro bitte."],
+          ["speaker-b", "Kunde", "Kann ich mit Karte zahlen?"],
+          ["speaker-a", "Schalterbeamte", "Natürlich. Halten Sie kurz ran."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mitarbeiterin", "Guten Tag. International oder national?"],
+          ["speaker-b", "Kundin", "International, in die USA."],
+          ["speaker-a", "Mitarbeiterin", "Da füllen Sie bitte die Zollinhaltserklärung aus."],
+          ["speaker-b", "Kundin", "Was muss ich da angeben?"],
+          ["speaker-a", "Mitarbeiterin", "Inhalt, Wert und ob es ein Geschenk ist."],
+          ["speaker-b", "Kundin", "Es ist ein Geburtstagsgeschenk für meine Schwester."],
+          ["speaker-a", "Mitarbeiterin", "Dann tragen Sie Geschenk ein, Wert unter 45 Dollar."],
+          ["speaker-b", "Kundin", "Geht das per Luftpost?"],
+          ["speaker-a", "Mitarbeiterin", "Ja, das dauert etwa zwei Wochen."],
+          ["speaker-b", "Kundin", "Gibt es auch Express?"],
+          ["speaker-a", "Mitarbeiterin", "Express kostet 38 Euro extra."],
+          ["speaker-b", "Kundin", "Nein, normal reicht. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the hairdresser",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Friseurin", "Guten Tag. Haben Sie einen Termin?"],
+          ["speaker-b", "Kundin", "Ja, um 10 Uhr auf den Namen Schmidt."],
+          ["speaker-a", "Friseurin", "Genau. Nehmen Sie bitte Platz."],
+          ["speaker-b", "Kundin", "Danke."],
+          ["speaker-a", "Friseurin", "Was soll heute gemacht werden?"],
+          ["speaker-b", "Kundin", "Nur Spitzen schneiden, bitte."],
+          ["speaker-a", "Friseurin", "Wie viel soll ab?"],
+          ["speaker-b", "Kundin", "Zwei Zentimeter etwa."],
+          ["speaker-a", "Friseurin", "Möchten Sie die Haare gewaschen haben?"],
+          ["speaker-b", "Kundin", "Ja, gerne."],
+          ["speaker-a", "Friseurin", "Dann gehen wir zuerst zur Wäsche."],
+          ["speaker-b", "Kundin", "Ist das Shampoo für empfindliche Kopfhaut?"],
+          ["speaker-a", "Friseurin", "Ja, wir haben ein mildes Produkt."],
+          ["speaker-b", "Kundin", "Perfekt."],
+          ["speaker-a", "Friseurin", "So, fertig. Gefällt es Ihnen?"],
+          ["speaker-b", "Kundin", "Ja, sehr schön."],
+          ["speaker-a", "Friseurin", "Das macht 28 Euro."],
+          ["speaker-b", "Kundin", "Hier bitte, und 2 Euro Trinkgeld."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Friseur", "Hallo, was darf es sein?"],
+          ["speaker-b", "Kunde", "Ich hätte gern einen neuen Haarschnitt."],
+          ["speaker-a", "Friseur", "Haben Sie eine bestimmte Vorstellung?"],
+          ["speaker-b", "Kunde", "Etwas kürzer an den Seiten und oben länger."],
+          ["speaker-a", "Friseur", "Also ein klassischer Herrenschnitt mit Übergang."],
+          ["speaker-b", "Kunde", "Genau, aber nicht zu kurz."],
+          ["speaker-a", "Friseur", "Mit Maschine oder Schere?"],
+          ["speaker-b", "Kunde", "Lieber mit der Schere."],
+          ["speaker-a", "Friseur", "Und der Bart, soll der auch gestutzt werden?"],
+          ["speaker-b", "Kunde", "Ja, bitte in Form bringen."],
+          ["speaker-a", "Friseur", "Alles klar, dann fangen wir an."],
+          ["speaker-b", "Kunde", "Können Sie mir ein Stylingprodukt empfehlen?"],
+          ["speaker-a", "Friseur", "Dieses Wachs hier sorgt für leichten Halt ohne zu glänzen."],
+          ["speaker-b", "Kunde", "Gut, das nehme ich auch noch mit."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Friseurin", "Herzlich willkommen. Möchten Sie etwas trinken?"],
+          ["speaker-b", "Kundin", "Ein Wasser wäre schön."],
+          ["speaker-a", "Friseurin", "Mit oder ohne Kohlensäure?"],
+          ["speaker-b", "Kundin", "Ohne, bitte."],
+          ["speaker-a", "Friseurin", "Ich sehe, Ihre Spitzen sind ziemlich trocken."],
+          ["speaker-b", "Kundin", "Ja, ich war lange nicht beim Friseur."],
+          ["speaker-a", "Friseurin", "Ich empfehle eine pflegende Spülung zusätzlich."],
+          ["speaker-b", "Kundin", "Was kostet die denn?"],
+          ["speaker-a", "Friseurin", "Acht Euro, das ist es aber wert."],
+          ["speaker-b", "Kundin", "Gut, machen Sie das."],
+          ["speaker-a", "Friseurin", "Und ein paar Strähnchen würden Ihnen stehen."],
+          ["speaker-b", "Kundin", "Vielleicht beim nächsten Mal."],
+          ["speaker-a", "Friseurin", "In Ordnung. Dann föhnen wir jetzt."],
+          ["speaker-b", "Kundin", "Vielen Dank, es sieht toll aus."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the train station — buying a ticket",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Reisender", "Entschuldigung, wo kaufe ich eine Fahrkarte?"],
+          ["speaker-b", "Mitarbeiter", "Am Automaten oder am Schalter."],
+          ["speaker-a", "Reisender", "Ich nehme den Automaten. Eine Fahrkarte nach Hamburg."],
+          ["speaker-b", "Mitarbeiter", "Einfach oder hin und zurück?"],
+          ["speaker-a", "Reisender", "Hin und zurück, bitte."],
+          ["speaker-b", "Mitarbeiter", "Erster oder zweiter Klasse?"],
+          ["speaker-a", "Reisender", "Zweite Klasse."],
+          ["speaker-b", "Mitarbeiter", "Mit ICE oder Regionalzug?"],
+          ["speaker-a", "Reisender", "ICE ist schneller."],
+          ["speaker-b", "Mitarbeiter", "Das macht 78 Euro."],
+          ["speaker-a", "Reisender", "Kann ich mit EC-Karte zahlen?"],
+          ["speaker-b", "Mitarbeiter", "Ja, stecken Sie die Karte hier rein."],
+          ["speaker-a", "Reisender", "Danke. Von welchem Gleis fährt der Zug?"],
+          ["speaker-b", "Mitarbeiter", "Gleis 4, in 20 Minuten."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Guten Tag, ich möchte eine BahnCard kaufen."],
+          ["speaker-b", "Schalterbeamter", "Die BahnCard 25 oder 50?"],
+          ["speaker-a", "Kundin", "Was ist der Unterschied?"],
+          ["speaker-b", "Schalterbeamter", "Bei der 25 sparen Sie 25 Prozent, bei der 50 die Hälfte."],
+          ["speaker-a", "Kundin", "Und was kosten die?"],
+          ["speaker-b", "Schalterbeamter", "Die 25 kostet 62 Euro im Jahr, die 50 kostet 244 Euro."],
+          ["speaker-a", "Kundin", "Ich reise nur gelegentlich, dann die 25."],
+          ["speaker-b", "Schalterbeamter", "Gute Wahl. Ein Passfoto und Ihr Ausweis bitte."],
+          ["speaker-a", "Kundin", "Hier, alles dabei."],
+          ["speaker-b", "Schalterbeamter", "So, die Karte ist ab morgen gültig."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Reisender", "Mein Zug ist ausgefallen. Was mache ich jetzt?"],
+          ["speaker-b", "Servicekraft", "Wann sollte er fahren?"],
+          ["speaker-a", "Reisender", "Vor zehn Minuten nach Frankfurt."],
+          ["speaker-b", "Servicekraft", "Die nächste Verbindung geht in einer Stunde."],
+          ["speaker-a", "Reisender", "Kann ich mit demselben Ticket fahren?"],
+          ["speaker-b", "Servicekraft", "Bei Ausfall ist die Zugbindung aufgehoben, ja."],
+          ["speaker-a", "Reisender", "Gut, dann nehme ich den nächsten Zug."],
+          ["speaker-b", "Servicekraft", "Falls Sie länger warten, bekommen Sie einen Gutschein fürs Café."],
+          ["speaker-a", "Reisender", "Das ist nett. Wo ist das Café?"],
+          ["speaker-b", "Servicekraft", "Gleich am Gleis 1."],
+          ["speaker-a", "Reisender", "Vielen Dank für die Hilfe."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Job interview",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Personalchefin", "Guten Tag, Herr Müller. Nehmen Sie Platz."],
+          ["speaker-b", "Bewerber", "Guten Tag, Frau Schneider. Vielen Dank für die Einladung."],
+          ["speaker-a", "Personalchefin", "Erzählen Sie etwas über sich."],
+          ["speaker-b", "Bewerber", "Ich bin 28 Jahre alt und habe Betriebswirtschaft studiert."],
+          ["speaker-a", "Personalchefin", "Warum möchten Sie bei uns arbeiten?"],
+          ["speaker-b", "Bewerber", "Ihr Unternehmen ist innovativ und wächst stark."],
+          ["speaker-a", "Personalchefin", "Was sind Ihre Stärken?"],
+          ["speaker-b", "Bewerber", "Ich bin teamfähig und arbeite sehr genau."],
+          ["speaker-a", "Personalchefin", "Und Ihre Schwächen?"],
+          ["speaker-b", "Bewerber", "Manchmal bin ich zu perfektionistisch."],
+          ["speaker-a", "Personalchefin", "Welche Gehaltsvorstellung haben Sie?"],
+          ["speaker-b", "Bewerber", "Etwa 45.000 Euro brutto im Jahr."],
+          ["speaker-a", "Personalchefin", "Wann könnten Sie anfangen?"],
+          ["speaker-b", "Bewerber", "Ab dem ersten nächsten Monats."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Abteilungsleiter", "Frau Weber, schön dass Sie da sind."],
+          ["speaker-b", "Bewerberin", "Danke für die Gelegenheit, mich vorzustellen."],
+          ["speaker-a", "Abteilungsleiter", "Sie haben fünf Jahre Erfahrung im Marketing?"],
+          ["speaker-b", "Bewerberin", "Ja, zuletzt als Teamleiterin bei einer Agentur."],
+          ["speaker-a", "Abteilungsleiter", "Wie gehen Sie mit Stress um?"],
+          ["speaker-b", "Bewerberin", "Ich priorisiere Aufgaben und kommuniziere frühzeitig."],
+          ["speaker-a", "Abteilungsleiter", "Haben Sie Führungserfahrung?"],
+          ["speaker-b", "Bewerberin", "Ich habe ein Team von vier Personen geleitet."],
+          ["speaker-a", "Abteilungsleiter", "Und mit schwierigen Kunden?"],
+          ["speaker-b", "Bewerberin", "Ich bleibe ruhig und suche eine gemeinsame Lösung."],
+          ["speaker-a", "Abteilungsleiter", "Gut. Wir melden uns nächste Woche."],
+          ["speaker-b", "Bewerberin", "Vielen Dank, ich freue mich darauf."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "GF", "Herr Yilmaz, Sie sprechen drei Sprachen fließend."],
+          ["speaker-b", "Bewerber", "Deutsch, Türkisch und Englisch."],
+          ["speaker-a", "GF", "Das ist ein großer Vorteil für unsere internationale Abteilung."],
+          ["speaker-b", "Bewerber", "Ich arbeite gerne im multikulturellen Umfeld."],
+          ["speaker-a", "GF", "Wie würden Sie einen Konflikt im Team lösen?"],
+          ["speaker-b", "Bewerber", "Erst zuhören, dann gemeinsam Optionen besprechen."],
+          ["speaker-a", "GF", "Sehen Sie sich eher als Führungskraft oder Fachexperte?"],
+          ["speaker-b", "Bewerber", "Mittelfristig strebe ich eine Führungsrolle an."],
+          ["speaker-a", "GF", "Haben Sie Fragen an uns?"],
+          ["speaker-b", "Bewerber", "Wie sieht die Einarbeitung aus?"],
+          ["speaker-a", "GF", "Sie bekommen einen Mentor für drei Monate."],
+          ["speaker-b", "Bewerber", "Das klingt sehr gut durchdacht."],
+          ["speaker-a", "GF", "Wir geben Ihnen bis Freitag Bescheid."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Calling in sick to work",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Chef", "Firma Meier, Schmidt am Apparat."],
+          ["speaker-b", "Mitarbeiter", "Guten Morgen, hier ist Weber."],
+          ["speaker-a", "Chef", "Guten Morgen, Herr Weber."],
+          ["speaker-b", "Mitarbeiter", "Ich kann heute leider nicht kommen."],
+          ["speaker-a", "Chef", "Was fehlt Ihnen?"],
+          ["speaker-b", "Mitarbeiter", "Ich habe eine starke Erkältung."],
+          ["speaker-a", "Chef", "Das tut mir leid. Bleiben Sie im Bett."],
+          ["speaker-b", "Mitarbeiter", "Ich gehe heute zum Arzt."],
+          ["speaker-a", "Chef", "Gut, bringen Sie die Krankschreibung mit."],
+          ["speaker-b", "Mitarbeiter", "Melde ich mich morgen wieder?"],
+          ["speaker-a", "Chef", "Ja, geben Sie mir kurz Bescheid."],
+          ["speaker-b", "Mitarbeiter", "Mache ich. Danke und auf Wiederhören."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kollegin", "Hallo Lisa, hier ist Jana aus der Buchhaltung."],
+          ["speaker-b", "Mitarbeiterin", "Hallo Jana. Geht es um das Projekt?"],
+          ["speaker-a", "Kollegin", "Nein, ich muss mich krankmelden."],
+          ["speaker-b", "Mitarbeiterin", "Oh nein, was hast du?"],
+          ["speaker-a", "Kollegin", "Fieber und Halsschmerzen."],
+          ["speaker-b", "Mitarbeiterin", "Hoffentlich kein Corona."],
+          ["speaker-a", "Kollegin", "Ich mache heute einen Test."],
+          ["speaker-b", "Mitarbeiterin", "Gute Besserung! Wer übernimmt deine Aufgaben?"],
+          ["speaker-a", "Kollegin", "Kannst du Tom Bescheid sagen?"],
+          ["speaker-b", "Mitarbeiterin", "Klar, ich kümmere mich darum."],
+          ["speaker-a", "Kollegin", "Danke, du bist ein Schatz."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Vorgesetzte", "Personalabteilung, Müller."],
+          ["speaker-b", "Angestellter", "Hier ist Kowalski. Ich bin heute krank."],
+          ["speaker-a", "Vorgesetzte", "Seit wann haben Sie Beschwerden?"],
+          ["speaker-b", "Angestellter", "Seit gestern Abend. Ich habe Rückenschmerzen."],
+          ["speaker-a", "Vorgesetzte", "Waren Sie schon beim Orthopäden?"],
+          ["speaker-b", "Angestellter", "Ich habe um 11 Uhr einen Termin."],
+          ["speaker-a", "Vorgesetzte", "Schicken Sie uns die AU bis übermorgen."],
+          ["speaker-b", "Angestellter", "Soll ich per E-Mail Bescheid geben?"],
+          ["speaker-a", "Vorgesetzte", "Ja, und leiten Sie dringende Mails weiter."],
+          ["speaker-b", "Angestellter", "Mache ich sofort. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the gym",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Trainer", "Hallo, bist du neu hier?"],
+          ["speaker-b", "Neuling", "Ja, ich möchte mich anmelden."],
+          ["speaker-a", "Trainer", "Komm, ich zeige dir den Studio."],
+          ["speaker-b", "Neuling", "Danke. Welche Kurse gibt es?"],
+          ["speaker-a", "Trainer", "Yoga, Zumba, Bodypump und mehr."],
+          ["speaker-b", "Neuling", "Wann ist der Yoga-Kurs?"],
+          ["speaker-a", "Trainer", "Montag und Mittwoch um 18 Uhr."],
+          ["speaker-b", "Neuling", "Das passt gut. Was kostet die Mitgliedschaft?"],
+          ["speaker-a", "Trainer", "29,90 Euro im Monat."],
+          ["speaker-b", "Neuling", "Gibt es einen Vertrag mit fester Laufzeit?"],
+          ["speaker-a", "Trainer", "Mindestens zwölf Monate."],
+          ["speaker-b", "Neuling", "Okay, ich unterschreibe."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Mitglied", "Entschuldigung, wie benutze ich dieses Gerät?"],
+          ["speaker-b", "Trainer", "Das ist die Beinpresse. Ich stelle sie dir ein."],
+          ["speaker-a", "Mitglied", "Danke, ich kenne mich noch nicht so aus."],
+          ["speaker-b", "Trainer", "Kein Problem. Wichtig ist die richtige Haltung."],
+          ["speaker-a", "Mitglied", "Kannst du mir einen Trainingsplan erstellen?"],
+          ["speaker-b", "Trainer", "Klar. Was ist dein Ziel?"],
+          ["speaker-a", "Mitglied", "Ich möchte abnehmen und Muskeln aufbauen."],
+          ["speaker-b", "Trainer", "Dann machen wir einen Mix aus Kraft und Cardio."],
+          ["speaker-a", "Mitglied", "Wie oft soll ich trainieren?"],
+          ["speaker-b", "Trainer", "Drei- bis viermal pro Woche."],
+          ["speaker-a", "Mitglied", "Alles klar, ich bin motiviert."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kursleiterin", "Willkommen zum Spinning-Kurs. Ist dein erstes Mal?"],
+          ["speaker-b", "Teilnehmerin", "Ja, ich bin etwas nervös."],
+          ["speaker-a", "Kursleiterin", "Keine Sorge. Stell den Sattel auf Hüfthöhe."],
+          ["speaker-b", "Teilnehmerin", "So?"],
+          ["speaker-a", "Kursleiterin", "Perfekt. Und trink genug Wasser."],
+          ["speaker-b", "Teilnehmerin", "Wie lange dauert der Kurs?"],
+          ["speaker-a", "Kursleiterin", "45 Minuten. Wir fahren in drei Stufen."],
+          ["speaker-b", "Teilnehmerin", "Was meinst du mit Stufen?"],
+          ["speaker-a", "Kursleiterin", "Anfahrt, Bergfahrt und Sprint."],
+          ["speaker-b", "Teilnehmerin", "Das klingt anstrengend."],
+          ["speaker-a", "Kursleiterin", "Es wird sich lohnen. Bist du bereit?"],
+          ["speaker-b", "Teilnehmerin", "Ja, los gehts!"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the cinema",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kassierer", "Guten Abend. Was möchten Sie sehen?"],
+          ["speaker-b", "Besucher", "Zwei Karten für den neuen Bond-Film, bitte."],
+          ["speaker-a", "Kassierer", "Für welche Vorstellung?"],
+          ["speaker-b", "Besucher", "Um 20:15 Uhr."],
+          ["speaker-a", "Kassierer", "In der ersten oder zweiten Reihe?"],
+          ["speaker-b", "Besucher", "Mitte, Reihe 7 bitte."],
+          ["speaker-a", "Kassierer", "Das macht 24 Euro."],
+          ["speaker-b", "Besucher", "Gibt es Ermäßigung für Studenten?"],
+          ["speaker-a", "Kassierer", "Ja, mit Ausweis nur 18 Euro."],
+          ["speaker-b", "Besucher", "Hier mein Studentenausweis."],
+          ["speaker-a", "Kassierer", "Danke. Möchten Sie Popcorn oder Nachos?"],
+          ["speaker-b", "Besucher", "Ein großes Popcorn und zwei Cola, bitte."],
+          ["speaker-a", "Kassierer", "Saal 3, viel Spaß!"],
+          ["speaker-b", "Besucher", "Danke, gleichfalls."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Freundin", "Wollen wir ins Kino gehen?"],
+          ["speaker-b", "Freund", "Gute Idee. Was läuft denn?"],
+          ["speaker-a", "Freundin", "Der neue Animationsfilm soll toll sein."],
+          ["speaker-b", "Freund", "Ich stehe mehr auf Thriller."],
+          ["speaker-a", "Freundin", "Na gut, dann der Thriller um 19:30 Uhr?"],
+          ["speaker-b", "Freund", "Einverstanden. Original oder synchronisiert?"],
+          ["speaker-a", "Freundin", "Besser auf Deutsch, dann verstehe ich alles."],
+          ["speaker-b", "Freund", "Ich hole die Tickets online, ist billiger."],
+          ["speaker-a", "Freundin", "Gute Idee. Treffen wir uns um 19 Uhr davor?"],
+          ["speaker-b", "Freund", "Ja, ich freue mich schon."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Besucher", "Entschuldigung, das ist mein Platz."],
+          ["speaker-b", "Fremder", "Oh, habe ich mich vertan?"],
+          ["speaker-a", "Besucher", "Reihe 7, Platz 12 — das ist meiner."],
+          ["speaker-b", "Fremder", "Ich habe Reihe 7, Platz 14."],
+          ["speaker-a", "Besucher", "Dann gehören die zwei Plätze auch zu Ihnen?"],
+          ["speaker-b", "Fremder", "Nein, ich bin allein. Entschuldigung."],
+          ["speaker-a", "Besucher", "Kein Problem. Viel Spaß beim Film."],
+          ["speaker-b", "Fremder", "Danke, Ihnen auch."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the clothing store",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäuferin", "Kann ich Ihnen helfen?"],
+          ["speaker-b", "Kundin", "Ich suche ein Sommerkleid."],
+          ["speaker-a", "Verkäuferin", "Welche Größe haben Sie?"],
+          ["speaker-b", "Kundin", "Größe 38."],
+          ["speaker-a", "Verkäuferin", "Hier sind ein paar Modelle in 38."],
+          ["speaker-b", "Kundin", "Das Blaue gefällt mir. Kann ich es anprobieren?"],
+          ["speaker-a", "Verkäuferin", "Natürlich, die Umkleide ist dort hinten."],
+          ["speaker-b", "Kundin", "Danke. Haben Sie auch einen Gürtel dazu?"],
+          ["speaker-a", "Verkäuferin", "Ja, in der Accessoires-Abteilung."],
+          ["speaker-b", "Kundin", "Super, ich probiere beides."],
+          ["speaker-a", "Verkäuferin", "Passt es?"],
+          ["speaker-b", "Kundin", "Perfekt. Ich nehme es."],
+          ["speaker-a", "Verkäuferin", "Das macht 49,90 Euro."],
+          ["speaker-b", "Kundin", "Hier bitte, mit Karte."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Entschuldigung, ich suche einen Anzug."],
+          ["speaker-b", "Verkäufer", "Für einen bestimmten Anlass?"],
+          ["speaker-a", "Kunde", "Ja, eine Hochzeit im Sommer."],
+          ["speaker-b", "Verkäufer", "Dann empfehle ich einen leichten Stoff, Leinen oder Baumwolle."],
+          ["speaker-a", "Kunde", "Haben Sie etwas in Marineblau?"],
+          ["speaker-b", "Verkäufer", "Dieser hier ist ein Bestseller."],
+          ["speaker-a", "Kunde", "Darf ich die Hose anprobieren?"],
+          ["speaker-b", "Verkäufer", "Ja, ich bringe Ihnen auch das passende Hemd."],
+          ["speaker-a", "Kunde", "Die Hose ist etwas lang."],
+          ["speaker-b", "Verkäufer", "Wir haben einen Änderungsdienst, das dauert zwei Tage."],
+          ["speaker-a", "Kunde", "Perfekt, dann nehme ich den Anzug."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte dieses Kleid zurückgeben."],
+          ["speaker-b", "Verkäuferin", "Haben Sie den Kassenbon?"],
+          ["speaker-a", "Kundin", "Ja, hier ist er."],
+          ["speaker-b", "Verkäuferin", "Wann haben Sie es gekauft?"],
+          ["speaker-a", "Kundin", "Vor fünf Tagen. Es passt leider nicht."],
+          ["speaker-b", "Verkäuferin", "War das Etikett noch dran?"],
+          ["speaker-a", "Kundin", "Ja, das Etikett ist noch dran."],
+          ["speaker-b", "Verkäuferin", "Dann kann ich es zurücknehmen."],
+          ["speaker-a", "Kundin", "Bekommen ich das Geld zurück?"],
+          ["speaker-b", "Verkäuferin", "Ja, auf demselben Weg wie bezahlt."],
+          ["speaker-a", "Kundin", "Danke, das ist sehr kulant."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the farmer's market",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäufer", "Frische Erdbeeren! Kommen Sie näher!"],
+          ["speaker-b", "Kundin", "Was kostet ein Korb?"],
+          ["speaker-a", "Verkäufer", "Drei Euro. Sehr süß!"],
+          ["speaker-b", "Kundin", "Ich nehme zwei Körbe."],
+          ["speaker-a", "Verkäufer", "Das macht sechs Euro. Noch etwas?"],
+          ["speaker-b", "Kundin", "Haben Sie auch Tomaten?"],
+          ["speaker-a", "Verkäufer", "Ja, direkt aus der Region."],
+          ["speaker-b", "Kundin", "Ein Kilo, bitte."],
+          ["speaker-a", "Verkäufer", "Hier, 2,50 Euro. Sonst noch was?"],
+          ["speaker-b", "Kundin", "Das reicht. Insgesamt 8,50 Euro, richtig?"],
+          ["speaker-a", "Verkäufer", "Genau. Vielen Dank und bis nächste Woche."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Guten Morgen. Sind die Eier bio?"],
+          ["speaker-b", "Bäuerin", "Ja, von unseren freilaufenden Hühnern."],
+          ["speaker-a", "Kunde", "Wie viele Eier sind in einer Packung?"],
+          ["speaker-b", "Bäuerin", "Zehn Stück für 3,80 Euro."],
+          ["speaker-a", "Kunde", "Gut, zwei Packungen bitte."],
+          ["speaker-b", "Bäuerin", "Möchten Sie auch unseren Honig probieren?"],
+          ["speaker-a", "Kunde", "Oh ja, darf ich kosten?"],
+          ["speaker-b", "Bäuerin", "Natürlich, hier auf einem Löffel."],
+          ["speaker-a", "Kunde", "Der schmeckt wunderbar. Ein Glas nehme ich mit."],
+          ["speaker-b", "Bäuerin", "Das macht dann 9,30 Euro insgesamt."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Marktbesucher", "Entschuldigung, wo finde ich den Käsewagen?"],
+          ["speaker-b", "Händler", "Ganz hinten links, neben dem Brotstand."],
+          ["speaker-a", "Marktbesucher", "Danke. Und gibt es hier auch frische Kräuter?"],
+          ["speaker-b", "Händler", "Ja, bei mir. Petersilie, Basilikum, Dill."],
+          ["speaker-a", "Marktbesucher", "Ich nehme einen Bund Basilikum."],
+          ["speaker-b", "Händler", "Ein Euro. Im Topf hält er länger."],
+          ["speaker-a", "Marktbesucher", "Gute Idee, dann den Topf für drei Euro."],
+          ["speaker-b", "Händler", "So haben Sie länger was davon."],
+          ["speaker-a", "Marktbesucher", "Sie verkaufen auch Olivenöl, sehe ich."],
+          ["speaker-b", "Händler", "Aus Griechenland, extra nativ. Möchten Sie probieren?"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the pharmacy — prescription",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Apothekerin", "Guten Tag, Sie wünschen?"],
+          ["speaker-b", "Kunde", "Ich habe ein Rezept vom Arzt."],
+          ["speaker-a", "Apothekerin", "Geben Sie es mir bitte."],
+          ["speaker-b", "Kunde", "Hier. Wie lange dauert es?"],
+          ["speaker-a", "Apothekerin", "Etwa zehn Minuten."],
+          ["speaker-b", "Kunde", "Gut, ich warte."],
+          ["speaker-a", "Apothekerin", "Nehmen Sie das Medikament dreimal täglich."],
+          ["speaker-b", "Kunde", "Vor oder nach dem Essen?"],
+          ["speaker-a", "Apothekerin", "Nach dem Essen mit viel Wasser."],
+          ["speaker-b", "Kunde", "Gibt es Nebenwirkungen?"],
+          ["speaker-a", "Apothekerin", "Es kann müde machen. Fahren Sie nicht Auto."],
+          ["speaker-b", "Kunde", "Alles klar. Was kostet die Zuzahlung?"],
+          ["speaker-a", "Apothekerin", "Fünf Euro."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich habe starke Halsschmerzen."],
+          ["speaker-b", "Apotheker", "Seit wann?"],
+          ["speaker-a", "Kundin", "Seit zwei Tagen."],
+          ["speaker-b", "Apotheker", "Haben Sie Fieber?"],
+          ["speaker-a", "Kundin", "Ein bisschen, 37,8."],
+          ["speaker-b", "Apotheker", "Ich gebe Ihnen Lutschtabletten und ein Spray."],
+          ["speaker-a", "Kundin", "Kann ich trotzdem arbeiten?"],
+          ["speaker-b", "Apotheker", "Wenn es nicht besser wird, gehen Sie zum Arzt."],
+          ["speaker-a", "Kundin", "Das Spray nehme ich direkt mit."],
+          ["speaker-b", "Apotheker", "Davon drei Sprühstöße alle vier Stunden."],
+          ["speaker-a", "Kundin", "Danke für die Beratung."],
+          ["speaker-b", "Apotheker", "Gute Besserung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Apothekerin", "Haben Sie das Medikament schon einmal genommen?"],
+          ["speaker-b", "Patient", "Nein, es ist neu für mich."],
+          ["speaker-a", "Apothekerin", "Es ist ein Antibiotikum. Wichtig: die ganze Packung nehmen."],
+          ["speaker-b", "Patient", "Auch wenn ich mich besser fühle?"],
+          ["speaker-a", "Apothekerin", "Ja, sonst wirkt es beim nächsten Mal nicht mehr."],
+          ["speaker-b", "Patient", "Verstehe. Verträgt es sich mit Alkohol?"],
+          ["speaker-a", "Apothekerin", "Auf keinen Fall Alkohol während der Einnahme."],
+          ["speaker-b", "Patient", "Gut zu wissen. Danke für die Aufklärung."],
+          ["speaker-a", "Apothekerin", "Das ist meine Aufgabe. Gute Besserung."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Taking a taxi",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Fahrgast", "Taxi!"],
+          ["speaker-b", "Fahrer", "Guten Tag. Wohin soll es gehen?"],
+          ["speaker-a", "Fahrgast", "Zum Hauptbahnhof, bitte."],
+          ["speaker-b", "Fahrer", "Gut. Schnallen Sie sich an."],
+          ["speaker-a", "Fahrgast", "Wie lange dauert es etwa?"],
+          ["speaker-b", "Fahrer", "Bei diesem Verkehr etwa 15 Minuten."],
+          ["speaker-a", "Fahrgast", "Können Sie hier kurz warten? Ich hole noch etwas."],
+          ["speaker-b", "Fahrer", "Klar, aber die Uhr läuft weiter."],
+          ["speaker-a", "Fahrgast", "Ist in Ordnung."],
+          ["speaker-b", "Fahrer", "So, wir sind da. Das macht 18,50 Euro."],
+          ["speaker-a", "Fahrgast", "Hier sind 20 Euro. Stimmt so."],
+          ["speaker-b", "Fahrer", "Danke, eine gute Fahrt noch."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Fahrerin", "Guten Abend. Zum Flughafen?"],
+          ["speaker-b", "Passagierin", "Ja, Terminal 1 bitte."],
+          ["speaker-a", "Fahrerin", "Welche Fluggesellschaft?"],
+          ["speaker-b", "Passagierin", "Lufthansa."],
+          ["speaker-a", "Fahrerin", "Alles klar. Ihr Flug geht wann?"],
+          ["speaker-b", "Passagierin", "Um 21 Uhr. Bin ich rechtzeitig da?"],
+          ["speaker-a", "Fahrerin", "Ja, wir brauchen etwa 30 Minuten."],
+          ["speaker-b", "Passagierin", "Dann bin ich beruhigt."],
+          ["speaker-a", "Fahrerin", "Können Sie eine Quittung brauchen?"],
+          ["speaker-b", "Passagierin", "Ja, bitte für die Reisekosten."],
+          ["speaker-a", "Fahrerin", "Hier, 34 Euro. Guten Flug."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Fahrgast", "Entschuldigung, ich habe mein Handy im Taxi verloren."],
+          ["speaker-b", "Zentrale", "Wann sind Sie gefahren?"],
+          ["speaker-a", "Fahrgast", "Vor etwa einer Stunde, vom Alexanderplatz."],
+          ["speaker-b", "Zentrale", "Können Sie das Kennzeichen nennen?"],
+          ["speaker-a", "Fahrgast", "Leider nicht. Es war ein weißes Auto."],
+          ["speaker-b", "Zentrale", "Wir fragen alle Fahrer. Ihre Nummer?"],
+          ["speaker-a", "Fahrgast", "0176 12345678."],
+          ["speaker-b", "Zentrale", "Wir rufen Sie zurück, sobald es gefunden wurde."],
+          ["speaker-a", "Fahrgast", "Vielen Dank, ich hoffe sehr."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At a café",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kellnerin", "Guten Tag. Was darf es sein?"],
+          ["speaker-b", "Gast", "Einen Cappuccino, bitte."],
+          ["speaker-a", "Kellnerin", "Mit Kuhmilch oder Hafermilch?"],
+          ["speaker-b", "Gast", "Mit Hafermilch."],
+          ["speaker-a", "Kellnerin", "Möchten Sie auch etwas essen?"],
+          ["speaker-b", "Gast", "Haben Sie Kuchen?"],
+          ["speaker-a", "Kellnerin", "Ja, Apfelkuchen und Schokokuchen."],
+          ["speaker-b", "Gast", "Ein Stück Apfelkuchen, bitte."],
+          ["speaker-a", "Kellnerin", "Sonst noch etwas?"],
+          ["speaker-b", "Gast", "Nein, danke."],
+          ["speaker-a", "Kellnerin", "Macht 7,20 Euro."],
+          ["speaker-b", "Gast", "Hier, stimmt so."],
+          ["speaker-a", "Kellnerin", "Danke, einen schönen Tag noch."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Entschuldigung, ich warte schon lange."],
+          ["speaker-b", "Kellner", "Oh, das tut mir leid. Was hatten Sie bestellt?"],
+          ["speaker-a", "Gast", "Einen Latte Macchiato und ein Croissant."],
+          ["speaker-b", "Kellner", "Ich bringe es sofort. Geht aufs Haus."],
+          ["speaker-a", "Gast", "Das ist sehr nett, danke."],
+          ["speaker-b", "Kellner", "Hier bitte, und ein Stück Kuchen als Entschuldigung."],
+          ["speaker-a", "Gast", "Oh, vielen Dank, das war nicht nötig."],
+          ["speaker-b", "Kellner", "Ist selbstverständlich. Guten Appetit."],
+          ["speaker-a", "Gast", "Das nenne ich guten Service!"],
+          ["speaker-b", "Kellner", "Melden Sie sich, wenn Sie noch etwas brauchen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Freundin1", "Wie findest du dieses Café?"],
+          ["speaker-b", "Freundin2", "Sehr gemütlich, die Einrichtung ist schön."],
+          ["speaker-a", "Freundin1", "Der Kaffee soll hier ausgezeichnet sein."],
+          ["speaker-b", "Freundin2", "Ich nehme einen Espresso, und du?"],
+          ["speaker-a", "Freundin1", "Einen Flat White mit Sojamilch."],
+          ["speaker-b", "Freundin2", "Hast du den neuen Job schon?"],
+          ["speaker-a", "Freundin1", "Ja, ich fange nächsten Monat an."],
+          ["speaker-b", "Freundin2", "Herzlichen Glückwunsch! Das müssen wir feiern."],
+          ["speaker-a", "Freundin1", "Noch einen Kuchen dazu?"],
+          ["speaker-b", "Freundin2", "Gute Idee, ich lade dich ein."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the Bürgeramt — registering",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Beamtin", "Guten Tag, Ihren Termin bitte."],
+          ["speaker-b", "Bürger", "Ich habe einen Termin um 10:30 Uhr."],
+          ["speaker-a", "Beamtin", "Name?"],
+          ["speaker-b", "Bürger", "Meier, Thomas."],
+          ["speaker-a", "Beamtin", "Womit kann ich helfen?"],
+          ["speaker-b", "Bürger", "Ich möchte mich anmelden, ich bin umgezogen."],
+          ["speaker-a", "Beamtin", "Die Wohnungsgeberbestätigung bitte."],
+          ["speaker-b", "Bürger", "Hier, vom Vermieter unterschrieben."],
+          ["speaker-a", "Beamtin", "Personalausweis auch."],
+          ["speaker-b", "Bürger", "Bitte sehr."],
+          ["speaker-a", "Beamtin", "Alles in Ordnung. Sie sind jetzt hier gemeldet."],
+          ["speaker-b", "Bürger", "Danke. Bekomme ich eine Bestätigung?"],
+          ["speaker-a", "Beamtin", "Die Meldebescheinigung drucke ich Ihnen aus."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Beamter", "Guten Tag. Sie möchten einen Pass beantragen?"],
+          ["speaker-b", "Bürgerin", "Ja, meiner ist abgelaufen."],
+          ["speaker-a", "Beamter", "Ein biometrisches Passfoto ist nötig."],
+          ["speaker-b", "Bürgerin", "Ich habe eins dabei."],
+          ["speaker-a", "Beamter", "Der alte Pass, bitte."],
+          ["speaker-b", "Bürgerin", "Hier. Wie lange dauert es?"],
+          ["speaker-a", "Beamter", "Etwa vier Wochen. Express geht schneller."],
+          ["speaker-b", "Bürgerin", "Was kostet Express?"],
+          ["speaker-a", "Beamter", "32 Euro extra. Insgesamt 92 Euro."],
+          ["speaker-b", "Bürgerin", "Normal reicht. Ich warte."],
+          ["speaker-a", "Beamter", "Gut. Ihr neuer Pass kommt per Post."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Bürger", "Ich möchte heiraten. Was brauche ich?"],
+          ["speaker-b", "Standesbeamtin", "Eine Geburtsurkunde und den Personalausweis."],
+          ["speaker-a", "Bürger", "Meine Verlobte ist aus Spanien."],
+          ["speaker-b", "Standesbeamtin", "Dann brauchen wir weitere Dokumente."],
+          ["speaker-a", "Bürger", "Welche genau?"],
+          ["speaker-b", "Standesbeamtin", "Eine beglaubigte Übersetzung ihrer Geburtsurkunde."],
+          ["speaker-a", "Bürger", "Und eine Aufenthaltsbescheinigung?"],
+          ["speaker-b", "Standesbeamtin", "Ja, und das Ehefähigkeitszeugnis aus Spanien."],
+          ["speaker-a", "Bürger", "Das klingt nach viel Papierkram."],
+          ["speaker-b", "Standesbeamtin", "Leider ja. Aber wir helfen Ihnen dabei."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Renting an apartment",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Vermieter", "Guten Tag, Sie sind wegen der Wohnung hier?"],
+          ["speaker-b", "Interessentin", "Ja, ich habe den Termin um 15 Uhr."],
+          ["speaker-a", "Vermieter", "Kommen Sie rein. Die Wohnung ist im zweiten Stock."],
+          ["speaker-b", "Interessentin", "Oh, sie ist hell und schön."],
+          ["speaker-a", "Vermieter", "65 Quadratmeter, zwei Zimmer, Küche, Bad."],
+          ["speaker-b", "Interessentin", "Was kostet die Kaltmiete?"],
+          ["speaker-a", "Vermieter", "580 Euro kalt."],
+          ["speaker-b", "Interessentin", "Und warm?"],
+          ["speaker-a", "Vermieter", "Mit Nebenkosten etwa 720 Euro."],
+          ["speaker-b", "Interessentin", "Ist ein Keller dabei?"],
+          ["speaker-a", "Vermieter", "Ja, und ein Fahrradkeller."],
+          ["speaker-b", "Interessentin", "Die Wohnung gefällt mir. Wann kann ich einziehen?"],
+          ["speaker-a", "Vermieter", "Ab ersten August."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Maklerin", "Hier ist die Wohnung. Vor einem Jahr renoviert."],
+          ["speaker-b", "Paar", "Die Küche ist schon eingebaut?"],
+          ["speaker-a", "Maklerin", "Ja, komplett mit Herd und Spülmaschine."],
+          ["speaker-b", "Paar", "Das ist praktisch. Wie ist die Nachbarschaft?"],
+          ["speaker-a", "Maklerin", "Sehr ruhig. Ein Park und Supermarkt sind nah."],
+          ["speaker-b", "Paar", "Hund ist erlaubt?"],
+          ["speaker-a", "Maklerin", "Nach Absprache. Ihr Hund ist klein?"],
+          ["speaker-b", "Paar", "Ja, ein Dackel."],
+          ["speaker-a", "Maklerin", "Das sollte kein Problem sein."],
+          ["speaker-b", "Paar", "Was ist mit der Kaution?"],
+          ["speaker-a", "Maklerin", "Drei Kaltmieten, also 1.800 Euro."],
+          ["speaker-b", "Paar", "Wir nehmen die Wohnung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mieterin", "Hallo Herr Klein, die Heizung ist kaputt."],
+          ["speaker-b", "Vermieter", "Oh je. Ist es komplett kalt?"],
+          ["speaker-a", "Mieterin", "Ja, in allen Zimmern. Es ist Winter!"],
+          ["speaker-b", "Vermieter", "Ich schicke morgen einen Handwerker."],
+          ["speaker-a", "Mieterin", "Kann es heute noch jemand kommen?"],
+          ["speaker-b", "Vermieter", "Ich rufe den Notdienst an."],
+          ["speaker-a", "Mieterin", "Danke. Wie läuft das mit den Kosten?"],
+          ["speaker-b", "Vermieter", "Das übernehme ich."],
+          ["speaker-a", "Mieterin", "Zum Glück. Es sind nur 12 Grad in der Wohnung."],
+          ["speaker-b", "Vermieter", "Der Handwerker kommt in einer Stunde."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the emergency room",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Schwester", "Guten Abend. Was ist passiert?"],
+          ["speaker-b", "Patient", "Ich bin hingefallen, mein Arm tut sehr weh."],
+          ["speaker-a", "Schwester", "Können Sie den Arm bewegen?"],
+          ["speaker-b", "Patient", "Nein, es geht nicht."],
+          ["speaker-a", "Schwester", "Ich rufe sofort den Arzt. Ihre Krankenkarte bitte."],
+          ["speaker-b", "Patient", "Hier, in meiner Tasche."],
+          ["speaker-a", "Schwester", "Warten Sie kurz. Tut es sehr weh?"],
+          ["speaker-b", "Patient", "Ja, starke Schmerzen."],
+          ["speaker-a", "Schwester", "Auf einer Skala von eins bis zehn?"],
+          ["speaker-b", "Patient", "Acht."],
+          ["speaker-a", "Schwester", "Ich bringe Ihnen etwas gegen die Schmerzen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Notärztin", "Herr Meier, Sie hatten einen Autounfall."],
+          ["speaker-b", "Patient", "Wo bin ich? Was ist passiert?"],
+          ["speaker-a", "Notärztin", "Sie sind im Krankenhaus. Ein Auffahrunfall."],
+          ["speaker-b", "Patient", "Hatte ich den Gurt an?"],
+          ["speaker-a", "Notärztin", "Ja, das hat Schlimmeres verhindert."],
+          ["speaker-b", "Patient", "Habe ich etwas gebrochen?"],
+          ["speaker-a", "Notärztin", "Wir machen ein CT. Bleiben Sie ruhig."],
+          ["speaker-b", "Patient", "Muss ich operiert werden?"],
+          ["speaker-a", "Notärztin", "Das sehen wir nach den Aufnahmen."],
+          ["speaker-b", "Patient", "Können Sie meine Frau anrufen?"],
+          ["speaker-a", "Notärztin", "Ja, geben Sie mir die Nummer."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mutter", "Mein Kind hat hohes Fieber und atmet schwer."],
+          ["speaker-b", "Kinderärztin", "Seit wann?"],
+          ["speaker-a", "Mutter", "Seit heute Nacht. Es wurde immer schlimmer."],
+          ["speaker-b", "Kinderärztin", "Hat es getrunken?"],
+          ["speaker-a", "Mutter", "Kaum. Es ist so schlapp."],
+          ["speaker-b", "Kinderärztin", "Wir behalten es über Nacht hier."],
+          ["speaker-a", "Mutter", "Ist es etwas Ernstes?"],
+          ["speaker-b", "Kinderärztin", "Vermutlich eine schwere Bronchitis."],
+          ["speaker-a", "Mutter", "Darf ich bei ihm bleiben?"],
+          ["speaker-b", "Kinderärztin", "Selbstverständlich, wir stellen ein Bett dazu."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the gas station",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kunde", "Guten Tag. Volltanken, bitte."],
+          ["speaker-b", "Mitarbeiter", "Super oder Diesel?"],
+          ["speaker-a", "Kunde", "Super E10."],
+          ["speaker-b", "Mitarbeiter", "Geht klar. Noch etwas?"],
+          ["speaker-a", "Kunde", "Nein, das reicht."],
+          ["speaker-b", "Mitarbeiter", "Macht 62,40 Euro."],
+          ["speaker-a", "Kunde", "Mit Karte, bitte."],
+          ["speaker-b", "Mitarbeiter", "Gern. Bon?"],
+          ["speaker-a", "Kunde", "Nein, danke."],
+          ["speaker-b", "Mitarbeiter", "Gute Fahrt."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Autofahrerin", "Entschuldigung, wie prüfe ich den Reifendruck?"],
+          ["speaker-b", "Mitarbeiter", "Die Luftstation ist da drüben."],
+          ["speaker-a", "Autofahrerin", "Kostet das etwas?"],
+          ["speaker-b", "Mitarbeiter", "50 Cent. Soll ich helfen?"],
+          ["speaker-a", "Autofahrerin", "Ja, bitte. Ich kenne mich nicht aus."],
+          ["speaker-b", "Mitarbeiter", "Welcher Druck soll rein?"],
+          ["speaker-a", "Autofahrerin", "2,2 Bar steht in der Anleitung."],
+          ["speaker-b", "Mitarbeiter", "So, alle vier Reifen sind okay."],
+          ["speaker-a", "Autofahrerin", "Vielen Dank für die Hilfe."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich habe den falschen Kraftstoff getankt!"],
+          ["speaker-b", "Pächter", "Oh, Benzin statt Diesel?"],
+          ["speaker-a", "Kunde", "Ja, leider. Was soll ich tun?"],
+          ["speaker-b", "Pächter", "Nicht starten! Wir rufen den Abschleppdienst."],
+          ["speaker-a", "Kunde", "Wie teuer wird das?"],
+          ["speaker-b", "Pächter", "Das Abpumpen kostet um die 200 Euro."],
+          ["speaker-a", "Kunde", "Das ist ärgerlich."],
+          ["speaker-b", "Pächter", "Zum Glück haben Sie den Motor nicht gestartet."],
+          ["speaker-a", "Kunde", "Ja, ich habe es gleich gemerkt."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ordering food delivery",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mitarbeiter", "Pizzeria Bella, guten Abend."],
+          ["speaker-b", "Kundin", "Guten Abend. Ich möchte bestellen."],
+          ["speaker-a", "Mitarbeiter", "Gern. Was soll es sein?"],
+          ["speaker-b", "Kundin", "Eine Pizza Margherita und eine Salami bitte."],
+          ["speaker-a", "Mitarbeiter", "Welche Größe? Klein, Mittel oder Groß?"],
+          ["speaker-b", "Kundin", "Beide mittel."],
+          ["speaker-a", "Mitarbeiter", "Sonst noch etwas? Getränke?"],
+          ["speaker-b", "Kundin", "Zwei Cola, bitte."],
+          ["speaker-a", "Mitarbeiter", "Ihre Adresse?"],
+          ["speaker-b", "Kundin", "Hauptstraße 12, dritter Stock."],
+          ["speaker-a", "Mitarbeiter", "Lieferzeit etwa 30 Minuten."],
+          ["speaker-b", "Kundin", "Perfekt, danke."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Hallo, meine Bestellung ist kalt."],
+          ["speaker-b", "Manager", "Das tut mir leid. Wann haben Sie bestellt?"],
+          ["speaker-a", "Kunde", "Vor über einer Stunde. Die Pizza war kalt."],
+          ["speaker-b", "Manager", "Ich schicke Ihnen eine neue, kostenlos."],
+          ["speaker-a", "Kunde", "Wirklich? Das ist nett."],
+          ["speaker-b", "Manager", "Und einen Gutschein für die nächste Bestellung."],
+          ["speaker-a", "Kunde", "Vielen Dank. Die neue Pizza kommt auch in 30 Minuten?"],
+          ["speaker-b", "Manager", "Ja, diesmal garantiert heiß."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Liefern Sie auch vegane Gerichte?"],
+          ["speaker-b", "Restaurant", "Ja, wir haben eine vegane Bowl und Sushi."],
+          ["speaker-a", "Kundin", "Gut. Eine vegane Bowl mit Tofu bitte."],
+          ["speaker-b", "Restaurant", "Extra Sojasauce dazu?"],
+          ["speaker-a", "Kundin", "Ja, bitte. Und eine Limonade."],
+          ["speaker-b", "Restaurant", "Das macht 14,90 Euro."],
+          ["speaker-a", "Kundin", "Ich zahle online."],
+          ["speaker-b", "Restaurant", "In 25 Minuten ist das Essen bei Ihnen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the airport — check-in",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Check-in-Agent", "Guten Morgen. Ihr Ticket bitte."],
+          ["speaker-b", "Passagier", "Hier, und mein Reisepass."],
+          ["speaker-a", "Check-in-Agent", "Wie viele Gepäckstücke?"],
+          ["speaker-b", "Passagier", "Nur ein Koffer."],
+          ["speaker-a", "Check-in-Agent", "Bitte aufs Band stellen."],
+          ["speaker-b", "Passagier", "Er wiegt 18 Kilo."],
+          ["speaker-a", "Check-in-Agent", "Das ist in Ordnung. Fenster oder Gang?"],
+          ["speaker-b", "Passagier", "Gang bitte."],
+          ["speaker-a", "Check-in-Agent", "Hier Ihre Bordkarte. Gate B12."],
+          ["speaker-b", "Passagier", "Wann ist das Boarding?"],
+          ["speaker-a", "Check-in-Agent", "Um 10:30 Uhr. Guten Flug!"]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Agentin", "Ihr Koffer ist zu schwer."],
+          ["speaker-b", "Reisende", "Wirklich? Er wiegt doch nur 24 Kilo."],
+          ["speaker-a", "Agentin", "Das Limit ist 23 Kilo."],
+          ["speaker-b", "Reisende", "Was kostet das Übergepäck?"],
+          ["speaker-a", "Agentin", "15 Euro pro Kilo."],
+          ["speaker-b", "Reisende", "Kann ich schnell etwas umpacken?"],
+          ["speaker-a", "Agentin", "Ja, machen Sie das. Hier ist eine Waage."],
+          ["speaker-b", "Reisende", "So, jetzt sind es 22,8 Kilo."],
+          ["speaker-a", "Agentin", "Perfekt. Hier Ihre Bordkarte."],
+          ["speaker-b", "Reisende", "Danke für Ihre Geduld."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Passagier", "Mein Flug wurde gestrichen. Was nun?"],
+          ["speaker-b", "Schalterbeamter", "Wetterbedingt. Alle Flüge sind gestrichen."],
+          ["speaker-a", "Passagier", "Bekomme ich ein Hotel?"],
+          ["speaker-b", "Schalterbeamter", "Ja, wir stellen einen Voucher aus."],
+          ["speaker-a", "Passagier", "Und wann geht der nächste Flug?"],
+          ["speaker-b", "Schalterbeamter", "Morgen früh um sechs Uhr."],
+          ["speaker-a", "Passagier", "Das ist ärgerlich, aber nicht zu ändern."],
+          ["speaker-b", "Schalterbeamter", "Das Hotel-Shuttle kommt in zehn Minuten."],
+          ["speaker-a", "Passagier", "Na dann, eine unerwartete Übernachtung."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "First date",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Anna", "Hallo, du musst Tom sein."],
+          ["speaker-b", "Tom", "Ja, und du bist Anna? Freut mich."],
+          ["speaker-a", "Anna", "Ganz meinerseits. Sollen wir reingehen?"],
+          ["speaker-b", "Tom", "Ja, ich habe einen Tisch reserviert."],
+          ["speaker-a", "Anna", "Sehr aufmerksam. Warst du schon mal hier?"],
+          ["speaker-b", "Tom", "Nein, aber es wurde mir empfohlen."],
+          ["speaker-a", "Anna", "Ich mag italienisches Essen."],
+          ["speaker-b", "Tom", "Ich auch. Was machst du beruflich?"],
+          ["speaker-a", "Anna", "Ich bin Grundschullehrerin. Und du?"],
+          ["speaker-b", "Tom", "Softwareentwickler."],
+          ["speaker-a", "Anna", "Spannend. Magst du deinen Job?"],
+          ["speaker-b", "Tom", "Ja, sehr. Und du, arbeitest du gern mit Kindern?"],
+          ["speaker-a", "Anna", "Es ist der beste Beruf der Welt."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Lisa", "Danke für die Einladung ins Kino."],
+          ["speaker-b", "Mark", "Gern. Der Film war gut, oder?"],
+          ["speaker-a", "Lisa", "Ja, aber das Ende war traurig."],
+          ["speaker-b", "Mark", "Stimmt. Hast du Lust auf einen Spaziergang?"],
+          ["speaker-a", "Lisa", "Gern, der Park ist gleich um die Ecke."],
+          ["speaker-b", "Mark", "Erzähl, was machst du am Wochenende gern?"],
+          ["speaker-a", "Lisa", "Ich gehe gern wandern. Und du?"],
+          ["speaker-b", "Mark", "Ich spiele Gitarre in einer Band."],
+          ["speaker-a", "Lisa", "Echt? Was für Musik?"],
+          ["speaker-b", "Mark", "Rock. Wir haben nächste Woche einen Auftritt."],
+          ["speaker-a", "Lisa", "Da würde ich gern kommen."],
+          ["speaker-b", "Mark", "Wirklich? Das freut mich."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Chris", "Ich muss zugeben, ich war nervös."],
+          ["speaker-b", "Sam", "Ich auch. Online-Dating ist aufregend."],
+          ["speaker-a", "Chris", "Aber es passt, finde ich."],
+          ["speaker-b", "Sam", "Ja, das Gespräch läuft gut."],
+          ["speaker-a", "Chris", "Was suchst du in einer Beziehung?"],
+          ["speaker-b", "Sam", "Ehrlichkeit und Humor. Und du?"],
+          ["speaker-a", "Chris", "Jemanden, mit dem ich lachen und wachsen kann."],
+          ["speaker-b", "Sam", "Das klingt schön. Noch einen Kaffee?"],
+          ["speaker-a", "Chris", "Ja gern. Und vielleicht noch ein Dessert."],
+          ["speaker-b", "Sam", "Ich teile gern. Tiramisu?"],
+          ["speaker-a", "Chris", "Perfekt."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the dry cleaner",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Reinigungsfachkraft", "Guten Tag. Abgeben oder abholen?"],
+          ["speaker-b", "Kundin", "Abgeben. Drei Hemden und eine Bluse."],
+          ["speaker-a", "Reinigungsfachkraft", "Mit Stärke?"],
+          ["speaker-b", "Kundin", "Ja, aber leicht bitte."],
+          ["speaker-a", "Reinigungsfachkraft", "Wann brauchen Sie es?"],
+          ["speaker-b", "Kundin", "Samstag wäre schön."],
+          ["speaker-a", "Reinigungsfachkraft", "Samstag geht. Das macht 14,80 Euro."],
+          ["speaker-b", "Kundin", "Hier bitte. Ich hole es am Samstag ab."],
+          ["speaker-a", "Reinigungsfachkraft", "Hier Ihr Beleg. Auf Wiedersehen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich möchte diesen Anzug reinigen lassen."],
+          ["speaker-b", "Mitarbeiterin", "Da ist ein Fleck auf der Jacke."],
+          ["speaker-a", "Kunde", "Ja, Rotwein. Geht der raus?"],
+          ["speaker-b", "Mitarbeiterin", "Wir behandeln ihn speziell. Sollte klappen."],
+          ["speaker-a", "Kunde", "Der Anzug ist für eine Hochzeit am Wochenende."],
+          ["speaker-b", "Mitarbeiterin", "Dann nehmen wir Express, bis Freitag."],
+          ["speaker-a", "Kunde", "Was kostet Express?"],
+          ["speaker-b", "Mitarbeiterin", "50 Prozent Aufschlag, also 22 Euro."],
+          ["speaker-a", "Kunde", "In Ordnung. Bitte machen Sie ihn sauber."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Hallo, ich hole meine Sachen ab."],
+          ["speaker-b", "Mitarbeiter", "Name?"],
+          ["speaker-a", "Kundin", "Schneider."],
+          ["speaker-b", "Mitarbeiter", "Hier. Aber das Hemd hat noch einen Fleck."],
+          ["speaker-a", "Kundin", "Oh, das ist ärgerlich."],
+          ["speaker-b", "Mitarbeiter", "Wir reinigen es kostenlos nach."],
+          ["speaker-a", "Kundin", "Bis wann?"],
+          ["speaker-b", "Mitarbeiter", "Morgen Nachmittag."],
+          ["speaker-a", "Kundin", "Gut, aber bitte diesmal gründlich."],
+          ["speaker-b", "Mitarbeiter", "Versprochen. Entschuldigung für die Umstände."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the bike repair shop",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mechaniker", "Guten Tag. Was kann ich tun?"],
+          ["speaker-b", "Kundin", "Mein Fahrrad hat einen platten Reifen."],
+          ["speaker-a", "Mechaniker", "Vorne oder hinten?"],
+          ["speaker-b", "Kundin", "Hinten."],
+          ["speaker-a", "Mechaniker", "Ich schaue es mir an. In einer Stunde ist es fertig."],
+          ["speaker-b", "Kundin", "Was kostet das etwa?"],
+          ["speaker-a", "Mechaniker", "15 Euro mit Schlauch."],
+          ["speaker-b", "Kundin", "Gut, ich komme in einer Stunde wieder."],
+          ["speaker-a", "Mechaniker", "Soll ich die Bremsen auch prüfen?"],
+          ["speaker-b", "Kundin", "Ja, bitte. Ich habe ein schlechtes Gefühl."],
+          ["speaker-a", "Mechaniker", "Mache ich. Bis später."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Die Kette springt immer raus."],
+          ["speaker-b", "Mechanikerin", "Wahrscheinlich ist die Schaltung falsch eingestellt."],
+          ["speaker-a", "Kunde", "Können Sie das reparieren?"],
+          ["speaker-b", "Mechanikerin", "Ja, und die Kette ist auch rostig."],
+          ["speaker-a", "Kunde", "Brauche ich eine neue Kette?"],
+          ["speaker-b", "Mechanikerin", "Empfehlenswert. 25 Euro mit Einbau."],
+          ["speaker-a", "Kunde", "Machen Sie das bitte."],
+          ["speaker-b", "Mechanikerin", "In zwei Stunden ist es fertig."],
+          ["speaker-a", "Kunde", "Ich warte im Café gegenüber."],
+          ["speaker-b", "Mechanikerin", "Gut, ich rufe kurz an, wenn es fertig ist."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich brauche ein neues Fahrrad."],
+          ["speaker-b", "Verkäufer", "Citybike oder Rennrad?"],
+          ["speaker-a", "Kundin", "Ein Citybike für den Alltag."],
+          ["speaker-b", "Verkäufer", "Mit E-Motor oder ohne?"],
+          ["speaker-a", "Kundin", "Ohne, ich fahre nicht weit."],
+          ["speaker-b", "Verkäufer", "Dieses Modell ist leicht und hat eine Nabenschaltung."],
+          ["speaker-a", "Kundin", "Darf ich eine Probefahrt machen?"],
+          ["speaker-b", "Verkäufer", "Klar, hier um den Block."],
+          ["speaker-a", "Kundin", "Es fährt sich super. Ich nehme es."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the electronics store",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäufer", "Kann ich helfen?"],
+          ["speaker-b", "Kundin", "Ich suche einen Laptop."],
+          ["speaker-a", "Verkäufer", "Für die Arbeit oder privat?"],
+          ["speaker-b", "Kundin", "Fürs Studium."],
+          ["speaker-a", "Verkäufer", "Dann reicht ein Mittelklassegerät."],
+          ["speaker-b", "Kundin", "Welcher hat ein gutes Preis-Leistungs-Verhältnis?"],
+          ["speaker-a", "Verkäufer", "Dieses Modell hier, 599 Euro."],
+          ["speaker-b", "Kundin", "Wie lange hält der Akku?"],
+          ["speaker-a", "Verkäufer", "Bis zu zehn Stunden."],
+          ["speaker-b", "Kundin", "Gut, kann ich den hier mitnehmen?"],
+          ["speaker-a", "Verkäufer", "Ja, ich hole ihn aus dem Lager."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Mein Drucker ist kaputt."],
+          ["speaker-b", "Berater", "Was genau passiert?"],
+          ["speaker-a", "Kunde", "Er zieht das Papier nicht ein."],
+          ["speaker-b", "Berater", "Haben Sie die Walzen gereinigt?"],
+          ["speaker-a", "Kunde", "Nein, wie geht das?"],
+          ["speaker-b", "Berater", "Mit einem feuchten Tuch vorsichtig abwischen."],
+          ["speaker-a", "Kunde", "Versuche ich. Wenn es nicht hilft?"],
+          ["speaker-b", "Berater", "Dann kommen Sie wieder, wir schicken ihn ein."],
+          ["speaker-a", "Kunde", "Haben Sie auch Tintenpatronen?"],
+          ["speaker-b", "Berater", "Ja, welche Marke?"],
+          ["speaker-a", "Kunde", "HP."],
+          ["speaker-b", "Berater", "Gang 3, gleich links."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte ein Smartphone zurückgeben."],
+          ["speaker-b", "Mitarbeiter", "Wann haben Sie es gekauft?"],
+          ["speaker-a", "Kundin", "Vor drei Tagen. Es hat einen Pixelfehler."],
+          ["speaker-b", "Mitarbeiter", "Kann ich es sehen?"],
+          ["speaker-a", "Kundin", "Hier, auf dem Display."],
+          ["speaker-b", "Mitarbeiter", "Tatsächlich. Das ist ein Garantiefall."],
+          ["speaker-a", "Kundin", "Bekomme ich ein neues Gerät?"],
+          ["speaker-b", "Mitarbeiter", "Ja, oder Sie bekommen Ihr Geld zurück."],
+          ["speaker-a", "Kundin", "Ein neues Gerät, bitte."],
+          ["speaker-b", "Mitarbeiter", "Ich hole es sofort."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Car breakdown on the highway",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Fahrer", "Hilfe, mein Auto raucht."],
+          ["speaker-b", "ADAC-Helfer", "Wo stehen Sie genau?"],
+          ["speaker-a", "Fahrer", "A3, zwischen Frankfurt und Köln, km 150."],
+          ["speaker-b", "ADAC-Helfer", "Sind Sie auf dem Standstreifen?"],
+          ["speaker-a", "Fahrer", "Ja, ich habe das Warndreieck aufgestellt."],
+          ["speaker-b", "ADAC-Helfer", "Bleiben Sie hinter der Leitplanke."],
+          ["speaker-a", "Fahrer", "Gut. Wie lange dauert es?"],
+          ["speaker-b", "ADAC-Helfer", "Etwa 20 Minuten. Wir kommen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Mechaniker", "Der Motor ist überhitzt."],
+          ["speaker-b", "Autofahrerin", "Können Sie es reparieren?"],
+          ["speaker-a", "Mechaniker", "Nicht hier. Ich schleppe Sie zur Werkstatt."],
+          ["speaker-b", "Autofahrerin", "Was kostet das Abschleppen?"],
+          ["speaker-a", "Mechaniker", "Mit ADAC-Mitgliedschaft kostenlos."],
+          ["speaker-b", "Autofahrerin", "Ich bin zum Glück Mitglied."],
+          ["speaker-a", "Mechaniker", "Dann nichts. Ich kopple jetzt an."],
+          ["speaker-b", "Autofahrerin", "Kann ich im Auto bleiben?"],
+          ["speaker-a", "Mechaniker", "Nein, besser Sie steigen bei mir ein."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Fahrer", "Ich habe einen Platten auf der Autobahn."],
+          ["speaker-b", "Pannenhelferin", "Haben Sie ein Ersatzrad?"],
+          ["speaker-a", "Fahrer", "Ja, im Kofferraum."],
+          ["speaker-b", "Pannenhelferin", "Ich wechsle den Reifen, bleiben Sie ruhig."],
+          ["speaker-a", "Fahrer", "Danke. Das kam so plötzlich."],
+          ["speaker-b", "Pannenhelferin", "Zum Glück kein Unfall. Alles okay."],
+          ["speaker-a", "Fahrer", "Kann ich mit dem Ersatzrad normal weiterfahren?"],
+          ["speaker-b", "Pannenhelferin", "Nur 80 km/h, dann ab in die Werkstatt."],
+          ["speaker-a", "Fahrer", "Alles klar, vielen Dank für die schnelle Hilfe."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the hotel — check-in and issues",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Rezeptionist", "Guten Abend. Haben Sie reserviert?"],
+          ["speaker-b", "Gast", "Ja, auf den Namen Müller."],
+          ["speaker-a", "Rezeptionist", "Ein Doppelzimmer für drei Nächte."],
+          ["speaker-b", "Gast", "Genau."],
+          ["speaker-a", "Rezeptionist", "Darf ich Ihre Kreditkarte haben?"],
+          ["speaker-b", "Gast", "Hier bitte."],
+          ["speaker-a", "Rezeptionist", "Zimmer 304 im dritten Stock. Der Aufzug ist dort."],
+          ["speaker-b", "Gast", "Wann gibt es Frühstück?"],
+          ["speaker-a", "Rezeptionist", "Von 6:30 bis 10:00 Uhr."],
+          ["speaker-b", "Gast", "Danke. Gibt es WLAN?"],
+          ["speaker-a", "Rezeptionist", "Ja, das Passwort steht auf der Karte."],
+          ["speaker-b", "Gast", "Super, gute Nacht."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Entschuldigung, das Zimmer ist nicht sauber."],
+          ["speaker-b", "Rezeptionistin", "Oh, das tut mir leid. Was genau?"],
+          ["speaker-a", "Gast", "Das Bad wurde nicht geputzt."],
+          ["speaker-b", "Rezeptionistin", "Ich schicke sofort die Reinigung."],
+          ["speaker-a", "Gast", "Und die Klimaanlage funktioniert nicht."],
+          ["speaker-b", "Rezeptionistin", "Ich gebe Ihnen ein anderes Zimmer."],
+          ["speaker-a", "Gast", "Das ist nett. Danke."],
+          ["speaker-b", "Rezeptionistin", "Zimmer 412 ist größer, ohne Aufpreis."],
+          ["speaker-a", "Gast", "Ein Upgrade? Vielen Dank."],
+          ["speaker-b", "Rezeptionistin", "Wir wollen, dass Sie sich wohlfühlen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Gast", "Ich möchte auschecken."],
+          ["speaker-b", "Rezeptionist", "Zimmernummer?"],
+          ["speaker-a", "Gast", "304."],
+          ["speaker-b", "Rezeptionist", "Haben Sie etwas aus der Minibar genommen?"],
+          ["speaker-a", "Gast", "Nur eine Flasche Wasser."],
+          ["speaker-b", "Rezeptionist", "Das macht insgesamt 285 Euro."],
+          ["speaker-a", "Gast", "Hier die Karte. Können Sie eine Rechnung ausdrucken?"],
+          ["speaker-b", "Rezeptionist", "Natürlich. Geschäftlich oder privat?"],
+          ["speaker-a", "Gast", "Geschäftlich. Mit Firmenadresse."],
+          ["speaker-b", "Rezeptionist", "Hier bitte. Gute Heimreise."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the optician",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Optikerin", "Guten Tag. Sie brauchen eine neue Brille?"],
+          ["speaker-b", "Kundin", "Ja, meine alte ist kaputt."],
+          ["speaker-a", "Optikerin", "Haben Sie Ihr Rezept?"],
+          ["speaker-b", "Kundin", "Ja, vom Augenarzt."],
+          ["speaker-a", "Optikerin", "Gut. Welche Fassung gefällt Ihnen?"],
+          ["speaker-b", "Kundin", "Diese runde hier."],
+          ["speaker-a", "Optikerin", "Die steht Ihnen gut. In schwarz?"],
+          ["speaker-b", "Kundin", "Ja, schwarz ist klassisch."],
+          ["speaker-a", "Optikerin", "Mit Entspiegelung?"],
+          ["speaker-b", "Kundin", "Ja bitte. Was kostet das?"],
+          ["speaker-a", "Optikerin", "199 Euro inklusive Gläser."],
+          ["speaker-b", "Kundin", "Wann kann ich sie abholen?"],
+          ["speaker-a", "Optikerin", "In einer Woche."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich möchte Kontaktlinsen."],
+          ["speaker-b", "Optiker", "Tageslinsen oder Monatslinsen?"],
+          ["speaker-a", "Kunde", "Was empfehlen Sie?"],
+          ["speaker-b", "Optiker", "Für den Anfang Tageslinsen, die sind hygienischer."],
+          ["speaker-a", "Kunde", "Sind sie schwer einzusetzen?"],
+          ["speaker-b", "Optiker", "Nein, ich zeige es Ihnen."],
+          ["speaker-a", "Kunde", "Danke. Ich bin etwas empfindlich am Auge."],
+          ["speaker-b", "Optiker", "Das ist Übungssache. Probieren Sie."],
+          ["speaker-a", "Kunde", "Oh, es geht einfacher als gedacht."],
+          ["speaker-b", "Optiker", "Sehen Sie scharf?"],
+          ["speaker-a", "Kunde", "Ja, perfekt. Ich nehme eine Monatspackung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Optiker", "Ihre neue Brille ist abholbereit."],
+          ["speaker-b", "Kundin", "Super. Kann ich sie gleich aufsetzen?"],
+          ["speaker-a", "Optiker", "Ja, ich passe sie noch an."],
+          ["speaker-b", "Kundin", "Sie drückt etwas hinter den Ohren."],
+          ["speaker-a", "Optiker", "Ich biege die Bügel etwas."],
+          ["speaker-b", "Kundin", "Jetzt ist es besser."],
+          ["speaker-a", "Optiker", "In den ersten Tagen kann es ungewohnt sein."],
+          ["speaker-b", "Kundin", "Wenn es nicht passt, komme ich wieder."],
+          ["speaker-a", "Optiker", "Ja, Nachjustieren ist kostenlos."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the veterinarian",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Tierärztin", "Guten Tag. Was fehlt Ihrem Hund?"],
+          ["speaker-b", "Besitzerin", "Er erbricht und frisst nicht."],
+          ["speaker-a", "Tierärztin", "Seit wann?"],
+          ["speaker-b", "Besitzerin", "Seit gestern Abend."],
+          ["speaker-a", "Tierärztin", "Hat er etwas Ungewöhnliches gefressen?"],
+          ["speaker-b", "Besitzerin", "Vielleicht im Park."],
+          ["speaker-a", "Tierärztin", "Ich taste den Bauch ab. Tut es da weh?"],
+          ["speaker-b", "Besitzerin", "Er jault jetzt."],
+          ["speaker-a", "Tierärztin", "Ich gebe ihm eine Spritze gegen Übelkeit."],
+          ["speaker-b", "Besitzerin", "Muss er über Nacht bleiben?"],
+          ["speaker-a", "Tierärztin", "Nein, aber morgen zur Kontrolle wiederkommen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Tierarzt", "Ihre Katze braucht eine Impfung."],
+          ["speaker-b", "Besitzer", "Welche Impfung?"],
+          ["speaker-a", "Tierarzt", "Katzenschnupfen und Katzenseuche."],
+          ["speaker-b", "Besitzer", "Ist das jedes Jahr nötig?"],
+          ["speaker-a", "Tierarzt", "Ja, für Freigänger besonders."],
+          ["speaker-b", "Besitzer", "Gut, machen Sie das."],
+          ["speaker-a", "Tierarzt", "Ich schaue auch die Zähne. Zahnstein."],
+          ["speaker-b", "Besitzer", "Müssen die gereinigt werden?"],
+          ["speaker-a", "Tierarzt", "In Narkose, ja. Wir machen einen Termin."],
+          ["speaker-b", "Besitzer", "Was kostet die Zahnreinigung?"],
+          ["speaker-a", "Tierarzt", "Etwa 120 Euro."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Besitzerin", "Mein Kaninchen hinkt."],
+          ["speaker-b", "Tierärztin", "Ich untersuche das Bein."],
+          ["speaker-a", "Besitzerin", "Könnte es gebrochen sein?"],
+          ["speaker-b", "Tierärztin", "Ich mache ein Röntgenbild."],
+          ["speaker-a", "Besitzerin", "Tut das weh?"],
+          ["speaker-b", "Tierärztin", "Wir geben ihm eine leichte Narkose."],
+          ["speaker-a", "Besitzerin", "Wie lange dauert das?"],
+          ["speaker-b", "Tierärztin", "Zwanzig Minuten. Warten Sie im Vorraum."],
+          ["speaker-a", "Besitzerin", "Ich mache mir Sorgen um ihn."],
+          ["speaker-b", "Tierärztin", "Verständlich. Wir kümmern uns gut."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the police station — reporting theft",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Polizist", "Guten Tag. Was kann ich für Sie tun?"],
+          ["speaker-b", "Bürger", "Mein Fahrrad wurde gestohlen."],
+          ["speaker-a", "Polizist", "Wann und wo?"],
+          ["speaker-b", "Bürger", "Gestern Nacht vor meinem Haus."],
+          ["speaker-a", "Polizist", "War es abgeschlossen?"],
+          ["speaker-b", "Bürger", "Ja, mit einem Schloss."],
+          ["speaker-a", "Polizist", "Welche Marke und Farbe?"],
+          ["speaker-b", "Bürger", "Ein blaues Trekking-Rad."],
+          ["speaker-a", "Polizist", "Haben Sie die Rahmennummer?"],
+          ["speaker-b", "Bürger", "Ja, hier auf dem Kaufvertrag."],
+          ["speaker-a", "Polizist", "Gut, ich nehme die Anzeige auf."],
+          ["speaker-b", "Bürger", "Besteht Hoffnung, es wiederzubekommen?"],
+          ["speaker-a", "Polizist", "Wir tun unser Bestes."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Polizistin", "Sie wollten einen Einbruch melden?"],
+          ["speaker-b", "Anwohnerin", "Ja, meine Wohnung wurde aufgebrochen."],
+          ["speaker-a", "Polizistin", "Wann haben Sie es bemerkt?"],
+          ["speaker-b", "Anwohnerin", "Als ich von der Arbeit kam. Die Tür stand offen."],
+          ["speaker-a", "Polizistin", "Was fehlt?"],
+          ["speaker-b", "Anwohnerin", "Mein Laptop und Schmuck."],
+          ["speaker-a", "Polizistin", "Haben Sie Fotos von den Gegenständen?"],
+          ["speaker-b", "Anwohnerin", "Vom Schmuck ja."],
+          ["speaker-a", "Polizistin", "Wir schicken die Spurensicherung vorbei."],
+          ["speaker-b", "Anwohnerin", "Danke. Ich bin ziemlich geschockt."],
+          ["speaker-a", "Polizistin", "Das verstehe ich. Sind Sie in Sicherheit?"],
+          ["speaker-b", "Anwohnerin", "Ja, ich bleibe heute bei einer Freundin."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Bürger", "Ich möchte eine verlorene Geldbörse melden."],
+          ["speaker-b", "Beamter", "Wann zuletzt gesehen?"],
+          ["speaker-a", "Bürger", "Vor zwei Stunden im Bus."],
+          ["speaker-b", "Beamter", "Linie?"],
+          ["speaker-a", "Bürger", "Linie 42, Richtung Hauptbahnhof."],
+          ["speaker-b", "Beamter", "Was war drin?"],
+          ["speaker-a", "Bürger", "Personalausweis, Bankkarte, etwas Bargeld."],
+          ["speaker-b", "Beamter", "Lassen Sie die Karte sofort sperren."],
+          ["speaker-a", "Bürger", "Schon erledigt. Hoffentlich findet sie jemand."],
+          ["speaker-b", "Beamter", "Oft kommen Fundsachen nach ein paar Tagen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the driving school",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Fahrlehrer", "Bereit für deine erste Stunde?"],
+          ["speaker-b", "Schüler", "Ja, aber ich bin nervös."],
+          ["speaker-a", "Fahrlehrer", "Das ist normal. Zuerst stellst du den Sitz ein."],
+          ["speaker-b", "Schüler", "So?"],
+          ["speaker-a", "Fahrlehrer", "Gut. Und die Spiegel."],
+          ["speaker-b", "Schüler", "Erledigt."],
+          ["speaker-a", "Fahrlehrer", "Jetzt Kupplung und erster Gang."],
+          ["speaker-b", "Schüler", "Langsam Kupplung kommen lassen?"],
+          ["speaker-a", "Fahrlehrer", "Genau, und etwas Gas."],
+          ["speaker-b", "Schüler", "Es fährt!"],
+          ["speaker-a", "Fahrlehrer", "Ruhig bleiben, gut gemacht."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Schülerin", "Ich habe Angst vor der Prüfung."],
+          ["speaker-b", "Fahrlehrer", "Du fährst gut. Vertrau dir."],
+          ["speaker-a", "Schülerin", "Das Einparken klappt nicht gut."],
+          ["speaker-b", "Fahrlehrer", "Üben wir nochmal. Seitwärts einparken."],
+          ["speaker-a", "Schülerin", "Immer zu weit vom Bordstein."],
+          ["speaker-b", "Fahrlehrer", "Schau in den rechten Spiegel. Besser."],
+          ["speaker-a", "Schülerin", "Jetzt ist es gut?"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the beach",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Freund", "Endlich Urlaub! Das Meer ist so blau."],
+          ["speaker-b", "Freundin", "Ja, herrlich. Komm, wir gehen schwimmen."],
+          ["speaker-a", "Freund", "Ist das Wasser kalt?"],
+          ["speaker-b", "Freundin", "Es ist erfrischend, nicht kalt."],
+          ["speaker-a", "Freund", "Hast du Sonnencreme?"],
+          ["speaker-b", "Freundin", "Ja, hier mit LSF 30."],
+          ["speaker-a", "Freund", "Danke. Sollen wir einen Liegestuhl mieten?"],
+          ["speaker-b", "Freundin", "Ja, und einen Sonnenschirm dazu."],
+          ["speaker-a", "Freund", "Ich hole uns ein Eis. Was magst du?"],
+          ["speaker-b", "Freundin", "Erdbeere und Vanille, bitte."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Vater", "Nicht zu weit rausschwimmen, Kinder!"],
+          ["speaker-b", "Kind", "Nur bis zur Boje, Papa."],
+          ["speaker-a", "Vater", "Gut, aber mit Schwimmflügeln."],
+          ["speaker-b", "Kind", "Langweilig. Ich kann schon schwimmen."],
+          ["speaker-a", "Vater", "Trotzdem, das Meer ist kein Schwimmbad."],
+          ["speaker-b", "Kind", "Okay. Baust du mit mir eine Sandburg?"],
+          ["speaker-a", "Vater", "Ja, nach dem Schwimmen."],
+          ["speaker-b", "Kind", "Mit Wassergraben und Muscheln?"],
+          ["speaker-a", "Vater", "Die größte Sandburg am Strand."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Rettungsschwimmer", "Achtung, rote Flagge! Nicht ins Wasser!"],
+          ["speaker-b", "Tourist", "Warum? Es sieht ruhig aus."],
+          ["speaker-a", "Rettungsschwimmer", "Starke Unterströmung. Sehr gefährlich."],
+          ["speaker-b", "Tourist", "Danke für die Warnung."],
+          ["speaker-a", "Rettungsschwimmer", "Bis die gelbe Flagge kommt, bitte warten."],
+          ["speaker-b", "Tourist", "Wie lange dauert das?"],
+          ["speaker-a", "Rettungsschwimmer", "Vielleicht eine Stunde."],
+          ["speaker-b", "Tourist", "Gut, dann lese ich mein Buch."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the Christmas market",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Besucher", "Wow, es riecht nach Zimt und Glühwein!"],
+          ["speaker-b", "Besucherin", "Lass uns einen Glühwein holen."],
+          ["speaker-a", "Besucher", "Gern. Mit Schuss?"],
+          ["speaker-b", "Besucherin", "Ja, Amaretto."],
+          ["speaker-a", "Besucher", "Zwei Glühwein mit Amaretto, bitte."],
+          ["speaker-b", "Verkäufer", "8 Euro. Pfand für die Tasse."],
+          ["speaker-a", "Besucher", "Wir bringen die Tassen zurück."],
+          ["speaker-b", "Besucherin", "Schau, der Stand mit Lebkuchen!"],
+          ["speaker-a", "Besucher", "Ein Lebkuchenherz mit Aufschrift?"],
+          ["speaker-b", "Besucherin", "Ja, 'Für meine Liebste'."],
+          ["speaker-a", "Besucher", "Wie romantisch."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Tourist", "Was ist typisch auf dem Christkindlesmarkt?"],
+          ["speaker-b", "Einheimischer", "Probieren Sie die Bratwurst und den Glühwein."],
+          ["speaker-a", "Tourist", "Und was ist das da?"],
+          ["speaker-b", "Einheimischer", "Gebrannte Mandeln. Süß und knusprig."],
+          ["speaker-a", "Tourist", "Ich nehme eine Tüte. Und das Karussell?"],
+          ["speaker-b", "Einheimischer", "Ein historisches Kinderkarussell von 1920."],
+          ["speaker-a", "Tourist", "Schön! Alles ist so festlich."],
+          ["speaker-b", "Einheimischer", "Das ist die schönste Zeit des Jahres."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Verkäuferin", "Handgeschnitzte Krippenfiguren aus dem Erzgebirge."],
+          ["speaker-b", "Kundin", "Die sind wunderschön. Was kostet diese?"],
+          ["speaker-a", "Verkäuferin", "Diese Maria und Josef 45 Euro."],
+          ["speaker-b", "Kundin", "Etwas teuer, aber ich nehme sie."],
+          ["speaker-a", "Verkäuferin", "Eine gute Wahl. Sorgfältig verpackt."],
+          ["speaker-b", "Kundin", "Danke. Verschenke ich an meine Mutter."],
+          ["speaker-a", "Verkäuferin", "Darüber freut sie sich bestimmt."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the laundromat",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Entschuldigung, wie funktioniert die Maschine?"],
+          ["speaker-b", "Mitarbeiter", "Erst Münzen einwerfen, dann Programm wählen."],
+          ["speaker-a", "Kundin", "Wie viel kostet eine Wäsche?"],
+          ["speaker-b", "Mitarbeiter", "Drei Euro für 8 Kilo."],
+          ["speaker-a", "Kundin", "Wie lange dauert es?"],
+          ["speaker-b", "Mitarbeiter", "Etwa 40 Minuten."],
+          ["speaker-a", "Kundin", "Kann ich Waschpulver hier kaufen?"],
+          ["speaker-b", "Mitarbeiter", "Ja, am Automaten dort."],
+          ["speaker-a", "Kundin", "Und der Trockner?"],
+          ["speaker-b", "Mitarbeiter", "Ein Euro für 15 Minuten."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Meine Wäsche ist fertig."],
+          ["speaker-b", "Nachbarin", "Oh, das sind meine Socken."],
+          ["speaker-a", "Kunde", "Tatsächlich, sie waren noch in der Trommel."],
+          ["speaker-b", "Nachbarin", "Danke fürs Aufheben."],
+          ["speaker-a", "Kunde", "Kein Problem. Warten Sie auch?"],
+          ["speaker-b", "Nachbarin", "Ja, auf den Trockner. Das Wetter ist zu feucht."],
+          ["speaker-a", "Kunde", "Im Winter trocknet nichts draußen."],
+          ["speaker-b", "Nachbarin", "Genau. Ich komme jede Woche hierher."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Die Maschine hat mein Geld geschluckt."],
+          ["speaker-b", "Betreiber", "Welche Nummer?"],
+          ["speaker-a", "Kundin", "Maschine 4."],
+          ["speaker-b", "Betreiber", "Ich schaue nach. Ja, sie ist defekt."],
+          ["speaker-a", "Kundin", "Kriege ich mein Geld zurück?"],
+          ["speaker-b", "Betreiber", "Natürlich. Hier, drei Euro."],
+          ["speaker-a", "Kundin", "Danke. Welche Maschine ist frei?"],
+          ["speaker-b", "Betreiber", "Maschine 7 funktioniert einwandfrei."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At a concert",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Fan", "Hast du die Tickets?"],
+          ["speaker-b", "Freund", "Ja, auf meinem Handy."],
+          ["speaker-a", "Fan", "Geil, ich freue mich so auf die Band."],
+          ["speaker-b", "Freund", "Hast du das neue Album gehört?"],
+          ["speaker-a", "Fan", "Ja, es ist ihr bestes bisher."],
+          ["speaker-b", "Freund", "Wir müssen nach vorne zur Bühne."],
+          ["speaker-a", "Fan", "Da ist es schon voll."],
+          ["speaker-b", "Freund", "Dann eben hier. Hauptsache gute Sicht."],
+          ["speaker-a", "Fan", "Hast du Ohrstöpsel?"],
+          ["speaker-b", "Freund", "Ja, sicher ist sicher."],
+          ["speaker-a", "Fan", "Es geht los!"]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Besucher", "Wo ist der Eingang?"],
+          ["speaker-b", "Security", "Links um die Ecke. Ticket bereithalten."],
+          ["speaker-a", "Besucher", "Sind Taschen erlaubt?"],
+          ["speaker-b", "Security", "Nur kleine Taschen bis A4-Größe."],
+          ["speaker-a", "Besucher", "Mein Rucksack ist zu groß."],
+          ["speaker-b", "Security", "Dort ist die Gepäckaufbewahrung."],
+          ["speaker-a", "Besucher", "Was kostet die?"],
+          ["speaker-b", "Security", "Zwei Euro. Viel Spaß."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Zuschauerin", "Das Konzert war der Wahnsinn!"],
+          ["speaker-b", "Zuschauer", "Die Zugabe war das Beste."],
+          ["speaker-a", "Zuschauerin", "Schade dass es schon vorbei ist."],
+          ["speaker-b", "Zuschauer", "Ich kaufe noch ein T-Shirt am Merch-Stand."],
+          ["speaker-a", "Zuschauerin", "Gute Idee. Welches Motiv?"],
+          ["speaker-b", "Zuschauer", "Das mit der Tournee auf der Rückseite."],
+          ["speaker-a", "Zuschauerin", "Ich nehme auch eins. 35 Euro, okay."],
+          ["speaker-b", "Zuschauer", "Ein Souvenir für einen unvergesslichen Abend."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Moving house",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Umzugshelfer", "Guten Morgen. Wo soll der Lkw parken?"],
+          ["speaker-b", "Mieter", "Gleich vor dem Haus, hier ist Platz."],
+          ["speaker-a", "Umzugshelfer", "Wie viele Zimmer?"],
+          ["speaker-b", "Mieter", "Drei Zimmer, Küche, Bad."],
+          ["speaker-a", "Umzugshelfer", "Geht klar. Erst die großen Möbel."],
+          ["speaker-b", "Mieter", "Das Sofa und der Schrank sind am schwersten."],
+          ["speaker-a", "Umzugshelfer", "Haben Sie eine Sackkarre?"],
+          ["speaker-b", "Mieter", "Ja, im Keller."],
+          ["speaker-a", "Umzugshelfer", "Perfekt. In drei Stunden sind wir fertig."],
+          ["speaker-b", "Mieter", "Ich habe Kaffee und Brötchen für die Pause."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Freund", "Danke, dass du beim Umzug hilfst."],
+          ["speaker-b", "Kumpel", "Kein Problem. Wofür hat man Freunde?"],
+          ["speaker-a", "Freund", "Die Bücherkisten sind das Schlimmste."],
+          ["speaker-b", "Kumpel", "Stimmt, die wiegen eine Tonne."],
+          ["speaker-a", "Freund", "Und in der neuen Wohnung alles auspacken."],
+          ["speaker-b", "Kumpel", "Dafür gibt's heute Abend Pizza und Bier."],
+          ["speaker-a", "Freund", "Hast du den Transporter für Samstag?"],
+          ["speaker-b", "Kumpel", "Ja, ab acht Uhr morgens."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mieterin", "Ich muss die Wohnung streichen vor dem Auszug."],
+          ["speaker-b", "Vermieter", "Nur wenn die Wände bunt gestrichen sind."],
+          ["speaker-a", "Mieterin", "Ja, das Wohnzimmer war orange."],
+          ["speaker-b", "Vermieter", "Dann bitte neutral weiß überstreichen."],
+          ["speaker-a", "Mieterin", "Macht das ein Maler oder ich selbst?"],
+          ["speaker-b", "Vermieter", "Sie können es selber machen."],
+          ["speaker-a", "Mieterin", "Gut, das spare ich mir das Geld."],
+          ["speaker-b", "Vermieter", "Die Übergabe ist am 30."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the neighbor's door",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Nachbar", "Hallo, ich bin neu im Haus."],
+          ["speaker-b", "Nachbarin", "Willkommen. Ich heiße Frau Schmitt."],
+          ["speaker-a", "Nachbar", "Freut mich. Ist es hier immer so ruhig?"],
+          ["speaker-b", "Nachbarin", "Ja, bis auf die Kinder im dritten Stock."],
+          ["speaker-a", "Nachbar", "Gut zu wissen. Wo ist der Müllraum?"],
+          ["speaker-b", "Nachbarin", "Im Keller links."],
+          ["speaker-a", "Nachbar", "Danke. Wann ist die Müllabfuhr?"],
+          ["speaker-b", "Nachbarin", "Donnerstag früh. Gelbe Tonne alle zwei Wochen."],
+          ["speaker-a", "Nachbar", "Alles klar, vielen Dank."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Nachbarin", "Entschuldigung, Ihre Musik ist sehr laut."],
+          ["speaker-b", "Neuer", "Oh, tut mir leid. Ich drehe leiser."],
+          ["speaker-a", "Nachbarin", "Besonders nach 22 Uhr bitte."],
+          ["speaker-b", "Neuer", "Ja, natürlich. War keine Absicht."],
+          ["speaker-a", "Nachbarin", "Ich muss früh aufstehen."],
+          ["speaker-b", "Neuer", "Verstehe. Kommt nicht wieder vor."],
+          ["speaker-a", "Nachbarin", "Danke, einen schönen Abend noch."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Nachbar", "Haben Sie mein Paket angenommen?"],
+          ["speaker-b", "Nachbarin", "Ja, hier ist es."],
+          ["speaker-a", "Nachbar", "Danke! Ich war leider nicht zu Hause."],
+          ["speaker-b", "Nachbarin", "Keine Ursache. Machen wir gern."],
+          ["speaker-a", "Nachbar", "Im Gegenzug — hier, ein Stück Kuchen."],
+          ["speaker-b", "Nachbarin", "Oh, wie nett. Selbst gebacken?"],
+          ["speaker-a", "Nachbar", "Ja, Apfelkuchen nach Omas Rezept."],
+          ["speaker-b", "Nachbarin", "Vielen Dank. Gute Nachbarschaft eben."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Job resignation",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mitarbeiter", "Herr Müller, haben Sie einen Moment?"],
+          ["speaker-b", "Chef", "Natürlich. Was gibt es?"],
+          ["speaker-a", "Mitarbeiter", "Ich möchte kündigen."],
+          ["speaker-b", "Chef", "Oh, das überrascht mich. Warum?"],
+          ["speaker-a", "Mitarbeiter", "Ich habe ein besseres Angebot bekommen."],
+          ["speaker-b", "Chef", "Das ist schade. Können wir gegensteuern?"],
+          ["speaker-a", "Mitarbeiter", "Nein, die Entscheidung steht."],
+          ["speaker-b", "Chef", "Schade. Wann ist Ihr letzter Tag?"],
+          ["speaker-a", "Mitarbeiter", "In vier Wochen, laut Vertrag."],
+          ["speaker-b", "Chef", "Gut, ich wünsche Ihnen alles Gute."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Angestellte", "Ich gebe meine Kündigung ab."],
+          ["speaker-b", "Personalchef", "Schriftlich bitte. Was ist der Grund?"],
+          ["speaker-a", "Angestellte", "Ich ziehe in eine andere Stadt."],
+          ["speaker-b", "Personalchef", "Verstehe. Mit der Familie?"],
+          ["speaker-a", "Angestellte", "Ja, mein Mann hat sich beruflich verändert."],
+          ["speaker-b", "Personalchef", "Schade, Sie waren eine tolle Mitarbeiterin."],
+          ["speaker-a", "Angestellte", "Danke, ich habe hier viel gelernt."],
+          ["speaker-b", "Personalchef", "Ihr Zeugnis stellen wir Ihnen aus."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Chef", "Sie waren zehn Jahre bei uns. Warum jetzt?"],
+          ["speaker-b", "Mitarbeiter", "Ich brauche eine Veränderung."],
+          ["speaker-a", "Chef", "Burnout?"],
+          ["speaker-b", "Mitarbeiter", "Fast. Ich mache eine Auszeit."],
+          ["speaker-a", "Chef", "Das respektiere ich."],
+          ["speaker-b", "Mitarbeiter", "Ich bleibe bis zum Ende sauber."],
+          ["speaker-a", "Chef", "Ihr Wissen ist unersetzlich."],
+          ["speaker-b", "Mitarbeiter", "Ich arbeite die Nachfolge gründlich ein."],
+          ["speaker-a", "Chef", "Danke. Die Tür bleibt offen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the flea market",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Was kostet diese Vase?"],
+          ["speaker-b", "Verkäufer", "15 Euro. Handbemalt."],
+          ["speaker-a", "Kundin", "10 Euro?"],
+          ["speaker-b", "Verkäufer", "12 und sie gehört Ihnen."],
+          ["speaker-a", "Kundin", "Einverstanden. Und der Bilderrahmen?"],
+          ["speaker-b", "Verkäufer", "5 Euro. Beides zusammen 15."],
+          ["speaker-a", "Kundin", "Super, ich nehme beides."],
+          ["speaker-b", "Verkäufer", "Noch eine Tüte dazu?"],
+          ["speaker-a", "Kundin", "Ja, danke. Einen schönen Tag."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Verkäuferin", "Hier, alte Schallplatten. Sehr guter Zustand."],
+          ["speaker-b", "Sammler", "Haben Sie Beatles?"],
+          ["speaker-a", "Verkäuferin", "Leider nicht. Aber Rolling Stones."],
+          ["speaker-b", "Sammler", "Welches Album?"],
+          ["speaker-a", "Verkäuferin", "Sticky Fingers, von 1971."],
+          ["speaker-b", "Sammler", "Was soll die kosten?"],
+          ["speaker-a", "Verkäuferin", "20 Euro, mit Original-Cover."],
+          ["speaker-b", "Sammler", "Top. Ich sammle das."],
+          ["speaker-a", "Verkäuferin", "Dann viel Freude damit."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Besucher", "Was für ein Trubel hier!"],
+          ["speaker-b", "Standbetreiber", "Der größte Flohmarkt der Stadt."],
+          ["speaker-a", "Besucher", "Ich suche eine alte Kaffeemühle."],
+          ["speaker-b", "Standbetreiber", "Da hinten bei Stand 47, der hat Hausrat."],
+          ["speaker-a", "Besucher", "Danke. Gibt es hier auch Essen?"],
+          ["speaker-b", "Standbetreiber", "Ja, Bratwurst und Crêpes am Ende."],
+          ["speaker-a", "Besucher", "Ich schaue mich erst um."],
+          ["speaker-b", "Standbetreiber", "Viel Erfolg beim Stöbern."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the bank — ATM problem",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kunde", "Der Automat hat meine Karte eingezogen!"],
+          ["speaker-b", "Bankmitarbeiter", "Oh je. Welcher Automat?"],
+          ["speaker-a", "Kunde", "Der vor der Filiale."],
+          ["speaker-b", "Bankmitarbeiter", "Haben Sie die PIN dreimal falsch eingegeben?"],
+          ["speaker-a", "Kunde", "Nein, nur einmal."],
+          ["speaker-b", "Bankmitarbeiter", "Ich prüfe das. Name?"],
+          ["speaker-a", "Kunde", "Schmidt, Karl."],
+          ["speaker-b", "Bankmitarbeiter", "Die Karte ist gesperrt. Ich gebe sie Ihnen."],
+          ["speaker-a", "Kunde", "Danke. Ist sie noch gültig?"],
+          ["speaker-b", "Bankmitarbeiter", "Ja, alles in Ordnung damit."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte Geld abheben."],
+          ["speaker-b", "Schalterbeamter", "Am Automaten oder am Schalter?"],
+          ["speaker-a", "Kundin", "Am Schalter, der Automat ist kaputt."],
+          ["speaker-b", "Schalterbeamter", "Wie viel möchten Sie abheben?"],
+          ["speaker-a", "Kundin", "200 Euro. Hier ist mein Ausweis."],
+          ["speaker-b", "Schalterbeamter", "Unterschreiben Sie bitte hier."],
+          ["speaker-a", "Kundin", "Gibt es eine Gebühr am Schalter?"],
+          ["speaker-b", "Schalterbeamter", "Bei uns nicht, nein."],
+          ["speaker-a", "Kundin", "Gut. Hier ist Ihre Auszahlung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Tourist", "Der ATM hat kein Geld ausgegeben."],
+          ["speaker-b", "Hotline", "Wurde Ihr Konto belastet?"],
+          ["speaker-a", "Tourist", "Ja, 200 Euro abgebucht, aber kein Geld."],
+          ["speaker-b", "Hotline", "Das passiert selten. Ihre Kartennummer?"],
+          ["speaker-a", "Tourist", "4929 ... 1234."],
+          ["speaker-b", "Hotline", "Wir buchen es innerhalb von drei Tagen zurück."],
+          ["speaker-a", "Tourist", "Aber ich brauche jetzt Bargeld!"],
+          ["speaker-b", "Hotline", "Gehen Sie in die Filiale, man hilft Ihnen dort."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the garden center",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich suche Kräuter für den Balkon."],
+          ["speaker-b", "Mitarbeiter", "Wir haben Basilikum, Minze, Rosmarin."],
+          ["speaker-a", "Kundin", "Brauchen die viel Sonne?"],
+          ["speaker-b", "Mitarbeiter", "Basilikum mag Sonne, Minze kommt mit Schatten zurecht."],
+          ["speaker-a", "Kundin", "Ich nehme beides. Und Blumenerde?"],
+          ["speaker-b", "Mitarbeiter", "Dort hinten, 20-Liter-Säcke."],
+          ["speaker-a", "Kundin", "Sind die Töpfe hier auch?"],
+          ["speaker-b", "Mitarbeiter", "Ja, Terrakotta oder Plastik?"],
+          ["speaker-a", "Kundin", "Terrakotta sieht schöner aus."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Mein Rasen hat braune Flecken."],
+          ["speaker-b", "Gärtnerin", "Wann haben Sie zuletzt gedüngt?"],
+          ["speaker-a", "Kunde", "Im Frühjahr. Dann kam die Hitze."],
+          ["speaker-b", "Gärtnerin", "Typisch. Dieser Rasendünger hilft."],
+          ["speaker-a", "Kunde", "Und das Unkraut?"],
+          ["speaker-b", "Gärtnerin", "Erst Vertikutieren, dann Dünger."],
+          ["speaker-a", "Kunde", "Vertikutieren? Was ist das?"],
+          ["speaker-b", "Gärtnerin", "Moos rausrechen. Ein Gerät kann man leihen."],
+          ["speaker-a", "Kunde", "Gut, ich leihe es hier aus."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte einen Obstbaum pflanzen."],
+          ["speaker-b", "Baumschuler", "Wie viel Platz haben Sie?"],
+          ["speaker-a", "Kundin", "Mittelgroßer Garten, sonnig."],
+          ["speaker-b", "Baumschuler", "Ein Apfelbaum braucht 20 Quadratmeter."],
+          ["speaker-a", "Kundin", "Das passt. Welche Sorte empfehlen Sie?"],
+          ["speaker-b", "Baumschuler", "Elstar, robust und lecker."],
+          ["speaker-a", "Kundin", "Trägt der schon nächstes Jahr?"],
+          ["speaker-b", "Baumschuler", "In zwei bis drei Jahren."],
+          ["speaker-a", "Kundin", "Gut, ich warte gern."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the physiotherapist",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Physio", "Guten Tag. Wo tut es weh?"],
+          ["speaker-b", "Patient", "Im unteren Rücken."],
+          ["speaker-a", "Physio", "Seit wann?"],
+          ["speaker-b", "Patient", "Seit einer Woche, nach dem Sport."],
+          ["speaker-a", "Physio", "Legen Sie sich bitte auf die Bank."],
+          ["speaker-b", "Patient", "Hier tut es besonders weh."],
+          ["speaker-a", "Physio", "Die Muskulatur ist stark verspannt."],
+          ["speaker-b", "Patient", "Können Sie helfen?"],
+          ["speaker-a", "Physio", "Ja, mit Massage und Übungen."],
+          ["speaker-b", "Patient", "Wie viele Sitzungen brauche ich?"],
+          ["speaker-a", "Physio", "Etwa sechs Termine."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Patientin", "Mein Knie knickt immer wieder."],
+          ["speaker-b", "Therapeut", "Nach einer Verletzung?"],
+          ["speaker-a", "Patientin", "Ja, Skifahren vor zwei Monaten."],
+          ["speaker-b", "Therapeut", "Die Bänder sind noch schwach."],
+          ["speaker-a", "Patientin", "Was soll ich machen?"],
+          ["speaker-b", "Therapeut", "Stabilisationsübungen und vorsichtig belasten."],
+          ["speaker-a", "Patientin", "Darf ich joggen?"],
+          ["speaker-b", "Therapeut", "Noch nicht. Erst das Knie stärken."],
+          ["speaker-a", "Patientin", "Gut, dann habe ich Geduld."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Therapeut", "Machen Sie die Übungen zu Hause?"],
+          ["speaker-b", "Patient", "Ehrlich gesagt, nicht regelmäßig."],
+          ["speaker-a", "Therapeut", "Das ist wichtig für den Erfolg."],
+          ["speaker-b", "Patient", "Ich habe zu wenig Zeit."],
+          ["speaker-a", "Therapeut", "Zehn Minuten täglich reichen."],
+          ["speaker-b", "Patient", "Wirklich nur zehn?"],
+          ["speaker-a", "Therapeut", "Ja, aber jeden Tag."],
+          ["speaker-b", "Patient", "Okay, ich verspreche es."],
+          ["speaker-a", "Therapeut", "Gut. Hier ein Übungsblatt für zu Hause."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the funeral home",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Bestatter", "Mein herzliches Beileid."],
+          ["speaker-b", "Angehörige", "Danke. Wir sind gekommen wegen der Beerdigung."],
+          ["speaker-a", "Bestatter", "Hatten Ihre Mutter schon einen Vorsorgevertrag?"],
+          ["speaker-b", "Angehörige", "Nein, leider nicht."],
+          ["speaker-a", "Bestatter", "Dann besprechen wir die Details."],
+          ["speaker-b", "Angehörige", "Sie wollte eine Urnenbestattung."],
+          ["speaker-a", "Bestatter", "Friedwald oder auf dem Friedhof?"],
+          ["speaker-b", "Angehörige", "Auf dem Friedhof, bei meinem Vater."],
+          ["speaker-a", "Bestatter", "Das lässt sich einrichten."],
+          ["speaker-b", "Angehörige", "Danke, dass Sie so einfühlsam sind."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Witwe", "Mein Mann ist gestern gestorben."],
+          ["speaker-b", "Bestatterin", "Ich fühle mit Ihnen. Waren Sie bei ihm?"],
+          ["speaker-a", "Witwe", "Ja, im Krankenhaus."],
+          ["speaker-b", "Bestatterin", "Das ist ein Trost. Möchten Sie eine Trauerfeier?"],
+          ["speaker-a", "Witwe", "Ja, klein und still."],
+          ["speaker-b", "Bestatterin", "Mit Pfarrer oder weltlich?"],
+          ["speaker-a", "Witwe", "Der Pfarrer unserer Gemeinde."],
+          ["speaker-b", "Bestatterin", "Kümmern wir uns. Alles Weitere besprechen wir morgen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Sohn", "Die Trauerfeier war sehr schön."],
+          ["speaker-b", "Tochter", "Ja, Mama hätte es gefallen."],
+          ["speaker-a", "Sohn", "So viele Menschen kamen."],
+          ["speaker-b", "Tochter", "Sie war sehr beliebt."],
+          ["speaker-a", "Sohn", "Der Nachruf war bewegend."],
+          ["speaker-b", "Tochter", "Ich weine immer noch."],
+          ["speaker-a", "Sohn", "Das braucht Zeit. Komm, wir gehen nach Hause."],
+          ["speaker-b", "Tochter", "Danke, dass du alles organisiert hast."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the wedding",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Standesbeamte", "Liebes Brautpaar, herzlich willkommen."],
+          ["speaker-b", "Bräutigam", "Danke. Wir sind etwas aufgeregt."],
+          ["speaker-a", "Standesbeamte", "Das ist normal. Wollen Sie Ja sagen?"],
+          ["speaker-b", "Braut", "Ja, mit ganzem Herzen."],
+          ["speaker-a", "Standesbeamte", "Dann erkläre ich Sie zu Mann und Frau."],
+          ["speaker-b", "Bräutigam", "Darf ich die Braut küssen?"],
+          ["speaker-a", "Standesbeamte", "Das ist jetzt Ihre Aufgabe."],
+          ["speaker-b", "Braut", "Ich bin so glücklich."],
+          ["speaker-a", "Standesbeamte", "Hier die Ringe. Alles Gute für Sie beide."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Herzlichen Glückwunsch! Ein tolles Paar."],
+          ["speaker-b", "Braut", "Danke, dass du gekommen bist."],
+          ["speaker-a", "Gast", "Die Trauung war sehr emotional."],
+          ["speaker-b", "Braut", "Besonders die Rede meines Vaters."],
+          ["speaker-a", "Gast", "Wo geht die Hochzeitsreise hin?"],
+          ["speaker-b", "Braut", "Nach Italien, an die Amalfiküste."],
+          ["speaker-a", "Gast", "Traumhaft! Das habt ihr verdient."],
+          ["speaker-b", "Braut", "Jetzt erstmal feiern und tanzen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Trauzeugin", "Ich möchte einen Toast ausbringen."],
+          ["speaker-b", "Gäste", "Pssst, die Trauzeugin spricht."],
+          ["speaker-a", "Trauzeugin", "Liebe Lisa, lieber Tom. Seit zwanzig Jahren kenne ich euch."],
+          ["speaker-b", "Braut", "Oh je, jetzt wird's persönlich."],
+          ["speaker-a", "Trauzeugin", "Ihr seid das schönste Paar. Auf eure Liebe!"],
+          ["speaker-b", "Alle", "Prost!"],
+          ["speaker-a", "Bräutigam", "Danke für die wunderbaren Worte."],
+          ["speaker-b", "Trauzeugin", "Ihr seid meine Vorbilder."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Yoga class",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Yogalehrerin", "Willkommen. Hast du schon mal Yoga gemacht?"],
+          ["speaker-b", "Teilnehmer", "Nein, es ist mein erstes Mal."],
+          ["speaker-a", "Yogalehrerin", "Keine Sorge. Wir fangen langsam an."],
+          ["speaker-b", "Teilnehmer", "Welche Matte soll ich nehmen?"],
+          ["speaker-a", "Yogalehrerin", "Die blauen Matten dort."],
+          ["speaker-b", "Teilnehmer", "Brauche ich besondere Kleidung?"],
+          ["speaker-a", "Yogalehrerin", "Bequeme Sachen reichen."],
+          ["speaker-b", "Teilnehmer", "Gut. Ich bin bereit."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Lehrerin", "Schließt die Augen. Atmet tief ein."],
+          ["speaker-b", "Schülerin", "Ich kann mich schlecht konzentrieren."],
+          ["speaker-a", "Lehrerin", "Lass die Gedanken ziehen wie Wolken."],
+          ["speaker-b", "Schülerin", "Das klappt nicht so einfach."],
+          ["speaker-a", "Lehrerin", "Es braucht Übung. Bleib geduldig."],
+          ["speaker-b", "Schülerin", "Wie oft soll ich üben?"],
+          ["speaker-a", "Lehrerin", "Zweimal die Woche reicht für den Anfang."],
+          ["speaker-b", "Schülerin", "Danke, ich komme wieder."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Teilnehmer", "Der herabschauende Hund tut weh."],
+          ["speaker-b", "Lehrer", "Dann geh in die Knie, das ist okay."],
+          ["speaker-a", "Teilnehmer", "Ist das normal?"],
+          ["speaker-b", "Lehrer", "Ja, jeder Körper ist anders."],
+          ["speaker-a", "Teilnehmer", "Welche Haltung ist gut für den Rücken?"],
+          ["speaker-b", "Lehrer", "Die Katze-Kuh-Bewegung. Mach mit."],
+          ["speaker-a", "Teilnehmer", "Das fühlt sich gut an."],
+          ["speaker-b", "Lehrer", "Atme dabei ruhig weiter."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the ski resort",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Skifahrer", "Ein Tagesskipass, bitte."],
+          ["speaker-b", "Kassierer", "Erwachsen oder Kind?"],
+          ["speaker-a", "Skifahrer", "Erwachsen."],
+          ["speaker-b", "Kassierer", "42 Euro. Mit der Gondel?"],
+          ["speaker-a", "Skifahrer", "Ja, alle Lifte."],
+          ["speaker-b", "Kassierer", "Viel Spaß auf der Piste."],
+          ["speaker-a", "Skifahrer", "Welche Piste ist für Anfänger?"],
+          ["speaker-b", "Kassierer", "Die blaue 12 ganz links."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Skilehrer", "Bist du zum ersten Mal auf Skiern?"],
+          ["speaker-b", "Schülerin", "Ja, ich habe etwas Angst."],
+          ["speaker-a", "Skilehrer", "Wir üben erst den Pflug."],
+          ["speaker-b", "Schülerin", "Wie bremse ich?"],
+          ["speaker-a", "Skilehrer", "Die Skispitzen zusammen, die Enden auseinander."],
+          ["speaker-b", "Schülerin", "So? Oh, es geht!"],
+          ["speaker-a", "Skilehrer", "Super. Jetzt eine leichte Kurve."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Verletzter", "Hilfe, ich bin gestürzt!"],
+          ["speaker-b", "Pistenretter", "Haben Sie Schmerzen?"],
+          ["speaker-a", "Verletzter", "Mein Knie, etwas tut weh."],
+          ["speaker-b", "Pistenretter", "Bewegen Sie es nicht. Ich rufe den Schlitten."],
+          ["speaker-a", "Verletzter", "Muss ich ins Krankenhaus?"],
+          ["speaker-b", "Pistenretter", "Der Arzt untersucht Sie unten."],
+          ["speaker-a", "Verletzter", "Danke für die schnelle Hilfe."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the bar",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Barkeeper", "Guten Abend. Was darf es sein?"],
+          ["speaker-b", "Gast", "Ein Bier, bitte."],
+          ["speaker-a", "Barkeeper", "Pils oder Weizen?"],
+          ["speaker-b", "Gast", "Ein Pils."],
+          ["speaker-a", "Barkeeper", "Groß oder klein?"],
+          ["speaker-b", "Gast", "0,5 Liter, bitte."],
+          ["speaker-a", "Barkeeper", "Macht 3,80 Euro."],
+          ["speaker-b", "Gast", "Hier. Darf ich hier sitzen?"],
+          ["speaker-a", "Barkeeper", "Klar, der Platz ist frei."],
+          ["speaker-b", "Gast", "Läuft das Fußballspiel heute?"],
+          ["speaker-a", "Barkeeper", "Ja, ab 20:15 Uhr."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Welche Cocktails empfehlen Sie?"],
+          ["speaker-b", "Barkeeperin", "Den Mojito, er ist sehr erfrischend."],
+          ["speaker-a", "Gast", "Gut, zwei Mojito bitte."],
+          ["speaker-b", "Barkeeperin", "Mit braunem oder weißem Rum?"],
+          ["speaker-a", "Gast", "Weißem Rum."],
+          ["speaker-b", "Barkeeperin", "Kommt sofort. Zusammen oder getrennt?"],
+          ["speaker-a", "Gast", "Zusammen, ich zahle."],
+          ["speaker-b", "Barkeeperin", "17 Euro. Prost."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Stammgast", "Heute ist viel los, oder?"],
+          ["speaker-b", "Barkeeper", "Ja, Karaoke-Abend."],
+          ["speaker-a", "Stammgast", "Oh je. Singst du auch?"],
+          ["speaker-b", "Barkeeper", "Nur hinter der Theke."],
+          ["speaker-a", "Stammgast", "Ich traue mich nicht."],
+          ["speaker-b", "Barkeeper", "Nach drei Bier denkst du anders."],
+          ["speaker-a", "Stammgast", "Da hast du wohl recht. Noch eins."],
+          ["speaker-b", "Barkeeper", "Aber dann singst du auch."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the airport — lost luggage",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Passagier", "Mein Koffer ist nicht angekommen."],
+          ["speaker-b", "Mitarbeiter", "Welcher Flug?"],
+          ["speaker-a", "Passagier", "LH 402 aus New York."],
+          ["speaker-b", "Mitarbeiter", "Beschreiben Sie den Koffer."],
+          ["speaker-a", "Passagier", "Schwarz, groß, mit rotem Band am Griff."],
+          ["speaker-b", "Mitarbeiter", "Ich suche im System. Hier, er kommt mit dem nächsten Flug."],
+          ["speaker-a", "Passagier", "Wann landet der?"],
+          ["speaker-b", "Mitarbeiter", "In zwei Stunden. Wir liefern ihn Ihnen."],
+          ["speaker-a", "Passagier", "An mein Hotel?"],
+          ["speaker-b", "Mitarbeiter", "Ja, geben Sie die Hoteladresse an."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Reisende", "Der Koffer ist beschädigt!"],
+          ["speaker-b", "Gepäckservice", "Was genau?"],
+          ["speaker-a", "Reisende", "Der Griff ist abgerissen."],
+          ["speaker-b", "Gepäckservice", "Das tut uns leid. Füllen Sie das Formular aus."],
+          ["speaker-a", "Reisende", "Bekomme ich Ersatz?"],
+          ["speaker-b", "Gepäckservice", "Ja, bis 50 Euro sofort."],
+          ["speaker-a", "Reisende", "Gut. Das Geld nehme ich jetzt."],
+          ["speaker-b", "Gepäckservice", "Hier, in bar. Nochmals Entschuldigung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Passagier", "Mein Gepäck ist seit drei Tagen verschwunden."],
+          ["speaker-b", "Schalterleiter", "Wir haben es weltweit gesucht."],
+          ["speaker-a", "Passagier", "Und?"],
+          ["speaker-b", "Schalterleiter", "Leider noch nicht gefunden."],
+          ["speaker-a", "Passagier", "Dann möchte ich Schadensersatz."],
+          ["speaker-b", "Schalterleiter", "Bis 1.500 Euro, ja. Die Liste bitte."],
+          ["speaker-a", "Passagier", "Hier, mit Kaufbelegen."],
+          ["speaker-b", "Schalterleiter", "Wir bearbeiten das innerhalb von zwei Wochen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the university — registration",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Studierendenberater", "Guten Tag. Sie möchten sich einschreiben?"],
+          ["speaker-b", "Studentin", "Ja, für Informatik."],
+          ["speaker-a", "Studierendenberater", "Haben Sie die Zulassung?"],
+          ["speaker-b", "Studentin", "Ja, hier."],
+          ["speaker-a", "Studierendenberater", "Und das Abiturzeugnis."],
+          ["speaker-b", "Studentin", "Alles dabei."],
+          ["speaker-a", "Studierendenberater", "Der Semesterbeitrag beträgt 320 Euro."],
+          ["speaker-b", "Studentin", "Kann ich überweisen?"],
+          ["speaker-a", "Studierendenberater", "Ja, oder bar zahlen."],
+          ["speaker-b", "Studentin", "Dann bar. Hier bitte."],
+          ["speaker-a", "Studierendenberater", "Ihr Studentenausweis kommt per Post."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Student", "Wo finde ich den Hörsaal A?"],
+          ["speaker-b", "Mitarbeiterin", "Im Hauptgebäude, erster Stock."],
+          ["speaker-a", "Student", "Danke. Und das Studentenwerk?"],
+          ["speaker-b", "Mitarbeiterin", "Nebenan, da gibt es die Mensakarte."],
+          ["speaker-a", "Student", "Ich brauche auch einen Bibliotheksausweis."],
+          ["speaker-b", "Mitarbeiterin", "Den bekommen Sie in der Bib."],
+          ["speaker-a", "Student", "Vielen Dank für die Hilfe."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Austauschstudent", "Ich bin Erasmus-Student aus Spanien."],
+          ["speaker-b", "Koordinatorin", "Willkommen. Ihr Learning Agreement bitte."],
+          ["speaker-a", "Austauschstudent", "Hier. Sind die Kurse auf Deutsch?"],
+          ["speaker-b", "Koordinatorin", "Einige auf Englisch. Sie wählen selbst."],
+          ["speaker-a", "Austauschstudent", "Gibt es einen Deutschkurs?"],
+          ["speaker-b", "Koordinatorin", "Ja, das Sprachzentrum bietet kostenlose Kurse."],
+          ["speaker-a", "Austauschstudent", "Super, da melde ich mich an."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the car rental",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich habe einen Wagen reserviert."],
+          ["speaker-b", "Mitarbeiter", "Name?"],
+          ["speaker-a", "Kundin", "Fischer."],
+          ["speaker-b", "Mitarbeiter", "Ein VW Golf, für drei Tage."],
+          ["speaker-a", "Kundin", "Genau. Was kostet das?"],
+          ["speaker-b", "Mitarbeiter", "120 Euro inklusive Versicherung."],
+          ["speaker-a", "Kundin", "Mit Vollkasko?"],
+          ["speaker-b", "Mitarbeiter", "Ja, mit 750 Euro Selbstbeteiligung."],
+          ["speaker-a", "Kundin", "Gut. Wo steht der Wagen?"],
+          ["speaker-b", "Mitarbeiter", "Parkplatz C, Nummer 34."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich möchte den Wagen zurückgeben."],
+          ["speaker-b", "Mitarbeiterin", "Haben Sie vollgetankt?"],
+          ["speaker-a", "Kunde", "Ja, die Tankquittung ist hier."],
+          ["speaker-b", "Mitarbeiterin", "Gut. Gab es Probleme?"],
+          ["speaker-a", "Kunde", "Nein, alles in Ordnung."],
+          ["speaker-b", "Mitarbeiterin", "Dann ist die Kaution wieder frei."],
+          ["speaker-a", "Kunde", "Danke. Bis zum nächsten Mal."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Der Wagen springt nicht an."],
+          ["speaker-b", "Hotline", "Haben Sie die Kupplung getreten?"],
+          ["speaker-a", "Kundin", "Ja, nichts passiert."],
+          ["speaker-b", "Hotline", "Dann schicken wir den Pannendienst."],
+          ["speaker-a", "Kundin", "Wie lange dauert das?"],
+          ["speaker-b", "Hotline", "Etwa 45 Minuten. Bleiben Sie beim Auto."],
+          ["speaker-a", "Kundin", "Bekomme ich einen Ersatzwagen?"],
+          ["speaker-b", "Hotline", "Ja, wenn die Reparatur länger dauert."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the protest march",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Demonstrant", "Was fordern wir?"],
+          ["speaker-b", "Menge", "Klimagerechtigkeit!"],
+          ["speaker-a", "Demonstrant", "Wann fordern wir es?"],
+          ["speaker-b", "Menge", "Jetzt!"],
+          ["speaker-a", "Demonstrant", "Komm, wir schließen uns dem Zug an."],
+          ["speaker-b", "Freund", "Hast du das Plakat?"],
+          ["speaker-a", "Demonstrant", "Ja, 'Es gibt keinen Planet B'."],
+          ["speaker-b", "Freund", "Gut. Friedlich bleiben, ja?"],
+          ["speaker-a", "Demonstrant", "Immer friedlich."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Journalistin", "Warum demonstrieren Sie heute?"],
+          ["speaker-b", "Aktivist", "Für bezahlbaren Wohnraum."],
+          ["speaker-a", "Journalistin", "Sind Sie selbst betroffen?"],
+          ["speaker-b", "Aktivist", "Meine Miete ist in fünf Jahren um 40% gestiegen."],
+          ["speaker-a", "Journalistin", "Was erwarten Sie von der Politik?"],
+          ["speaker-b", "Aktivist", "Mietendeckel und mehr Sozialwohnungen."],
+          ["speaker-a", "Journalistin", "Danke für das Gespräch."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Polizist", "Bitte den Weg freimachen."],
+          ["speaker-b", "Ordner", "Wir sind angemeldet, die Route ist genehmigt."],
+          ["speaker-a", "Polizist", "Gut. Bleiben Sie auf der genehmigten Strecke."],
+          ["speaker-b", "Ordner", "Selbstverständlich."],
+          ["speaker-a", "Polizist", "Bei Verstößen lösen wir auf."],
+          ["speaker-b", "Ordner", "Wir bleiben friedlich und auf Kurs."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the psychologist",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Therapeutin", "Guten Tag. Erzählen Sie, was Sie herführt."],
+          ["speaker-b", "Patient", "Ich schlafe schlecht und bin ständig müde."],
+          ["speaker-a", "Therapeutin", "Seit wann?"],
+          ["speaker-b", "Patient", "Seit drei Monaten etwa."],
+          ["speaker-a", "Therapeutin", "Gibt es einen Auslöser?"],
+          ["speaker-b", "Patient", "Stress auf der Arbeit, vielleicht."],
+          ["speaker-a", "Therapeutin", "Erzählen Sie von Ihrem Arbeitsalltag."],
+          ["speaker-b", "Patient", "Viel Druck, wenig Anerkennung."],
+          ["speaker-a", "Therapeutin", "Das klingt belastend. Reden wir darüber."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Therapeut", "Wie geht es Ihnen heute?"],
+          ["speaker-b", "Klientin", "Etwas besser. Die Übung hat geholfen."],
+          ["speaker-a", "Therapeut", "Die Atemübung vor dem Schlafen?"],
+          ["speaker-b", "Klientin", "Ja, ich schlafe tiefer."],
+          ["speaker-a", "Therapeut", "Gut. Heute sprechen wir über Ihre Ängste."],
+          ["speaker-b", "Klientin", "Davor habe ich ein bisschen Angst."],
+          ["speaker-a", "Therapeut", "Genau darüber. Keine Sorge, langsam."],
+          ["speaker-b", "Klientin", "Okay, ich versuche es."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Patient", "Ich glaube, ich bin depressiv."],
+          ["speaker-b", "Psychiaterin", "Welche Symptome bemerken Sie?"],
+          ["speaker-a", "Patient", "Nichts macht mehr Freude."],
+          ["speaker-b", "Psychiaterin", "Seit wann fühlen Sie so?"],
+          ["speaker-a", "Patient", "Ein halbes Jahr, aber es wird schlimmer."],
+          ["speaker-b", "Psychiaterin", "Haben Sie Suizidgedanken?"],
+          ["speaker-a", "Patient", "Manchmal."],
+          ["speaker-b", "Psychiaterin", "Danke für Ihre Ehrlichkeit. Wir helfen Ihnen."],
+          ["speaker-a", "Patient", "Ich hoffe es."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the locksmith — locked out",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Ausgesperrte", "Hilfe, ich habe mich ausgesperrt!"],
+          ["speaker-b", "Schlüsseldienst", "Wo sind Sie?"],
+          ["speaker-a", "Ausgesperrte", "Goethestraße 14, dritter Stock."],
+          ["speaker-b", "Schlüsseldienst", "In 20 Minuten bin ich da."],
+          ["speaker-a", "Ausgesperrte", "Was kostet das?"],
+          ["speaker-b", "Schlüsseldienst", "Tagsüber 80 Euro."],
+          ["speaker-a", "Ausgesperrte", "Gut, ich warte vor der Tür."],
+          ["speaker-b", "Schlüsseldienst", "Klingel gleich unten bei Schlüsseldienst Meier."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Schlüsseldienst", "So, die Tür ist offen."],
+          ["speaker-b", "Bewohner", "Gott sei Dank. Wie haben Sie das gemacht?"],
+          ["speaker-a", "Schlüsseldienst", "Mit einer Spezialkarte. Kein Schaden."],
+          ["speaker-b", "Bewohner", "Zum Glück. Hier sind 80 Euro."],
+          ["speaker-a", "Schlüsseldienst", "Danke. Lassen Sie einen Ersatzschlüssel machen."],
+          ["speaker-b", "Bewohner", "Gute Idee. Morgen beim Baumarkt."],
+          ["speaker-a", "Schlüsseldienst", "Oder bei mir, ich habe eine mobile Werkstatt."],
+          ["speaker-b", "Bewohner", "Noch besser. Machen Sie zwei."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mieter", "Der Schlüssel ist im Schloss abgebrochen."],
+          ["speaker-b", "Fachmann", "Das ist komplizierter. Ich muss das Schloss ausbauen."],
+          ["speaker-a", "Mieter", "Dauert das lange?"],
+          ["speaker-b", "Fachmann", "Etwa eine Stunde. Und wird teurer."],
+          ["speaker-a", "Mieter", "Wie viel?"],
+          ["speaker-b", "Fachmann", "Etwa 150 Euro mit neuem Schloss."],
+          ["speaker-a", "Mieter", "Machen Sie es. Ich will endlich rein."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the wine tasting",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Winzer", "Willkommen zur Weinprobe. Fangen wir mit Riesling an."],
+          ["speaker-b", "Gast", "Der ist trocken, oder?"],
+          ["speaker-a", "Winzer", "Ja, mit einer leichten Säure."],
+          ["speaker-b", "Gast", "Schmeckt nach grünem Apfel."],
+          ["speaker-a", "Winzer", "Gut erkannt. Jetzt der Spätburgunder."],
+          ["speaker-b", "Gast", "Der ist weicher. Kirsch?"],
+          ["speaker-a", "Winzer", "Genau, und ein Hauch Vanille vom Fass."],
+          ["speaker-b", "Gast", "Den nehme ich. Eine Flasche, bitte."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Besucherin", "Welcher Wein passt zu Fisch?"],
+          ["speaker-b", "Sommelière", "Ein trockener Weißburgunder."],
+          ["speaker-a", "Besucherin", "Haben Sie einen?"],
+          ["speaker-b", "Sommelière", "Ja, den von 2022. Probieren Sie."],
+          ["speaker-a", "Besucherin", "Oh, sehr elegant. Und zu Rind?"],
+          ["speaker-b", "Sommelière", "Ein kräftiger Cabernet Sauvignon."],
+          ["speaker-a", "Besucherin", "Ich nehme von jedem zwei Flaschen."],
+          ["speaker-b", "Sommelière", "Gute Wahl. Einsteigen lohnt sich."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Weinkenner", "Dieser Wein hat einen Korkfehler."],
+          ["speaker-b", "Winzerin", "Lassen Sie mich probieren."],
+          ["speaker-a", "Weinkenner", "Riecht modrig."],
+          ["speaker-b", "Winzerin", "Sie haben recht. Entschuldigung."],
+          ["speaker-a", "Weinkenner", "Kann ich eine andere Flasche haben?"],
+          ["speaker-b", "Winzerin", "Selbstverständlich. Hier, Jahrgang 2023."],
+          ["speaker-a", "Weinkenner", "Viel besser. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the daycare — picking up child",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Erzieherin", "Guten Tag, Sie holen Mia ab?"],
+          ["speaker-b", "Mutter", "Ja, wie war ihr Tag?"],
+          ["speaker-a", "Erzieherin", "Gut, sie hat viel gemalt."],
+          ["speaker-b", "Mutter", "Hat sie gut gegessen?"],
+          ["speaker-a", "Erzieherin", "Ja, den Brokkoli nicht so gern."],
+          ["speaker-b", "Mutter", "Typisch. Komm, Mia, wir gehen."],
+          ["speaker-a", "Erzieherin", "Morgen ist Ausflug, bitte Regenjacke mitgeben."],
+          ["speaker-b", "Mutter", "Gut, ich packe sie ein. Auf Wiedersehen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Vater", "Entschuldigung, ich bin etwas spät."],
+          ["speaker-b", "Erzieher", "Kein Problem. Noch zehn Minuten."],
+          ["speaker-a", "Vater", "Mussten Sie Überstunden machen?"],
+          ["speaker-b", "Erzieher", "Nein, wir schließen um 17 Uhr."],
+          ["speaker-a", "Vater", "Gut. Leon, hast du deine Sachen?"],
+          ["speaker-b", "Kind", "Papa, ich habe ein Bild gemalt!"],
+          ["speaker-a", "Vater", "Das ist wunderschön. Für den Kühlschrank."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Erzieherin", "Wir müssen über Finns Verhalten sprechen."],
+          ["speaker-b", "Mutter", "Oh je, was ist passiert?"],
+          ["speaker-a", "Erzieherin", "Er hat ein anderes Kind geschubst."],
+          ["speaker-b", "Mutter", "Das tut mir leid. Wir sprechen mit ihm."],
+          ["speaker-a", "Erzieherin", "Es ist nicht dramatisch, aber klären Sie es."],
+          ["speaker-b", "Mutter", "Ja, sofort heute Abend."],
+          ["speaker-a", "Erzieherin", "Danke. Kooperation ist uns wichtig."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the hardware store (Baumarkt)",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kunde", "Wo finde ich Schrauben?"],
+          ["speaker-b", "Mitarbeiter", "Gang 7, rechte Seite."],
+          ["speaker-a", "Kunde", "Danke. Und Holzlatten?"],
+          ["speaker-b", "Mitarbeiter", "Gang 14, ganz hinten."],
+          ["speaker-a", "Kunde", "Perfekt. Haben Sie auch Farbe?"],
+          ["speaker-b", "Mitarbeiter", "Ja, Abteilung Farben und Lacke, Gang 3."],
+          ["speaker-a", "Kunde", "Sie kennen sich gut aus."],
+          ["speaker-b", "Mitarbeiter", "Zehn Jahre hier."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte eine Wand streichen."],
+          ["speaker-b", "Berater", "Welche Farbe?"],
+          ["speaker-a", "Kundin", "Weiß, aber nicht zu kalt."],
+          ["speaker-b", "Berater", "Dann ein Warmweiß, das ist gemütlicher."],
+          ["speaker-a", "Kundin", "Brauche ich Grundierung?"],
+          ["speaker-b", "Berater", "Wenn der Untergrund saugend ist, ja."],
+          ["speaker-a", "Kundin", "Wie viel Farbe für 20 Quadratmeter?"],
+          ["speaker-b", "Berater", "Zwei Eimer zu je 10 Liter reichen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kunde", "Können Sie mir Holz zuschneiden?"],
+          ["speaker-b", "Mitarbeiter", "Ja, welches Maß?"],
+          ["speaker-a", "Kunde", "Die Platte 120 mal 80 Zentimeter."],
+          ["speaker-b", "Mitarbeiter", "Genau so?"],
+          ["speaker-a", "Kunde", "Ja. Was kostet der Zuschnitt?"],
+          ["speaker-b", "Mitarbeiter", "50 Cent pro Schnitt. Also 2 Euro."],
+          ["speaker-a", "Kunde", "Günstig. Machen Sie bitte."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the spa",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Empfangsdame", "Willkommen in der Therme. Tageskarte?"],
+          ["speaker-b", "Gast", "Ja, bitte."],
+          ["speaker-a", "Empfangsdame", "28 Euro. Bademantel und Handtuch?"],
+          ["speaker-b", "Gast", "Ja, beides leihen."],
+          ["speaker-a", "Empfangsdame", "Noch 8 Euro extra. Die Umkleiden sind links."],
+          ["speaker-b", "Gast", "Gibt es verschiedene Saunen?"],
+          ["speaker-a", "Empfangsdame", "Ja, vier: finnisch, bio, dampf und infrarot."],
+          ["speaker-b", "Gast", "Danke, ich freue mich drauf."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Ich habe eine Massage um 15 Uhr gebucht."],
+          ["speaker-b", "Masseurin", "Richtig. Rücken oder Ganzkörper?"],
+          ["speaker-a", "Gast", "Ganzkörper."],
+          ["speaker-b", "Masseurin", "Legen Sie sich auf die Liege."],
+          ["speaker-a", "Gast", "Das Öl riecht gut."],
+          ["speaker-b", "Masseurin", "Lavendel. Entspannt die Muskeln."],
+          ["speaker-a", "Gast", "Genau das brauche ich."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Freundin", "Wie war der Saunagang?"],
+          ["speaker-b", "Freundin", "Sehr heiß, aber danach total erfrischt."],
+          ["speaker-a", "Freundin", "Sollen wir in den Ruheraum?"],
+          ["speaker-b", "Freundin", "Ja, mit Tee und einer Decke."],
+          ["speaker-a", "Freundin", "Welcher Aufguss kommt als nächstes?"],
+          ["speaker-b", "Freundin", "Um 16 Uhr, mit Honig und Salz."],
+          ["speaker-a", "Freundin", "Den lassen wir uns nicht entgehen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the recycling center",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Bürger", "Wo entsorge ich Altglas?"],
+          ["speaker-b", "Mitarbeiter", "Dort, nach Farben getrennt."],
+          ["speaker-a", "Bürger", "Grün, braun, weiß?"],
+          ["speaker-b", "Mitarbeiter", "Genau. Und Deckel in den Gelben Sack."],
+          ["speaker-a", "Bürger", "Und alte Elektrogeräte?"],
+          ["speaker-b", "Mitarbeiter", "In den Container für Elektroschrott."],
+          ["speaker-a", "Bürger", "Danke. Das habe ich alles im Keller."],
+          ["speaker-b", "Mitarbeiter", "Jetzt wird ausgemistet, was?"],
+          ["speaker-a", "Bürger", "Ja, endlich."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Besucherin", "Kann ich alte Möbel hier abgeben?"],
+          ["speaker-b", "Verwalter", "Ja, Sperrmüll bis drei Kubikmeter."],
+          ["speaker-a", "Besucherin", "Kostet das etwas?"],
+          ["speaker-b", "Verwalter", "Einmal im Jahr kostenlos mit Berechtigungsschein."],
+          ["speaker-a", "Besucherin", "Wo bekomme ich den?"],
+          ["speaker-b", "Verwalter", "Online beim Rathaus."],
+          ["speaker-a", "Besucherin", "Gut, dann komme ich nächste Woche wieder."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mitarbeiter", "Kein Bauschutt hier! Nur Haushaltsmüll."],
+          ["speaker-b", "Anwohner", "Oh, wusste ich nicht. Wohin damit?"],
+          ["speaker-a", "Mitarbeiter", "Zur Bauschuttdeponie an der Industriestraße."],
+          ["speaker-b", "Anwohner", "Ist die weit?"],
+          ["speaker-a", "Mitarbeiter", "Zehn Kilometer. Aber nur mit Anhänger."],
+          ["speaker-b", "Anwohner", "Dann leihe ich einen Transporter."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the blood donation",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Schwester", "Sind Sie das erste Mal hier?"],
+          ["speaker-b", "Spender", "Ja, ich möchte Blut spenden."],
+          ["speaker-a", "Schwester", "Füllen Sie diesen Fragebogen aus."],
+          ["speaker-b", "Spender", "Dauert das lange?"],
+          ["speaker-a", "Schwester", "Insgesamt etwa eine Stunde."],
+          ["speaker-b", "Spender", "Tut die Nadel weh?"],
+          ["speaker-a", "Schwester", "Nur ein kleiner Piks."],
+          ["speaker-b", "Spender", "Gut, ich bin bereit."],
+          ["speaker-a", "Schwester", "Danach gibt es Essen und Trinken."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Arzt", "Ihr Eisenwert ist zu niedrig."],
+          ["speaker-b", "Spenderin", "Kann ich heute nicht spenden?"],
+          ["speaker-a", "Arzt", "Leider nein. Essen Sie mehr Fleisch oder Hülsenfrüchte."],
+          ["speaker-b", "Spenderin", "Schade. Wann darf ich wiederkommen?"],
+          ["speaker-a", "Arzt", "In drei Monaten, wenn der Wert stimmt."],
+          ["speaker-b", "Spenderin", "Gut, ich achte darauf."],
+          ["speaker-a", "Arzt", "Schön, dass Sie trotzdem gekommen sind."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Schwester", "Wie fühlen Sie sich nach der Spende?"],
+          ["speaker-b", "Spender", "Etwas schwindelig."],
+          ["speaker-a", "Schwester", "Das ist normal. Legen Sie die Beine hoch."],
+          ["speaker-b", "Spender", "Geht gleich wieder."],
+          ["speaker-a", "Schwester", "Trinken Sie den Apfelsaft. Langsam."],
+          ["speaker-b", "Spender", "Danke. Ich habe schon oft gespendet."],
+          ["speaker-a", "Schwester", "Jede Spende rettet Leben. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the parking garage — lost car",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Fahrer", "Ich finde mein Auto nicht."],
+          ["speaker-b", "Wachmann", "Welche Etage?"],
+          ["speaker-a", "Fahrer", "Keine Ahnung. Ich habe es vergessen."],
+          ["speaker-b", "Wachmann", "Marke und Farbe?"],
+          ["speaker-a", "Fahrer", "Silberner Opel Astra."],
+          ["speaker-b", "Wachmann", "Wir fahren die Etagen ab. Kommen Sie."],
+          ["speaker-a", "Fahrer", "Danke. Das ist mir peinlich."],
+          ["speaker-b", "Wachmann", "Passiert ständig. Da, Etage C, ist er das?"],
+          ["speaker-a", "Fahrer", "Ja! Endlich."],
+          ["speaker-b", "Wachmann", "Machen Sie ein Foto vom Standort beim nächsten Mal."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich habe das Parkticket verloren."],
+          ["speaker-b", "Kassierer", "Wann sind Sie eingefahren?"],
+          ["speaker-a", "Kundin", "Vor etwa drei Stunden."],
+          ["speaker-b", "Kassierer", "Das macht 8 Euro, plus 15 Euro Verlustgebühr."],
+          ["speaker-a", "Kundin", "23 Euro insgesamt?"],
+          ["speaker-b", "Kassierer", "Ja. Hier Ihre Quittung."],
+          ["speaker-a", "Kundin", "Teure Verpeiltheit."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Fahrer", "Die Schranke geht nicht auf."],
+          ["speaker-b", "Zentrale", "Haben Sie das Ticket eingesteckt?"],
+          ["speaker-a", "Fahrer", "Ja, aber nichts passiert."],
+          ["speaker-b", "Zentrale", "Lesefehler. Ich öffne manuell."],
+          ["speaker-a", "Fahrer", "Danke. Soll ich das Ticket trotzdem bezahlen?"],
+          ["speaker-b", "Zentrale", "Nein, Durchfahrt frei. Gute Fahrt."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the tattoo studio",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Tätowierer", "Hast du einen Termin?"],
+          ["speaker-b", "Kundin", "Ja, um 14 Uhr."],
+          ["speaker-a", "Tätowierer", "Das Motiv — ein kleiner Vogel?"],
+          ["speaker-b", "Kundin", "Eine Schwalbe, hier am Handgelenk."],
+          ["speaker-a", "Tätowierer", "Mit Farbe oder nur schwarz?"],
+          ["speaker-b", "Kundin", "Nur schwarz, schlicht."],
+          ["speaker-a", "Tätowierer", "Dauert etwa 30 Minuten. Bereit?"],
+          ["speaker-b", "Kundin", "Ja, ich freue mich."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Tätowiererin", "Ist das dein erstes Tattoo?"],
+          ["speaker-b", "Kunde", "Ja, ich bin aufgeregt."],
+          ["speaker-a", "Tätowiererin", "Atme ruhig. Der Schmerz ist aushaltbar."],
+          ["speaker-b", "Kunde", "Wie pflege ich es danach?"],
+          ["speaker-a", "Tätowiererin", "Mit dieser Salbe, zweimal täglich."],
+          ["speaker-b", "Kunde", "Und nicht kratzen, oder?"],
+          ["speaker-a", "Tätowiererin", "Genau. Keine Sonne, kein Schwimmbad für zwei Wochen."],
+          ["speaker-b", "Kunde", "Verstanden. Danke."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Können Sie ein altes Tattoo covern?"],
+          ["speaker-b", "Artist", "Was ist es?"],
+          ["speaker-a", "Kundin", "Ein Name. Mein Ex-Freund."],
+          ["speaker-b", "Artist", "Klassiker. Zeig her."],
+          ["speaker-a", "Kundin", "Geht das mit einer Blume?"],
+          ["speaker-b", "Artist", "Ja, eine Rose deckt gut. Ich zeichne vor."],
+          ["speaker-a", "Kundin", "Perfekt. Weg mit ihm."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Video call with family abroad",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mutter", "Hallo, siehst du mich?"],
+          ["speaker-b", "Tochter", "Ja, Mama. Du bist etwas unscharf."],
+          ["speaker-a", "Mutter", "Warte, ich wische die Kamera."],
+          ["speaker-b", "Tochter", "Jetzt besser. Wie geht es dir?"],
+          ["speaker-a", "Mutter", "Gut. Wann kommst du mal wieder?"],
+          ["speaker-b", "Tochter", "Vielleicht zu Weihnachten."],
+          ["speaker-a", "Mutter", "Das wäre schön. Ich vermisse dich."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Bruder", "Zeig mal deine neue Wohnung."],
+          ["speaker-b", "Schwester", "Hier, ich gehe durch die Räume."],
+          ["speaker-a", "Bruder", "Schön hell! Und der Balkon?"],
+          ["speaker-b", "Schwester", "Groß genug für zwei Stühle."],
+          ["speaker-a", "Bruder", "Da komme ich im Sommer zu Besuch."],
+          ["speaker-b", "Schwester", "Ja, bring Sonnencreme mit."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Opa", "Die Verbindung bricht immer ab."],
+          ["speaker-b", "Enkel", "Drück auf das rote Telefon und dann nochmal anrufen."],
+          ["speaker-a", "Opa", "So? Oh, jetzt geht es."],
+          ["speaker-b", "Enkel", "Super, Opa. Du lernst noch."],
+          ["speaker-a", "Opa", "Die Technik ist nichts für mich."],
+          ["speaker-b", "Enkel", "Doch, du machst es toll."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the car repair shop",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mechaniker", "Guten Tag. Was ist das Problem?"],
+          ["speaker-b", "Kundin", "Der Motor macht ein komisches Geräusch."],
+          ["speaker-a", "Mechaniker", "Lassen Sie mich kurz reinhören."],
+          ["speaker-b", "Kundin", "Hier, beim Starten."],
+          ["speaker-a", "Mechaniker", "Hmm. Könnte die Lichtmaschine sein."],
+          ["speaker-b", "Kundin", "Ist das teuer?"],
+          ["speaker-a", "Mechaniker", "Wir prüfen es und rufen an."],
+          ["speaker-b", "Kundin", "Gut. Wann kann ich den Wagen abholen?"],
+          ["speaker-a", "Mechaniker", "Morgen Nachmittag, schätze ich."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich brauche neue Bremsbeläge."],
+          ["speaker-b", "Meister", "Vorne und hinten?"],
+          ["speaker-a", "Kunde", "Nur vorne, hinten sind okay."],
+          ["speaker-b", "Meister", "Das machen wir in zwei Stunden."],
+          ["speaker-a", "Kunde", "Was kostet das?"],
+          ["speaker-b", "Meister", "Etwa 180 Euro mit Einbau."],
+          ["speaker-a", "Kunde", "Gut, ich warte im Wartezimmer."],
+          ["speaker-b", "Meister", "Es gibt Kaffee und Zeitschriften."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Mein Auto springt im Winter nicht an."],
+          ["speaker-b", "Mechaniker", "Vermutlich die Batterie."],
+          ["speaker-a", "Kundin", "Können Sie die laden?"],
+          ["speaker-b", "Mechaniker", "Wir testen sie. Wenn sie alt ist, besser neu."],
+          ["speaker-a", "Kundin", "Was kostet eine neue Batterie?"],
+          ["speaker-b", "Mechaniker", "Je nach Modell 80 bis 150 Euro."],
+          ["speaker-a", "Kundin", "Wenn nötig, machen Sie sie neu."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the public swimming pool",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Bademeister", "Eintritt bitte."],
+          ["speaker-b", "Besucher", "Erwachsen, bitte."],
+          ["speaker-a", "Bademeister", "4,50 Euro. Mit Sauna?"],
+          ["speaker-b", "Besucher", "Nein, nur schwimmen."],
+          ["speaker-a", "Bademeister", "Hier Ihr Chipband. Duschen vorher nicht vergessen."],
+          ["speaker-b", "Besucher", "Wo ist das Becken?"],
+          ["speaker-a", "Bademeister", "Durch die Glastür, dann links."],
+          ["speaker-b", "Besucher", "Danke. Ist das Wasser warm?"],
+          ["speaker-a", "Bademeister", "27 Grad."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Schwimmer", "Ist diese Bahn frei?"],
+          ["speaker-b", "Rettungsschwimmer", "Ja, aber bitte im Kreis schwimmen."],
+          ["speaker-a", "Schwimmer", "Links oder rechts?"],
+          ["speaker-b", "Rettungsschwimmer", "Rechts, überholen links."],
+          ["speaker-a", "Schwimmer", "Alles klar. Wie tief ist das Becken?"],
+          ["speaker-b", "Rettungsschwimmer", "1,80 Meter."],
+          ["speaker-a", "Schwimmer", "Perfekt für Bahnen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mutter", "Sophie, bleib im Nichtschwimmerbereich!"],
+          ["speaker-b", "Kind", "Nur noch einmal rutschen, Mama."],
+          ["speaker-a", "Mutter", "Okay, aber dann ist Schluss für heute."],
+          ["speaker-b", "Kind", "Versprochen."],
+          ["speaker-a", "Mutter", "Deine Lippen sind schon blau."],
+          ["speaker-b", "Kind", "Mir ist nicht kalt."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the shoe store",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäufer", "Kann ich Ihnen helfen?"],
+          ["speaker-b", "Kundin", "Ich suche Wanderschuhe."],
+          ["speaker-a", "Verkäufer", "Welche Größe?"],
+          ["speaker-b", "Kundin", "39."],
+          ["speaker-a", "Verkäufer", "Probieren Sie dieses Paar. Wasserdicht."],
+          ["speaker-b", "Kundin", "Die sind bequem. Was kosten sie?"],
+          ["speaker-a", "Verkäufer", "129 Euro."],
+          ["speaker-b", "Kundin", "Etwas teuer, aber gute Qualität."],
+          ["speaker-a", "Verkäufer", "Die halten viele Jahre."],
+          ["speaker-b", "Kundin", "Okay, ich nehme sie."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Mein Sohn braucht Fußballschuhe."],
+          ["speaker-b", "Verkäuferin", "Für Rasen oder Halle?"],
+          ["speaker-a", "Kunde", "Rasen, mit Stollen."],
+          ["speaker-b", "Verkäuferin", "Welche Größe hat er?"],
+          ["speaker-a", "Kunde", "38 glaube ich."],
+          ["speaker-b", "Verkäuferin", "Mit oder ohne Schnürung?"],
+          ["speaker-a", "Kunde", "Schnürung ist besser."],
+          ["speaker-b", "Verkäuferin", "Diese hier sind im Angebot, 45 Euro."],
+          ["speaker-a", "Kunde", "Super, die probiert er zu Hause."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Die Schuhe drücken an der Ferse."],
+          ["speaker-b", "Verkäufer", "Haben Sie sie schon eingelaufen?"],
+          ["speaker-a", "Kundin", "Ja, drei Tage."],
+          ["speaker-b", "Verkäufer", "Dann tauschen wir sie um."],
+          ["speaker-a", "Kundin", "Geht auch eine halbe Nummer größer?"],
+          ["speaker-b", "Verkäufer", "Sicher. Hier in 39,5."],
+          ["speaker-a", "Kundin", "Die sind viel besser. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the travel agency",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Reiseberaterin", "Guten Tag. Wohin soll die Reise gehen?"],
+          ["speaker-b", "Kundin", "Ich möchte nach Thailand."],
+          ["speaker-a", "Reiseberaterin", "Wann und wie lange?"],
+          ["speaker-b", "Kundin", "Im Februar, zwei Wochen."],
+          ["speaker-a", "Reiseberaterin", "Pauschalreise oder nur Flug?"],
+          ["speaker-b", "Kundin", "Pauschal mit Hotel."],
+          ["speaker-a", "Reiseberaterin", "Hier, ein Angebot mit Frühstück ab 1.299 Euro."],
+          ["speaker-b", "Kundin", "Das klingt gut. Kann ich das buchen?"],
+          ["speaker-a", "Reiseberaterin", "Ja, mit 20 Prozent Anzahlung."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich brauche eine Reiseversicherung."],
+          ["speaker-b", "Berater", "Reiserücktritt oder auch Kranken?"],
+          ["speaker-a", "Kunde", "Beides, für die USA."],
+          ["speaker-b", "Berater", "Ohne Krankenversicherung würde ich nicht in die USA."],
+          ["speaker-a", "Kunde", "Deshalb bin ich ja hier."],
+          ["speaker-b", "Berater", "Hier ein Komplettpaket für 89 Euro."],
+          ["speaker-a", "Kunde", "Die Deckungssumme?"],
+          ["speaker-b", "Berater", "500.000 Euro."],
+          ["speaker-a", "Kunde", "Ausreichend. Ich nehme es."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte eine Kreuzfahrt buchen."],
+          ["speaker-b", "Reiseberater", "Welches Fahrtgebiet?"],
+          ["speaker-a", "Kundin", "Mittelmeer, im Mai."],
+          ["speaker-b", "Reiseberater", "Wir haben eine 7-Nächte-Route mit der AIDA."],
+          ["speaker-a", "Kundin", "Kabine mit Balkon?"],
+          ["speaker-b", "Reiseberater", "Balkonkabine ab 1.899 Euro."],
+          ["speaker-a", "Kundin", "Ist das All-Inclusive?"],
+          ["speaker-b", "Reiseberater", "Ja, alle Mahlzeiten und Getränke."],
+          ["speaker-a", "Kundin", "Perfekt, das buche ich."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the ice cream parlor",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäuferin", "Guten Tag. Was möchten Sie?"],
+          ["speaker-b", "Kind", "Drei Kugeln, bitte."],
+          ["speaker-a", "Verkäuferin", "Welche Sorten?"],
+          ["speaker-b", "Kind", "Schoko, Erdbeer, Vanille."],
+          ["speaker-a", "Verkäuferin", "Im Becher oder in der Waffel?"],
+          ["speaker-b", "Kind", "In der Waffel."],
+          ["speaker-a", "Verkäuferin", "Das macht 4,50 Euro."],
+          ["speaker-b", "Kind", "Hier. Danke."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Erwachsener", "Haben Sie veganes Eis?"],
+          ["speaker-b", "Verkäufer", "Ja, Fruchtsorbet: Mango, Himbeere, Zitrone."],
+          ["speaker-a", "Erwachsener", "Mango und Himbeere, bitte."],
+          ["speaker-b", "Verkäufer", "Im Becher?"],
+          ["speaker-a", "Erwachsener", "Ja. Und ein Espresso dazu."],
+          ["speaker-b", "Verkäufer", "Affogato in der Waffel?"],
+          ["speaker-a", "Erwachsener", "Nein, einfach Espresso."],
+          ["speaker-b", "Verkäufer", "Macht 6,20 Euro."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Oma", "Welches Eis möchtest du?"],
+          ["speaker-b", "Enkel", "Das Blaue!"],
+          ["speaker-a", "Oma", "Das ist Schlumpfeis."],
+          ["speaker-b", "Enkel", "Ja, Schlumpfeis!"],
+          ["speaker-a", "Oma", "Eine Kugel Schlumpf und eine Schoko."],
+          ["speaker-b", "Enkel", "Mit Sahne?"],
+          ["speaker-a", "Oma", "Meinetwegen. Einmal Sahne obendrauf."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the kebab shop",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäufer", "Der Nächste, bitte."],
+          ["speaker-b", "Kunde", "Einen Döner komplett, bitte."],
+          ["speaker-a", "Verkäufer", "Mit Scharf?"],
+          ["speaker-b", "Kunde", "Ein bisschen."],
+          ["speaker-a", "Verkäufer", "Alles drauf?"],
+          ["speaker-b", "Kunde", "Ja, mit Knoblauchsoße."],
+          ["speaker-a", "Verkäufer", "Zum Mitnehmen oder hier essen?"],
+          ["speaker-b", "Kunde", "Hier essen."],
+          ["speaker-a", "Verkäufer", "5,50 Euro, bitte."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Haben Sie auch vegetarisch?"],
+          ["speaker-b", "Dönermann", "Ja, Falafel-Döner oder Halloumi."],
+          ["speaker-a", "Kundin", "Falafel, bitte. Mit Hummus?"],
+          ["speaker-b", "Dönermann", "Ja, und Joghurtsoße."],
+          ["speaker-a", "Kundin", "Super. Dazu einen Ayran."],
+          ["speaker-b", "Dönermann", "Macht 7 Euro zusammen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Stammkunde", "Der Döner ist heute besonders gut."],
+          ["speaker-b", "Chef", "Frisches Brot vom Bäcker nebenan."],
+          ["speaker-a", "Stammkunde", "Macht einen Unterschied."],
+          ["speaker-b", "Chef", "Ich mache das jetzt 20 Jahre."],
+          ["speaker-a", "Stammkunde", "Man schmeckt die Erfahrung."],
+          ["speaker-b", "Chef", "Ehrensache. Noch einen Tee?"],
+          ["speaker-a", "Stammkunde", "Gern. Aufs Haus?"],
+          ["speaker-b", "Chef", "Für dich immer."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the driving test",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Prüfer", "Guten Tag. Sind Sie bereit?"],
+          ["speaker-b", "Schüler", "Ja, etwas nervös."],
+          ["speaker-a", "Prüfer", "Dann starten Sie den Motor."],
+          ["speaker-b", "Schüler", "Spiegel und Sitz sind eingestellt."],
+          ["speaker-a", "Prüfer", "Gut. Fahren Sie jetzt links ab."],
+          ["speaker-b", "Schüler", "Schulterblick. Frei. Blinker links."],
+          ["speaker-a", "Prüfer", "Richtig gemacht. Weiter geradeaus."],
+          ["speaker-b", "Schüler", "Höchstgeschwindigkeit 50 hier."],
+          ["speaker-a", "Prüfer", "Achten Sie auf den Radfahrer vor Ihnen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Prüferin", "Bitte hier rückwärts einparken."],
+          ["speaker-b", "Schülerin", "Zwischen die zwei Autos?"],
+          ["speaker-a", "Prüferin", "Ja."],
+          ["speaker-b", "Schülerin", "Das ist eng."],
+          ["speaker-a", "Prüferin", "Sie machen das gut. Weiter einschlagen."],
+          ["speaker-b", "Schülerin", "So?"],
+          ["speaker-a", "Prüferin", "Perfekt. Prüfung bestanden."],
+          ["speaker-b", "Schülerin", "Wirklich? Ich habe bestanden!"],
+          ["speaker-a", "Prüferin", "Herzlichen Glückwunsch."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Prüfer", "Sie sind leider durchgefallen."],
+          ["speaker-b", "Schüler", "Oh nein. Warum?"],
+          ["speaker-a", "Prüfer", "Sie haben die Vorfahrt missachtet."],
+          ["speaker-b", "Schüler", "Das war der Bus?"],
+          ["speaker-a", "Prüfer", "Ja. Es ist nichts passiert, aber es war knapp."],
+          ["speaker-b", "Schüler", "Dann muss ich wiederholen."],
+          ["speaker-a", "Prüfer", "In zwei Wochen. Üben Sie die Kreuzungen."],
+          ["speaker-b", "Schüler", "Mache ich. Danke trotzdem."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the airport — security check",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Sicherheitsbeamter", "Legen Sie Flüssigkeiten in den Beutel."],
+          ["speaker-b", "Passagier", "Alles in diesen einen?"],
+          ["speaker-a", "Sicherheitsbeamter", "Ja, maximal 100 ml pro Behälter."],
+          ["speaker-b", "Passagier", "Meine Zahnpasta ist 125 ml."],
+          ["speaker-a", "Sicherheitsbeamter", "Die muss leider draußen bleiben."],
+          ["speaker-b", "Passagier", "Schade. Ist der Laptop extra?"],
+          ["speaker-a", "Sicherheitsbeamter", "Ja, in eine separate Schale."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Beamtin", "Der Metalldetektor hat angeschlagen."],
+          ["speaker-b", "Reisende", "Oh, mein Gürtel."],
+          ["speaker-a", "Beamtin", "Machen Sie ihn ab und gehen Sie nochmal durch."],
+          ["speaker-b", "Reisende", "So besser?"],
+          ["speaker-a", "Beamtin", "Jetzt ist es gut. Weitgehen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Passagier", "Darf ich Wasser mitnehmen?"],
+          ["speaker-b", "Kontrolleur", "Nur leere Flaschen. Dahinter gibt es Trinkwasser."],
+          ["speaker-a", "Passagier", "Gut, ich schütte es aus."],
+          ["speaker-b", "Kontrolleur", "Aber kaufen Sie nichts vor der Kontrolle."],
+          ["speaker-a", "Passagier", "Ja, das ist ärgerlich, wenn es konfisziert wird."],
+          ["speaker-b", "Kontrolleur", "Haben Sie noch Feuerzeuge?"],
+          ["speaker-a", "Passagier", "Nein, nichtraucher."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the insurance office",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Versicherungsberater", "Guten Tag. Sie interessieren sich für eine Haftpflicht?"],
+          ["speaker-b", "Kundin", "Ja, ich habe noch keine."],
+          ["speaker-a", "Versicherungsberater", "Die ist sehr wichtig. Nur 5 Euro im Monat."],
+          ["speaker-b", "Kundin", "Was deckt sie ab?"],
+          ["speaker-a", "Versicherungsberater", "Schäden, die Sie anderen zufügen."],
+          ["speaker-b", "Kundin", "Auch wenn ich etwas fallen lasse?"],
+          ["speaker-a", "Versicherungsberater", "Ja, genau dafür."],
+          ["speaker-b", "Kundin", "Gut, ich schließe sie ab."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich hatte einen Wasserschaden."],
+          ["speaker-b", "Sachbearbeiterin", "Wann ist das passiert?"],
+          ["speaker-a", "Kunde", "Vor drei Tagen. Die Waschmaschine ist ausgelaufen."],
+          ["speaker-b", "Sachbearbeiterin", "Haben Sie Fotos?"],
+          ["speaker-a", "Kunde", "Ja, hier."],
+          ["speaker-b", "Sachbearbeiterin", "Wir schicken einen Gutachter."],
+          ["speaker-a", "Kunde", "Ich hoffe, das ist abgedeckt."],
+          ["speaker-b", "Sachbearbeiterin", "Ja, Ihre Hausrat deckt Leitungswasser."],
+          ["speaker-a", "Kunde", "Zum Glück."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte eine Berufsunfähigkeitsversicherung."],
+          ["speaker-b", "Berater", "Gute Entscheidung. Was arbeiten Sie?"],
+          ["speaker-a", "Kundin", "Krankenschwester."],
+          ["speaker-b", "Berater", "Ein Risikoberuf. Der Beitrag ist höher."],
+          ["speaker-a", "Kundin", "Wie viel etwa?"],
+          ["speaker-b", "Berater", "Etwa 80 Euro monatlich für 1.500 Euro Rente."],
+          ["speaker-a", "Kundin", "Das ist es mir wert. Machen wir."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the playground — parents chatting",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mutter", "Welches Kind gehört zu Ihnen?"],
+          ["speaker-b", "Vater", "Der Junge auf der Rutsche."],
+          ["speaker-a", "Mutter", "Meine Tochter auf der Schaukel."],
+          ["speaker-b", "Vater", "Wie alt ist sie?"],
+          ["speaker-a", "Mutter", "Vier. Und Ihrer?"],
+          ["speaker-b", "Vater", "Auch vier. Vielleicht spielen sie zusammen."],
+          ["speaker-a", "Mutter", "Ja, das wäre schön."],
+          ["speaker-b", "Vater", "Kommen Sie oft hierher?"],
+          ["speaker-a", "Mutter", "Fast jeden Nachmittag."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Opa", "Früher gab es hier nur Sand."],
+          ["speaker-b", "Oma", "Jetzt alles aus Plastik."],
+          ["speaker-a", "Opa", "Aber die Kinder haben genauso viel Spaß."],
+          ["speaker-b", "Oma", "Solange sie lachen, ist es egal."],
+          ["speaker-a", "Opa", "Komm, wir schaukeln unseren Enkel."],
+          ["speaker-b", "Oma", "Höher, Opa! Höher!"]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Vater", "Hoppla, er ist hingefallen!"],
+          ["speaker-b", "Mutter", "Alles okay, nur aufgeschürftes Knie."],
+          ["speaker-a", "Vater", "Zum Glück nichts Schlimmes."],
+          ["speaker-b", "Mutter", "Ein Pflaster habe ich in der Tasche."],
+          ["speaker-a", "Vater", "Gut vorbereitet."],
+          ["speaker-b", "Mutter", "Als Mutter lernt man das."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the hotel — complaining about noise",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Gast", "Guten Abend. Es ist sehr laut."],
+          ["speaker-b", "Rezeptionistin", "Woher kommt der Lärm?"],
+          ["speaker-a", "Gast", "Vom Zimmer nebenan. Eine Party."],
+          ["speaker-b", "Rezeptionistin", "Ich schicke den Sicherheitsdienst."],
+          ["speaker-a", "Gast", "Danke. Ich muss morgen früh raus."],
+          ["speaker-b", "Rezeptionistin", "Soll ich Ihnen ein anderes Zimmer geben?"],
+          ["speaker-a", "Gast", "Wenn es ruhig ist, gern."],
+          ["speaker-b", "Rezeptionistin", "Zimmer 502 ist ganz am Ende des Flurs."],
+          ["speaker-a", "Gast", "Klingt gut. Danke."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Gast", "Die Klimaanlage klappert die ganze Nacht."],
+          ["speaker-b", "Haustechniker", "Ich schaue es mir an."],
+          ["speaker-a", "Gast", "Es hat mich wach gehalten."],
+          ["speaker-b", "Haustechniker", "Das tut mir leid. Ein loser Lüfter."],
+          ["speaker-a", "Gast", "Können Sie das reparieren?"],
+          ["speaker-b", "Haustechniker", "Ich stelle sie aus und bringe einen Ventilator."],
+          ["speaker-a", "Gast", "Danke, hoffentlich schlafe ich jetzt."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Manager", "Sie haben sich über die Baustelle beschwert."],
+          ["speaker-b", "Gast", "Ja, ab 7 Uhr morgens, das ist unerträglich."],
+          ["speaker-a", "Manager", "Wir wussten nichts von den Arbeiten nebenan."],
+          ["speaker-b", "Gast", "Ich verlange einen Rabatt."],
+          ["speaker-a", "Manager", "Verständlich. 30 Prozent auf die Übernachtung."],
+          ["speaker-b", "Gast", "Das ist fair. Danke."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the airport — lost luggage",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Passagier", "Mein Koffer ist nicht angekommen."],
+          ["speaker-b", "Mitarbeiter", "Welcher Flug?"],
+          ["speaker-a", "Passagier", "LH 402 aus New York."],
+          ["speaker-b", "Mitarbeiter", "Beschreiben Sie den Koffer."],
+          ["speaker-a", "Passagier", "Schwarz, groß, mit rotem Band am Griff."],
+          ["speaker-b", "Mitarbeiter", "Ich suche im System. Hier, er kommt mit dem nächsten Flug."],
+          ["speaker-a", "Passagier", "Wann landet der?"],
+          ["speaker-b", "Mitarbeiter", "In zwei Stunden. Wir liefern ihn Ihnen."],
+          ["speaker-a", "Passagier", "An mein Hotel?"],
+          ["speaker-b", "Mitarbeiter", "Ja, geben Sie die Hoteladresse an."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Reisende", "Der Koffer ist beschädigt!"],
+          ["speaker-b", "Gepäckservice", "Was genau?"],
+          ["speaker-a", "Reisende", "Der Griff ist abgerissen."],
+          ["speaker-b", "Gepäckservice", "Das tut uns leid. Füllen Sie das Formular aus."],
+          ["speaker-a", "Reisende", "Bekomme ich Ersatz?"],
+          ["speaker-b", "Gepäckservice", "Ja, bis 50 Euro sofort."],
+          ["speaker-a", "Reisende", "Gut. Das Geld nehme ich jetzt."],
+          ["speaker-b", "Gepäckservice", "Hier, in bar. Nochmals Entschuldigung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Passagier", "Mein Gepäck ist seit drei Tagen verschwunden."],
+          ["speaker-b", "Schalterleiter", "Wir haben es weltweit gesucht."],
+          ["speaker-a", "Passagier", "Und?"],
+          ["speaker-b", "Schalterleiter", "Leider noch nicht gefunden."],
+          ["speaker-a", "Passagier", "Dann möchte ich Schadensersatz."],
+          ["speaker-b", "Schalterleiter", "Bis 1.500 Euro, ja. Die Liste bitte."],
+          ["speaker-a", "Passagier", "Hier, mit Kaufbelegen."],
+          ["speaker-b", "Schalterleiter", "Wir bearbeiten das innerhalb von zwei Wochen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the dentist — root canal",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Zahnarzt", "Der Zahn ist tief entzündet."],
+          ["speaker-b", "Patient", "Tut die Behandlung weh?"],
+          ["speaker-a", "Zahnarzt", "Ich betäube gründlich. Sie spüren nichts."],
+          ["speaker-b", "Patient", "Wie lange dauert es?"],
+          ["speaker-a", "Zahnarzt", "Etwa eine Stunde."],
+          ["speaker-b", "Patient", "Kann ich danach normal essen?"],
+          ["speaker-a", "Zahnarzt", "Warten Sie, bis die Betäubung nachlässt."],
+          ["speaker-b", "Patient", "Gut. Fangen Sie an."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Patientin", "Ich möchte eine Vollnarkose."],
+          ["speaker-b", "Zahnärztin", "Wegen der Angst?"],
+          ["speaker-a", "Patientin", "Ja, ich habe panische Angst vor dem Bohrer."],
+          ["speaker-b", "Zahnärztin", "Dann schlafen Sie. Wir machen alles in einer Sitzung."],
+          ["speaker-a", "Patientin", "Kostet die Narkose extra?"],
+          ["speaker-b", "Zahnärztin", "Leider ja, 150 Euro."],
+          ["speaker-a", "Patientin", "Das ist es mir wert. Ich habe solche Angst."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Zahnarzt", "So, die Wurzelbehandlung ist fertig."],
+          ["speaker-b", "Patient", "Danke. Es war gar nicht schlimm."],
+          ["speaker-a", "Zahnarzt", "In zwei Wochen setzen wir die Krone."],
+          ["speaker-b", "Patient", "Muss ich was beachten?"],
+          ["speaker-a", "Zahnarzt", "Nicht auf der Seite kauen. Weiche Kost."],
+          ["speaker-b", "Patient", "Darf ich Kaffee trinken?"],
+          ["speaker-a", "Zahnarzt", "Ja, aber lauwarm."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the furniture store",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Verkäufer", "Kann ich Ihnen helfen?"],
+          ["speaker-b", "Pärchen", "Wir suchen ein Sofa."],
+          ["speaker-a", "Verkäufer", "Stoff oder Leder?"],
+          ["speaker-b", "Pärchen", "Stoff, in grau."],
+          ["speaker-a", "Verkäufer", "Dieses Modell hat eine Schlaffunktion."],
+          ["speaker-b", "Pärchen", "Wie lang ist es?"],
+          ["speaker-a", "Verkäufer", "2,20 Meter. Passt das?"],
+          ["speaker-b", "Pärchen", "Ja, perfekt. Liefern Sie?"],
+          ["speaker-a", "Verkäufer", "In 3 Wochen, Lieferung kostet 49 Euro."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte ein Bett mit Lattenrost."],
+          ["speaker-b", "Berater", "Welche Größe?"],
+          ["speaker-a", "Kundin", "140 mal 200."],
+          ["speaker-b", "Berater", "Mit Kopfteil oder ohne?"],
+          ["speaker-a", "Kundin", "Mit gepolstertem Kopfteil."],
+          ["speaker-b", "Berater", "Diese Serie hier ist Buche massiv."],
+          ["speaker-a", "Kundin", "Gibt es eine passende Matratze?"],
+          ["speaker-b", "Berater", "Ja, H3 für bessere Stützung."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kunde", "Ich möchte die gelieferte Kommode umtauschen."],
+          ["speaker-b", "Service", "Grund?"],
+          ["speaker-a", "Kunde", "Die Farbe passt nicht zu meinem Zimmer."],
+          ["speaker-b", "Service", "War sie schon aufgebaut?"],
+          ["speaker-a", "Kunde", "Nein, originalverpackt."],
+          ["speaker-b", "Service", "Dann kein Problem. Wir holen sie ab."],
+          ["speaker-a", "Kunde", "Ohne Kosten?"],
+          ["speaker-b", "Service", "Ja, innerhalb von 14 Tagen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the tourist information",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Tourist", "Hallo, was kann man hier besichtigen?"],
+          ["speaker-b", "Mitarbeiterin", "Den Dom und das Rathaus unbedingt."],
+          ["speaker-a", "Tourist", "Gibt es Stadtführungen?"],
+          ["speaker-b", "Mitarbeiterin", "Ja, täglich um 11 und 14 Uhr."],
+          ["speaker-a", "Tourist", "Auf Englisch?"],
+          ["speaker-b", "Mitarbeiterin", "Ja, die Führung um 14 Uhr ist zweisprachig."],
+          ["speaker-a", "Tourist", "Was kostet sie?"],
+          ["speaker-b", "Mitarbeiterin", "12 Euro pro Person."],
+          ["speaker-a", "Tourist", "Super, ich nehme zwei Karten."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Reisende", "Wo finde ich ein gutes Restaurant?"],
+          ["speaker-b", "Berater", "Traditionell deutsch oder international?"],
+          ["speaker-a", "Reisende", "Traditionell, mit Biergarten."],
+          ["speaker-b", "Berater", "Der Ratskeller am Marktplatz ist empfehlenswert."],
+          ["speaker-a", "Reisende", "Teuer?"],
+          ["speaker-b", "Berater", "Mittelpreisig. Hauptgerichte ab 14 Euro."],
+          ["speaker-a", "Reisende", "Reservierung nötig?"],
+          ["speaker-b", "Berater", "Am Wochenende ja, sonst nicht."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Besucher", "Gibt es einen Stadtplan?"],
+          ["speaker-b", "Mitarbeiter", "Kostenlos. Hier, mit Sehenswürdigkeiten."],
+          ["speaker-a", "Besucher", "Und Öffnungszeiten der Museen?"],
+          ["speaker-b", "Mitarbeiter", "Stehen hinten auf dem Plan."],
+          ["speaker-a", "Besucher", "Gibt es ein Kombiticket?"],
+          ["speaker-b", "Mitarbeiter", "Ja, für alle Museen 18 Euro."],
+          ["speaker-a", "Besucher", "Gilt das auch für die Sonderausstellung?"],
+          ["speaker-b", "Mitarbeiter", "Ja, alles inklusive."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the currency exchange",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte Geld wechseln."],
+          ["speaker-b", "Angestellter", "Welche Währung?"],
+          ["speaker-a", "Kundin", "Euro in US-Dollar."],
+          ["speaker-b", "Angestellter", "Wie viel?"],
+          ["speaker-a", "Kundin", "500 Euro."],
+          ["speaker-b", "Angestellter", "Der Kurs ist 1,07. Das macht 535 Dollar."],
+          ["speaker-a", "Kundin", "Gibt es Gebühren?"],
+          ["speaker-b", "Angestellter", "3 Euro pauschal."],
+          ["speaker-a", "Kundin", "Gut, hier ist das Geld."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Tourist", "Ich brauche Schweizer Franken."],
+          ["speaker-b", "Kassiererin", "Wie viel möchten Sie?"],
+          ["speaker-a", "Tourist", "200 Euro in Franken."],
+          ["speaker-b", "Kassiererin", "Das sind etwa 190 Franken."],
+          ["speaker-a", "Tourist", "Kann ich mit Karte zahlen?"],
+          ["speaker-b", "Kassiererin", "Nur Bargeld. Aber da vorne ist ein Automat."],
+          ["speaker-a", "Tourist", "Gut, ich hebe kurz ab."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Reisender", "Ich habe noch Yen von meiner Japanreise."],
+          ["speaker-b", "Wechsler", "Die nehmen wir gern zurück."],
+          ["speaker-a", "Reisender", "Es sind 30.000 Yen. Kurs?"],
+          ["speaker-b", "Wechsler", "Aktuell 0,0064. Das macht 192 Euro."],
+          ["speaker-a", "Reisender", "Weniger als ich dachte. Aber okay."],
+          ["speaker-b", "Wechsler", "Der Yen ist gerade schwach."],
+          ["speaker-a", "Reisender", "Nächstes Mal hebe ich vor Ort ab."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the embassy",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Konsulatsmitarbeiter", "Guten Tag. Ihr Anliegen?"],
+          ["speaker-b", "Bürger", "Mein Pass wurde gestohlen."],
+          ["speaker-a", "Konsulatsmitarbeiter", "Wo und wann?"],
+          ["speaker-b", "Bürger", "Gestern in der U-Bahn."],
+          ["speaker-a", "Konsulatsmitarbeiter", "Haben Sie eine Anzeige bei der Polizei?"],
+          ["speaker-b", "Bürger", "Ja, hier die Kopie."],
+          ["speaker-a", "Konsulatsmitarbeiter", "Wir stellen einen vorläufigen Pass aus."],
+          ["speaker-b", "Bürger", "Wie schnell?"],
+          ["speaker-a", "Konsulatsmitarbeiter", "Morgen früh können Sie ihn abholen."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Beamtin", "Sie möchten ein Visum beantragen?"],
+          ["speaker-b", "Antragsteller", "Ja, für ein Arbeitsvisum."],
+          ["speaker-a", "Beamtin", "Haben Sie den Arbeitsvertrag?"],
+          ["speaker-b", "Antragsteller", "Hier, von der Firma in Deutschland."],
+          ["speaker-a", "Beamtin", "Alles vollständig. Bearbeitungszeit 6 Wochen."],
+          ["speaker-b", "Antragsteller", "Kann ich den Prozess beschleunigen?"],
+          ["speaker-a", "Beamtin", "Leider nein. Wir melden uns."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Bürgerin", "Ich bin im Ausland in Not geraten."],
+          ["speaker-b", "Konsul", "Erzählen Sie."],
+          ["speaker-a", "Bürgerin", "Meine Geldbörse ist weg, kein Geld, keine Karte."],
+          ["speaker-b", "Konsul", "Wir können eine Überbrückungshilfe anbieten."],
+          ["speaker-a", "Bürgerin", "Bekomme ich Bargeld?"],
+          ["speaker-b", "Konsul", "Ja, Ihre Familie kann es hier einzahlen."],
+          ["speaker-a", "Bürgerin", "Danke, ich rufe meinen Bruder an."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the beer garden",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kellnerin", "Bitte schön, was möchten Sie?"],
+          ["speaker-b", "Gast", "Eine Maß und eine Brezel, bitte."],
+          ["speaker-a", "Kellnerin", "Helles oder Dunkles?"],
+          ["speaker-b", "Gast", "Ein Helles."],
+          ["speaker-a", "Kellnerin", "Kommt sofort. Noch etwas?"],
+          ["speaker-b", "Gast", "Später vielleicht einen Obatzda."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Tourist", "Was ist eine Maß?"],
+          ["speaker-b", "Einheimischer", "Ein Liter Bier. Bayrisches Grundnahrungsmittel."],
+          ["speaker-a", "Tourist", "Ein Liter? Das schaffe ich nicht."],
+          ["speaker-b", "Einheimischer", "Dann nimm eine Halbe. 0,5 Liter."],
+          ["speaker-a", "Tourist", "Halbe klingt gut."],
+          ["speaker-b", "Einheimischer", "Prost!"],
+          ["speaker-a", "Tourist", "Prost! Man muss sich dabei in die Augen sehen?"],
+          ["speaker-b", "Einheimischer", "Sonst gibt es sieben Jahre schlechten Sex."],
+          ["speaker-a", "Tourist", "Ernsthaft?"],
+          ["speaker-b", "Einheimischer", "Alter Aberglaube."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Freund", "Hat es bei euch auch geregnet?"],
+          ["speaker-b", "Freund", "Nur kurz. Der Biergarten ist noch offen."],
+          ["speaker-a", "Freund", "Sollen wir uns dort treffen?"],
+          ["speaker-b", "Freund", "Ja, unter den Kastanien ist noch ein Tisch frei."],
+          ["speaker-a", "Freund", "Bringst du deine Gitarre mit?"],
+          ["speaker-b", "Freund", "Gute Idee, aber leise, sonst meckern die Nachbarn."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the tailor",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Schneiderin", "Was darf ich für Sie tun?"],
+          ["speaker-b", "Kundin", "Diese Hose ist zu lang."],
+          ["speaker-a", "Schneiderin", "Ich kürze sie. Wie viel soll weg?"],
+          ["speaker-b", "Kundin", "Etwa drei Zentimeter."],
+          ["speaker-a", "Schneiderin", "Mit Umschlag oder einfach?"],
+          ["speaker-b", "Kundin", "Mit Umschlag."],
+          ["speaker-a", "Schneiderin", "15 Euro. Kommen Sie morgen wieder."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Der Reißverschluss an meiner Jacke ist kaputt."],
+          ["speaker-b", "Schneider", "Kann man austauschen."],
+          ["speaker-a", "Kunde", "Was kostet das?"],
+          ["speaker-b", "Schneider", "20 Euro mit Einbau."],
+          ["speaker-a", "Kunde", "Gut. Die Jacke ist meine Lieblingsjacke."],
+          ["speaker-b", "Schneider", "Dann lohnt sich die Reparatur."],
+          ["speaker-a", "Kunde", "Absolut."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Können Sie mir ein Kleid anpassen?"],
+          ["speaker-b", "Schneiderin", "Natürlich. Ziehen Sie es an."],
+          ["speaker-a", "Kundin", "An der Taille ist es zu weit."],
+          ["speaker-b", "Schneiderin", "Ich stecke es ab. So enger?"],
+          ["speaker-a", "Kundin", "Perfekt. Ist das für eine Hochzeit."],
+          ["speaker-b", "Schneiderin", "Dann beeile ich mich. Bis Freitag."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the flower shop",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Floristin", "Guten Tag. Was soll es sein?"],
+          ["speaker-b", "Kunde", "Einen Blumenstrauß zum Geburtstag."],
+          ["speaker-a", "Floristin", "Welche Blumen mag die Person?"],
+          ["speaker-b", "Kunde", "Rosen und Gerbera."],
+          ["speaker-a", "Floristin", "In Rot oder gemischt?"],
+          ["speaker-b", "Kunde", "Bunt gemischt. Mit Grün."],
+          ["speaker-a", "Floristin", "Wie viel möchten Sie ausgeben?"],
+          ["speaker-b", "Kunde", "Etwa 30 Euro."],
+          ["speaker-a", "Floristin", "Dafür bekommen Sie einen schönen Strauß."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich brauche ein Gesteck fürs Grab."],
+          ["speaker-b", "Florist", "Allerheiligen?"],
+          ["speaker-a", "Kundin", "Ja, für meine Mutter."],
+          ["speaker-b", "Florist", "Tannengrün mit weißen Lilien ist klassisch."],
+          ["speaker-a", "Kundin", "Das klingt würdevoll."],
+          ["speaker-b", "Florist", "Mit Kiefernzapfen und einer Schleife."],
+          ["speaker-a", "Kundin", "Schön. 40 Euro, bitte."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Bräutigam", "Wir brauchen Hochzeitsblumen."],
+          ["speaker-b", "Floristin", "Wann ist die Hochzeit?"],
+          ["speaker-a", "Bräutigam", "In drei Monaten."],
+          ["speaker-b", "Floristin", "Zeigen Sie mir das Farbschema."],
+          ["speaker-a", "Bräutigam", "Weiß und Pastellrosa."],
+          ["speaker-b", "Floristin", "Pfingstrosen und Rosen in der Saison."],
+          ["speaker-a", "Bräutigam", "Machen Sie Tischschmuck und Brautstrauß?"],
+          ["speaker-b", "Floristin", "Ja, alles aus einer Hand."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the airport — passport control",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Beamter", "Ihren Pass bitte."],
+          ["speaker-b", "Reisender", "Hier."],
+          ["speaker-a", "Beamter", "Woher kommen Sie?"],
+          ["speaker-b", "Reisender", "Aus Istanbul."],
+          ["speaker-a", "Beamter", "Reisezweck?"],
+          ["speaker-b", "Reisender", "Tourismus, eine Woche."],
+          ["speaker-a", "Beamter", "Wo wohnen Sie?"],
+          ["speaker-b", "Reisender", "Im Hotel Excelsior."],
+          ["speaker-a", "Beamter", "Gut. Willkommen in Deutschland."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Beamtin", "Sie kommen aus einem Nicht-EU-Land."],
+          ["speaker-b", "Reisende", "Ja, aus Brasilien."],
+          ["speaker-a", "Beamtin", "Ihr Rückflugticket?"],
+          ["speaker-b", "Reisende", "Hier, in drei Wochen."],
+          ["speaker-a", "Beamtin", "Und Ihre Aufenthaltsadresse?"],
+          ["speaker-b", "Reisende", "Bei meiner Schwester in Hamburg."],
+          ["speaker-a", "Beamtin", "Einladungsschreiben?"],
+          ["speaker-b", "Reisende", "Ja, habe ich dabei."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Beamter", "Ihr Visum ist abgelaufen."],
+          ["speaker-b", "Reisender", "Was? Das kann nicht sein."],
+          ["speaker-a", "Beamter", "Es endete vor einer Woche."],
+          ["speaker-b", "Reisender", "Ich dachte, es galt einen Monat."],
+          ["speaker-a", "Beamter", "Kommen Sie bitte mit zur Klärung."],
+          ["speaker-b", "Reisender", "Das ist ein Missverständnis."],
+          ["speaker-a", "Beamter", "Wir prüfen das im Büro."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the car wash",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Kundin", "Welches Programm empfehlen Sie?"],
+          ["speaker-b", "Mitarbeiter", "Das Super-Programm mit Wachs."],
+          ["speaker-a", "Kundin", "Was kostet das?"],
+          ["speaker-b", "Mitarbeiter", "12 Euro."],
+          ["speaker-a", "Kundin", "Dauert es lange?"],
+          ["speaker-b", "Mitarbeiter", "Zehn Minuten."],
+          ["speaker-a", "Kundin", "Gut. Soll ich die Antenne abnehmen?"],
+          ["speaker-b", "Mitarbeiter", "Ja, aber die Waschanlage macht das automatisch."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kunde", "Mein Auto ist nach der Wäsche noch dreckig."],
+          ["speaker-b", "Betreiber", "Zeigen Sie mir."],
+          ["speaker-a", "Kunde", "Hier, am Heck."],
+          ["speaker-b", "Betreiber", "Das ist Vogelkot, der geht schwer ab."],
+          ["speaker-a", "Kunde", "Können Sie nachwaschen?"],
+          ["speaker-b", "Betreiber", "Ja, einmal kostenlos durch die Anlage."],
+          ["speaker-a", "Kunde", "Danke, das ist fair."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Ich möchte den Innenraum saugen."],
+          ["speaker-b", "Mitarbeiter", "Der Staubsauger dort, ein Euro für 5 Minuten."],
+          ["speaker-a", "Kundin", "Reichen 5 Minuten?"],
+          ["speaker-b", "Mitarbeiter", "Wenn Sie nur schnell saugen, ja."],
+          ["speaker-a", "Kundin", "Ich nehme zwei Münzen."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the babysitter — instructions",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Mutter", "Emma schläft um acht."],
+          ["speaker-b", "Babysitter", "Alles klar. Mit Gutenachtgeschichte?"],
+          ["speaker-a", "Mutter", "Ja, das Buch liegt auf dem Tisch."],
+          ["speaker-b", "Babysitter", "Was essen die Kinder zu Abend?"],
+          ["speaker-a", "Mutter", "Pasta steht im Kühlschrank."],
+          ["speaker-b", "Babysitter", "Notrufnummern?"],
+          ["speaker-a", "Mutter", "Auf dem Zettel an der Pinnwand."],
+          ["speaker-b", "Babysitter", "Wir sind gegen Mitternacht zurück."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Babysitter", "Max will nicht ins Bett."],
+          ["speaker-b", "Vater", "Hast du ihm warme Milch gegeben?"],
+          ["speaker-a", "Babysitter", "Ja, er weint trotzdem."],
+          ["speaker-b", "Vater", "Sing ihm das Schlaflied, das hilft."],
+          ["speaker-a", "Babysitter", "Welches?"],
+          ["speaker-b", "Vater", "La-Le-Lu. Das kennt er."],
+          ["speaker-a", "Babysitter", "Gut, ich versuche es."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Mutter", "War alles in Ordnung?"],
+          ["speaker-b", "Babysitter", "Ja, beide haben geschlafen wie Engel."],
+          ["speaker-a", "Mutter", "Keine Probleme?"],
+          ["speaker-b", "Babysitter", "Nur ein kleiner Streit um eine Puppe."],
+          ["speaker-a", "Mutter", "Das kenne ich. Hier, 40 Euro."],
+          ["speaker-b", "Babysitter", "Danke. Ich komme gern wieder."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the campsite",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Camper", "Haben Sie noch einen Stellplatz?"],
+          ["speaker-b", "Platzwart", "Ja, für Zelt oder Wohnmobil?"],
+          ["speaker-a", "Camper", "Zelt."],
+          ["speaker-b", "Platzwart", "25 Euro pro Nacht. Mit Strom 30."],
+          ["speaker-a", "Camper", "Ohne Strom. Wo sind die Duschen?"],
+          ["speaker-b", "Platzwart", "Im Haupthaus, 50 Cent."],
+          ["speaker-a", "Camper", "Danke. Ist noch Platz am See?"],
+          ["speaker-b", "Platzwart", "Nummer 34, da mit Meerblick."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Camperin", "Die Luftmatratze geht nicht auf."],
+          ["speaker-b", "Nachbar", "Haben Sie eine Pumpe?"],
+          ["speaker-a", "Camperin", "Ja, aber sie ist kaputt."],
+          ["speaker-b", "Nachbar", "Ich leihe Ihnen meine."],
+          ["speaker-a", "Camperin", "Oh danke, sehr nett."],
+          ["speaker-b", "Nachbar", "Kein Problem. Nachbarn helfen sich."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kind", "Papa, es regnet ins Zelt!"],
+          ["speaker-b", "Vater", "Wo?"],
+          ["speaker-a", "Kind", "Hier, an der Naht."],
+          ["speaker-b", "Vater", "Ich klebe es mit Tape ab."],
+          ["speaker-a", "Kind", "Müssen wir nach Hause fahren?"],
+          ["speaker-b", "Vater", "Nein, nur ein kleines Leck. Abenteuer!"]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the elevator — stuck",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Passagier", "Hilfe! Der Aufzug steckt fest!"],
+          ["speaker-b", "Notrufzentrale", "Bleiben Sie ruhig. Welche Adresse?"],
+          ["speaker-a", "Passagier", "Hauptstraße 20. Dritter Stock, glaube ich."],
+          ["speaker-b", "Notrufzentrale", "Sind Sie allein?"],
+          ["speaker-a", "Passagier", "Ja."],
+          ["speaker-b", "Notrufzentrale", "Der Techniker kommt in 15 Minuten."],
+          ["speaker-a", "Passagier", "Bitte schnell, ich habe Platzangst."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Passagierin1", "Na toll, jetzt sitzen wir fest."],
+          ["speaker-b", "Passagierin2", "Das ist mein Albtraum."],
+          ["speaker-a", "Passagierin1", "Tief durchatmen. Der Notruf ist schon raus."],
+          ["speaker-b", "Passagierin2", "Wie lange dauert das?"],
+          ["speaker-a", "Passagierin1", "Bestimmt nicht lang."],
+          ["speaker-b", "Passagierin2", "Ich wollte die Treppe nehmen."],
+          ["speaker-a", "Passagierin1", "Nächstes Mal wieder Treppe."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Techniker", "So, die Tür ist offen."],
+          ["speaker-b", "Befreite", "Endlich! Was war das Problem?"],
+          ["speaker-a", "Techniker", "Stromausfall für ein paar Sekunden."],
+          ["speaker-b", "Befreite", "Ich war zehn Minuten drin."],
+          ["speaker-a", "Techniker", "Zum Glück ist nichts passiert."],
+          ["speaker-b", "Befreite", "Danke für die schnelle Hilfe."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the nail salon",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Nageldesignerin", "Hallo. Hast du einen Termin?"],
+          ["speaker-b", "Kundin", "Ja, für Maniküre und Gel."],
+          ["speaker-a", "Nageldesignerin", "Welche Farbe?"],
+          ["speaker-b", "Kundin", "Hellrosa, klassisch."],
+          ["speaker-a", "Nageldesignerin", "Mit Design oder einfach?"],
+          ["speaker-b", "Kundin", "Einfach, aber mit Glitzer."],
+          ["speaker-a", "Nageldesignerin", "Dauert etwa eine Stunde."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Kundin", "Ein Nagel ist abgebrochen."],
+          ["speaker-b", "Technikerin", "Ich repariere ihn. Nur den einen?"],
+          ["speaker-a", "Kundin", "Ja. Wie lange hält das Gel?"],
+          ["speaker-b", "Technikerin", "Drei Wochen, dann zum Auffüllen."],
+          ["speaker-a", "Kundin", "Gut, dann komme ich in drei Wochen."]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Kundin", "Meine Nägel sind dünn und brüchig."],
+          ["speaker-b", "Technikerin", "Probieren Sie BIAB, das stärkt."],
+          ["speaker-a", "Kundin", "Was ist BIAB?"],
+          ["speaker-b", "Technikerin", "Builder In A Bottle, ein Aufbaugel."],
+          ["speaker-a", "Kundin", "Ist das teurer als normales Gel?"],
+          ["speaker-b", "Technikerin", "5 Euro mehr, aber es lohnt sich."],
+          ["speaker-a", "Kundin", "Gut, dann BIAB."]
+        ]
+      }
+    ]
+  },
+  {
+    "title": "At the theater",
+    "versions": [
+      {
+        "label": "V1",
+        "lines": [
+          ["speaker-a", "Besucher", "Zwei Karten für heute Abend."],
+          ["speaker-b", "Kartenverkäufer", "Parkett oder Rang?"],
+          ["speaker-a", "Besucher", "Parkett, Mitte."],
+          ["speaker-b", "Kartenverkäufer", "Reihe 12, Platz 14 und 15."],
+          ["speaker-a", "Besucher", "Was kostet das?"],
+          ["speaker-b", "Kartenverkäufer", "78 Euro zusammen."],
+          ["speaker-a", "Besucher", "Gibt es eine Pause?"],
+          ["speaker-b", "Kartenverkäufer", "Ja, nach dem zweiten Akt. 20 Minuten."]
+        ]
+      },
+      {
+        "label": "V2",
+        "lines": [
+          ["speaker-a", "Zuschauerin", "Die Aufführung war grandios."],
+          ["speaker-b", "Zuschauer", "Besonders der Hauptdarsteller."],
+          ["speaker-a", "Zuschauerin", "Eine Standing Ovation, völlig verdient."],
+          ["speaker-b", "Zuschauer", "Hast du Hunger? Das Bistro hat noch auf."],
+          ["speaker-a", "Zuschauerin", "Ja, ein Glas Wein nach so einem Abend."],
+          ["speaker-b", "Zuschauer", "Auf die Kunst!"]
+        ]
+      },
+      {
+        "label": "V3",
+        "lines": [
+          ["speaker-a", "Abonnentin", "Ich möchte mein Abo verlängern."],
+          ["speaker-b", "Service", "Sie haben das kleine Abo, 6 Stücke?"],
+          ["speaker-a", "Abonnentin", "Ja, aber ich möchte auf 10 aufstocken."],
+          ["speaker-b", "Service", "Das kostet dann 240 Euro im Jahr."],
+          ["speaker-a", "Abonnentin", "Gilt es für die nächste Spielzeit?"],
+          ["speaker-b", "Service", "Ja, ab September."]
+        ]
+      }
+    ]
   }
 ];
