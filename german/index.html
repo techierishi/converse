@@ -401,6 +401,22 @@ function speak(text) {
 const scenarios = SCENARIOS_DATA;
 const STORAGE_KEY = 'germanPractice.v2';
 
+// --- URL hash for restoring last position ---
+function hashFromTitle(title) {
+  return '#' + encodeURIComponent(title.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, ''));
+}
+function titleFromHash(hash) {
+  if (!hash || hash === '#') return null;
+  const slug = decodeURIComponent(hash.replace('#', ''));
+  return scenarios.find(s => hashFromTitle(s.title) === '#' + slug)?.title || null;
+}
+function scenarioIndexFromHash(hash) {
+  const title = titleFromHash(hash);
+  if (!title) return 0;
+  const idx = scenarios.findIndex(s => s.title === title);
+  return idx >= 0 ? idx : 0;
+}
+
 function b64(title) {
   return btoa(unescape(encodeURIComponent(title)));
 }
@@ -734,6 +750,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
 
       button.addEventListener('click', () => {
+        window.location.hash = hashFromTitle(hit.scenario.title);
         renderScenario(hit.index);
         search.value = hit.scenario.title;
         results.classList.remove('show');
@@ -794,7 +811,17 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   updateProgress();
-  renderScenario(0);
+
+  // Restore last scenario from URL hash, or start at first
+  const startIndex = scenarioIndexFromHash(window.location.hash);
+  renderScenario(startIndex);
+
+  // Listen for hash changes (browser back/forward)
+  window.addEventListener('hashchange', () => {
+    const idx = scenarioIndexFromHash(window.location.hash);
+    renderScenario(idx);
+    root.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
 });
 </script>
 </div>
