@@ -25076,7 +25076,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ja, finden Sie auch?"
           ],
@@ -25171,7 +25171,7 @@ const SCENARIOS_DATA = [
             "Online-Banking möchten Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankangestellte",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -25181,17 +25181,17 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankangestellte",
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kunde",
             "Ja, unbedingt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beraterin",
             "Ich richte gleich alles ein."
           ]
@@ -25256,7 +25256,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -25266,7 +25266,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -25276,7 +25276,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -25286,7 +25286,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -25586,7 +25586,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -25596,7 +25596,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -25606,7 +25606,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -25671,7 +25671,7 @@ const SCENARIOS_DATA = [
             "Stimmt, habe ich übersehen. 4,30 Euro bitte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Postbeamter",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -25681,7 +25681,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Postbeamter",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -25691,7 +25691,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Postbeamter",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -25701,7 +25701,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Postbeamter",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -25711,17 +25711,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Postbeamter",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kunde",
             "Kann ich mit Karte zahlen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schalterbeamte",
             "Natürlich. Halten Sie kurz ran."
           ]
@@ -25786,7 +25786,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -25796,7 +25796,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -25806,7 +25806,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -25816,7 +25816,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -26136,7 +26136,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -26221,7 +26221,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -26231,7 +26231,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -26241,7 +26241,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -26326,7 +26326,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -26336,7 +26336,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -26346,7 +26346,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -26646,7 +26646,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -26656,7 +26656,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -26666,7 +26666,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -26731,7 +26731,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -26741,7 +26741,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das habe ich mir schon gedacht."
           ],
@@ -26751,7 +26751,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -26761,7 +26761,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -26771,7 +26771,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -26836,7 +26836,7 @@ const SCENARIOS_DATA = [
             "Das ist nett. Wo ist das Café?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -26846,7 +26846,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -26856,7 +26856,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -26866,7 +26866,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -26876,17 +26876,17 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Servicekraft",
             "Gleich am Gleis 1."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Vielen Dank für die Hilfe."
           ]
@@ -27176,7 +27176,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Ja, finden Sie auch?"
           ],
@@ -27186,7 +27186,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Das freut mich sehr."
           ],
@@ -27196,7 +27196,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Gut, dann bin ich beruhigt."
           ],
@@ -27271,7 +27271,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -27281,7 +27281,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Das habe ich mir schon gedacht."
           ],
@@ -27291,7 +27291,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -27301,7 +27301,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bewerber",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -27376,7 +27376,7 @@ const SCENARIOS_DATA = [
             "Sie bekommen einen Mentor für drei Monate."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Personalchefin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -27386,7 +27386,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Personalchefin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -27396,7 +27396,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Personalchefin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -27406,17 +27406,17 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Personalchefin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Bewerber",
             "Das klingt sehr gut durchdacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "GF",
             "Wir geben Ihnen bis Freitag Bescheid."
           ]
@@ -27696,7 +27696,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -27706,7 +27706,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -27716,7 +27716,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -27726,7 +27726,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -27791,7 +27791,7 @@ const SCENARIOS_DATA = [
             "Kannst du Tom Bescheid sagen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -27801,7 +27801,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -27811,7 +27811,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -27821,7 +27821,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -27831,17 +27831,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiterin",
             "Klar, ich kümmere mich darum."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kollegin",
             "Danke, du bist ein Schatz."
           ]
@@ -27896,7 +27896,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -27906,7 +27906,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -27916,7 +27916,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -27926,7 +27926,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -27936,7 +27936,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -28226,7 +28226,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Ja, finden Sie auch?"
           ],
@@ -28236,7 +28236,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Das freut mich sehr."
           ],
@@ -28246,7 +28246,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Gut, dann bin ich beruhigt."
           ],
@@ -28256,7 +28256,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Nein, das ist alles für heute."
           ],
@@ -28321,7 +28321,7 @@ const SCENARIOS_DATA = [
             "Wie oft soll ich trainieren?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Trainer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -28331,7 +28331,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Trainer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -28341,7 +28341,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Trainer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -28351,7 +28351,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Trainer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -28361,17 +28361,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Trainer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Trainer",
             "Drei- bis viermal pro Woche."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitglied",
             "Alles klar, ich bin motiviert."
           ]
@@ -28436,7 +28436,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -28446,7 +28446,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -28456,7 +28456,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -28466,7 +28466,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Neuling",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -28766,7 +28766,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Ja, finden Sie auch?"
           ],
@@ -28776,7 +28776,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das freut mich sehr."
           ],
@@ -28786,7 +28786,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Gut, dann bin ich beruhigt."
           ],
@@ -28851,7 +28851,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -28861,7 +28861,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das habe ich mir schon gedacht."
           ],
@@ -28871,7 +28871,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -28881,7 +28881,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -28891,7 +28891,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -28946,7 +28946,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -28956,7 +28956,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -28966,7 +28966,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -28976,7 +28976,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -28986,7 +28986,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -28996,7 +28996,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -29296,7 +29296,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -29306,7 +29306,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -29316,7 +29316,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -29381,7 +29381,7 @@ const SCENARIOS_DATA = [
             "Die Hose ist etwas lang."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -29391,7 +29391,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -29401,7 +29401,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -29411,7 +29411,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -29421,17 +29421,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäufer",
             "Wir haben einen Änderungsdienst, das dauert zwei Tage."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Perfekt, dann nehme ich den Anzug."
           ]
@@ -29486,7 +29486,7 @@ const SCENARIOS_DATA = [
             "Bekommen ich das Geld zurück?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -29496,7 +29496,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -29506,7 +29506,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -29516,7 +29516,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -29526,17 +29526,17 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäuferin",
             "Ja, auf demselben Weg wie bezahlt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das ist sehr kulant."
           ]
@@ -29806,7 +29806,7 @@ const SCENARIOS_DATA = [
             "Hier, 2,50 Euro. Sonst noch was?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Oh, das ist interessant."
           ],
@@ -29816,7 +29816,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Auf jeden Fall."
           ],
@@ -29826,7 +29826,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Alles klar, ich verstehe."
           ],
@@ -29836,7 +29836,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Haben Sie noch etwas?"
           ],
@@ -29846,17 +29846,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Das reicht. Insgesamt 8,50 Euro, richtig?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Genau. Vielen Dank und bis nächste Woche."
           ]
@@ -29911,7 +29911,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -29921,7 +29921,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -29931,7 +29931,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -29941,7 +29941,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -29951,7 +29951,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -30016,7 +30016,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -30026,7 +30026,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -30036,7 +30036,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -30046,7 +30046,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -30056,7 +30056,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -30346,7 +30346,7 @@ const SCENARIOS_DATA = [
             "Es kann müde machen. Fahren Sie nicht Auto."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Oh, das ist interessant."
           ],
@@ -30356,7 +30356,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Auf jeden Fall."
           ],
@@ -30366,7 +30366,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Alles klar, ich verstehe."
           ],
@@ -30376,17 +30376,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kunde",
             "Alles klar. Was kostet die Zuzahlung?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Fünf Euro."
           ]
@@ -30451,7 +30451,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -30461,7 +30461,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das habe ich mir schon gedacht."
           ],
@@ -30471,7 +30471,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -30481,7 +30481,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -30536,7 +30536,7 @@ const SCENARIOS_DATA = [
             "Auf keinen Fall Alkohol während der Einnahme."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -30546,7 +30546,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -30556,7 +30556,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -30566,7 +30566,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -30576,7 +30576,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -30586,17 +30586,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Gut zu wissen. Danke für die Aufklärung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Apothekerin",
             "Das ist meine Aufgabe. Gute Besserung."
           ]
@@ -30876,7 +30876,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ja, finden Sie auch?"
           ],
@@ -30886,7 +30886,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Das freut mich sehr."
           ],
@@ -30896,7 +30896,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Gut, dann bin ich beruhigt."
           ],
@@ -30906,7 +30906,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Nein, das ist alles für heute."
           ],
@@ -30971,7 +30971,7 @@ const SCENARIOS_DATA = [
             "Können Sie eine Quittung brauchen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -30981,7 +30981,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -30991,7 +30991,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -31001,7 +31001,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -31011,17 +31011,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Passagierin",
             "Ja, bitte für die Reisekosten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrerin",
             "Hier, 34 Euro. Guten Flug."
           ]
@@ -31066,7 +31066,7 @@ const SCENARIOS_DATA = [
             "0176 12345678."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -31076,7 +31076,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -31086,7 +31086,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -31096,7 +31096,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -31106,7 +31106,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -31116,17 +31116,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Zentrale",
             "Wir rufen Sie zurück, sobald es gefunden wurde."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrgast",
             "Vielen Dank, ich hoffe sehr."
           ]
@@ -31406,7 +31406,7 @@ const SCENARIOS_DATA = [
             "Macht 7,20 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kellnerin",
             "Oh, das ist interessant."
           ],
@@ -31416,7 +31416,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kellnerin",
             "Auf jeden Fall."
           ],
@@ -31426,7 +31426,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kellnerin",
             "Alles klar, ich verstehe."
           ],
@@ -31436,17 +31436,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kellnerin",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Gast",
             "Hier, stimmt so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kellnerin",
             "Danke, einen schönen Tag noch."
           ]
@@ -31501,7 +31501,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -31511,7 +31511,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das habe ich mir schon gedacht."
           ],
@@ -31521,7 +31521,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -31531,7 +31531,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -31541,7 +31541,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -31606,7 +31606,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -31616,7 +31616,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -31626,7 +31626,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -31636,7 +31636,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -31646,7 +31646,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -31936,7 +31936,7 @@ const SCENARIOS_DATA = [
             "Alles in Ordnung. Sie sind jetzt hier gemeldet."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Oh, das ist interessant."
           ],
@@ -31946,7 +31946,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Auf jeden Fall."
           ],
@@ -31956,7 +31956,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Alles klar, ich verstehe."
           ],
@@ -31966,17 +31966,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Bürger",
             "Danke. Bekomme ich eine Bestätigung?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Die Meldebescheinigung drucke ich Ihnen aus."
           ]
@@ -32031,7 +32031,7 @@ const SCENARIOS_DATA = [
             "32 Euro extra. Insgesamt 92 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -32041,7 +32041,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -32051,7 +32051,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -32061,7 +32061,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -32071,17 +32071,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Bürgerin",
             "Normal reicht. Ich warte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Gut. Ihr neuer Pass kommt per Post."
           ]
@@ -32136,7 +32136,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -32146,7 +32146,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -32156,7 +32156,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -32166,7 +32166,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -32176,7 +32176,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -32466,7 +32466,7 @@ const SCENARIOS_DATA = [
             "Ja, und ein Fahrradkeller."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vermieter",
             "Oh, das ist interessant."
           ],
@@ -32476,7 +32476,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vermieter",
             "Auf jeden Fall."
           ],
@@ -32486,7 +32486,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vermieter",
             "Alles klar, ich verstehe."
           ],
@@ -32496,17 +32496,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vermieter",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Interessentin",
             "Die Wohnung gefällt mir. Wann kann ich einziehen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vermieter",
             "Ab ersten August."
           ]
@@ -32571,7 +32571,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -32581,7 +32581,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Das habe ich mir schon gedacht."
           ],
@@ -32591,7 +32591,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -32601,7 +32601,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -32666,7 +32666,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -32676,7 +32676,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -32686,7 +32686,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -32696,7 +32696,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -32706,7 +32706,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Interessentin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -32986,7 +32986,7 @@ const SCENARIOS_DATA = [
             "Auf einer Skala von eins bis zehn?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Oh, das ist interessant."
           ],
@@ -32996,7 +32996,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Auf jeden Fall."
           ],
@@ -33006,7 +33006,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Alles klar, ich verstehe."
           ],
@@ -33016,7 +33016,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Haben Sie noch etwas?"
           ],
@@ -33026,17 +33026,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Acht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich bringe Ihnen etwas gegen die Schmerzen."
           ]
@@ -33091,7 +33091,7 @@ const SCENARIOS_DATA = [
             "Das sehen wir nach den Aufnahmen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -33101,7 +33101,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -33111,7 +33111,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -33121,7 +33121,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -33131,17 +33131,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Können Sie meine Frau anrufen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notärztin",
             "Ja, geben Sie mir die Nummer."
           ]
@@ -33196,7 +33196,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -33206,7 +33206,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -33216,7 +33216,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -33226,7 +33226,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -33236,7 +33236,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -33516,7 +33516,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -33526,7 +33526,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -33536,7 +33536,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -33546,7 +33546,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -33556,7 +33556,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -33611,7 +33611,7 @@ const SCENARIOS_DATA = [
             "2,2 Bar steht in der Anleitung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -33621,7 +33621,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -33631,7 +33631,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -33641,7 +33641,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -33651,7 +33651,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -33661,17 +33661,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "So, alle vier Reifen sind okay."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Autofahrerin",
             "Vielen Dank für die Hilfe."
           ]
@@ -33716,7 +33716,7 @@ const SCENARIOS_DATA = [
             "Das ist ärgerlich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -33726,7 +33726,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -33736,7 +33736,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -33746,7 +33746,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -33756,7 +33756,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -33766,17 +33766,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Pächter",
             "Zum Glück haben Sie den Motor nicht gestartet."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ja, ich habe es gleich gemerkt."
           ]
@@ -34056,7 +34056,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -34066,7 +34066,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -34076,7 +34076,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -34086,7 +34086,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist alles für heute."
           ],
@@ -34141,7 +34141,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -34151,7 +34151,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -34161,7 +34161,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -34171,7 +34171,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -34181,7 +34181,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -34191,7 +34191,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich hoffe, Sie haben recht."
           ],
@@ -34246,7 +34246,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -34256,7 +34256,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -34266,7 +34266,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -34276,7 +34276,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -34286,7 +34286,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -34296,7 +34296,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -34576,7 +34576,7 @@ const SCENARIOS_DATA = [
             "Hier Ihre Bordkarte. Gate B12."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Oh, das ist interessant."
           ],
@@ -34586,7 +34586,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Auf jeden Fall."
           ],
@@ -34596,7 +34596,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Alles klar, ich verstehe."
           ],
@@ -34606,7 +34606,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Haben Sie noch etwas?"
           ],
@@ -34616,17 +34616,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Passagier",
             "Wann ist das Boarding?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Um 10:30 Uhr. Guten Flug!"
           ]
@@ -34681,7 +34681,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -34691,7 +34691,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Das habe ich mir schon gedacht."
           ],
@@ -34701,7 +34701,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -34711,7 +34711,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -34721,7 +34721,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -34776,7 +34776,7 @@ const SCENARIOS_DATA = [
             "Das ist ärgerlich, aber nicht zu ändern."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -34786,7 +34786,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -34796,7 +34796,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -34806,7 +34806,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -34816,7 +34816,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -34826,17 +34826,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Check-in-Agent",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schalterbeamter",
             "Das Hotel-Shuttle kommt in zehn Minuten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Na dann, eine unerwartete Übernachtung."
           ]
@@ -35116,7 +35116,7 @@ const SCENARIOS_DATA = [
             "Spannend. Magst du deinen Job?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Oh, das ist interessant."
           ],
@@ -35126,7 +35126,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Auf jeden Fall."
           ],
@@ -35136,7 +35136,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Alles klar, ich verstehe."
           ],
@@ -35146,17 +35146,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Tom",
             "Ja, sehr. Und du, arbeitest du gern mit Kindern?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Es ist der beste Beruf der Welt."
           ]
@@ -35221,7 +35221,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tom",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -35231,7 +35231,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tom",
             "Das habe ich mir schon gedacht."
           ],
@@ -35241,7 +35241,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tom",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -35251,7 +35251,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tom",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -35316,7 +35316,7 @@ const SCENARIOS_DATA = [
             "Ja gern. Und vielleicht noch ein Dessert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -35326,7 +35326,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -35336,7 +35336,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -35346,7 +35346,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -35356,17 +35356,17 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Anna",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Sam",
             "Ich teile gern. Tiramisu?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chris",
             "Perfekt."
           ]
@@ -35626,7 +35626,7 @@ const SCENARIOS_DATA = [
             "Samstag geht. Das macht 14,80 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Oh, das ist interessant."
           ],
@@ -35636,7 +35636,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Auf jeden Fall."
           ],
@@ -35646,7 +35646,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Alles klar, ich verstehe."
           ],
@@ -35656,7 +35656,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Haben Sie noch etwas?"
           ],
@@ -35666,7 +35666,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Schön, dann machen wir das so."
           ],
@@ -35676,17 +35676,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Hier bitte. Ich hole es am Samstag ab."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Hier Ihr Beleg. Auf Wiedersehen."
           ]
@@ -35731,7 +35731,7 @@ const SCENARIOS_DATA = [
             "Was kostet Express?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -35741,7 +35741,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -35751,7 +35751,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -35761,7 +35761,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -35771,7 +35771,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -35781,17 +35781,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reinigungsfachkraft",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiterin",
             "50 Prozent Aufschlag, also 22 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "In Ordnung. Bitte machen Sie ihn sauber."
           ]
@@ -35846,7 +35846,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -35856,7 +35856,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -35866,7 +35866,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -35876,7 +35876,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -35886,7 +35886,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -36166,7 +36166,7 @@ const SCENARIOS_DATA = [
             "Soll ich die Bremsen auch prüfen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Oh, das ist interessant."
           ],
@@ -36176,7 +36176,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Auf jeden Fall."
           ],
@@ -36186,7 +36186,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Alles klar, ich verstehe."
           ],
@@ -36196,7 +36196,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Haben Sie noch etwas?"
           ],
@@ -36206,17 +36206,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Ja, bitte. Ich habe ein schlechtes Gefühl."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Mache ich. Bis später."
           ]
@@ -36271,7 +36271,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -36281,7 +36281,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -36291,7 +36291,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -36301,7 +36301,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -36311,7 +36311,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -36366,7 +36366,7 @@ const SCENARIOS_DATA = [
             "Darf ich eine Probefahrt machen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -36376,7 +36376,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -36386,7 +36386,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -36396,7 +36396,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -36406,7 +36406,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -36416,17 +36416,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäufer",
             "Klar, hier um den Block."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es fährt sich super. Ich nehme es."
           ]
@@ -36696,7 +36696,7 @@ const SCENARIOS_DATA = [
             "Bis zu zehn Stunden."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Oh, das ist interessant."
           ],
@@ -36706,7 +36706,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Auf jeden Fall."
           ],
@@ -36716,7 +36716,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Alles klar, ich verstehe."
           ],
@@ -36726,7 +36726,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Haben Sie noch etwas?"
           ],
@@ -36736,17 +36736,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Gut, kann ich den hier mitnehmen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ja, ich hole ihn aus dem Lager."
           ]
@@ -36811,7 +36811,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -36821,7 +36821,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -36831,7 +36831,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -36841,7 +36841,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -36906,7 +36906,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -36916,7 +36916,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -36926,7 +36926,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -36936,7 +36936,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -36946,7 +36946,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -37216,7 +37216,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Ja, finden Sie auch?"
           ],
@@ -37226,7 +37226,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Das freut mich sehr."
           ],
@@ -37236,7 +37236,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Gut, dann bin ich beruhigt."
           ],
@@ -37246,7 +37246,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Nein, das ist alles für heute."
           ],
@@ -37256,7 +37256,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Ja, das ist eine gute Idee."
           ],
@@ -37266,7 +37266,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "ADAC-Helfer",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -37321,7 +37321,7 @@ const SCENARIOS_DATA = [
             "Dann nichts. Ich kopple jetzt an."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -37331,7 +37331,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -37341,7 +37341,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -37351,7 +37351,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -37361,7 +37361,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -37371,17 +37371,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Autofahrerin",
             "Kann ich im Auto bleiben?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Nein, besser Sie steigen bei mir ein."
           ]
@@ -37426,7 +37426,7 @@ const SCENARIOS_DATA = [
             "Kann ich mit dem Ersatzrad normal weiterfahren?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -37436,7 +37436,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -37446,7 +37446,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -37456,7 +37456,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -37466,7 +37466,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -37476,17 +37476,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Pannenhelferin",
             "Nur 80 km/h, dann ab in die Werkstatt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Alles klar, vielen Dank für die schnelle Hilfe."
           ]
@@ -37766,7 +37766,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, finden Sie auch?"
           ],
@@ -37776,7 +37776,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das freut mich sehr."
           ],
@@ -37786,7 +37786,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Gut, dann bin ich beruhigt."
           ],
@@ -37796,7 +37796,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist alles für heute."
           ],
@@ -37861,7 +37861,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -37871,7 +37871,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das habe ich mir schon gedacht."
           ],
@@ -37881,7 +37881,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -37891,7 +37891,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -37901,7 +37901,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -37966,7 +37966,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -37976,7 +37976,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -37986,7 +37986,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -37996,7 +37996,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -38006,7 +38006,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -38296,7 +38296,7 @@ const SCENARIOS_DATA = [
             "199 Euro inklusive Gläser."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Oh, das ist interessant."
           ],
@@ -38306,7 +38306,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Auf jeden Fall."
           ],
@@ -38316,7 +38316,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Alles klar, ich verstehe."
           ],
@@ -38326,17 +38326,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Wann kann ich sie abholen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "In einer Woche."
           ]
@@ -38391,7 +38391,7 @@ const SCENARIOS_DATA = [
             "Oh, es geht einfacher als gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -38401,7 +38401,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -38411,7 +38411,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -38421,7 +38421,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -38431,17 +38431,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Optiker",
             "Sehen Sie scharf?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ja, perfekt. Ich nehme eine Monatspackung."
           ]
@@ -38486,7 +38486,7 @@ const SCENARIOS_DATA = [
             "In den ersten Tagen kann es ungewohnt sein."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -38496,7 +38496,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -38506,7 +38506,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -38516,7 +38516,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -38526,7 +38526,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -38536,17 +38536,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optikerin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Wenn es nicht passt, komme ich wieder."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Optiker",
             "Ja, Nachjustieren ist kostenlos."
           ]
@@ -38816,7 +38816,7 @@ const SCENARIOS_DATA = [
             "Ich gebe ihm eine Spritze gegen Übelkeit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Oh, das ist interessant."
           ],
@@ -38826,7 +38826,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Auf jeden Fall."
           ],
@@ -38836,7 +38836,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Alles klar, ich verstehe."
           ],
@@ -38846,7 +38846,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Haben Sie noch etwas?"
           ],
@@ -38856,17 +38856,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Besitzerin",
             "Muss er über Nacht bleiben?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Nein, aber morgen zur Kontrolle wiederkommen."
           ]
@@ -38921,7 +38921,7 @@ const SCENARIOS_DATA = [
             "In Narkose, ja. Wir machen einen Termin."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -38931,7 +38931,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -38941,7 +38941,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -38951,7 +38951,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -38961,17 +38961,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierärztin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Besitzer",
             "Was kostet die Zahnreinigung?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tierarzt",
             "Etwa 120 Euro."
           ]
@@ -39026,7 +39026,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besitzerin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -39036,7 +39036,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besitzerin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -39046,7 +39046,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besitzerin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -39056,7 +39056,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besitzerin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -39066,7 +39066,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besitzerin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -39356,7 +39356,7 @@ const SCENARIOS_DATA = [
             "Gut, ich nehme die Anzeige auf."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Polizist",
             "Oh, das ist interessant."
           ],
@@ -39366,7 +39366,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Polizist",
             "Auf jeden Fall."
           ],
@@ -39376,7 +39376,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Polizist",
             "Alles klar, ich verstehe."
           ],
@@ -39386,17 +39386,17 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Polizist",
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Bürger",
             "Besteht Hoffnung, es wiederzubekommen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Polizist",
             "Wir tun unser Bestes."
           ]
@@ -39461,7 +39461,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -39471,7 +39471,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Das habe ich mir schon gedacht."
           ],
@@ -39481,7 +39481,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -39491,7 +39491,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -39556,7 +39556,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -39566,7 +39566,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -39576,7 +39576,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -39586,7 +39586,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -39596,7 +39596,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -39876,7 +39876,7 @@ const SCENARIOS_DATA = [
             "Genau, und etwas Gas."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Oh, das ist interessant."
           ],
@@ -39886,7 +39886,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Auf jeden Fall."
           ],
@@ -39896,7 +39896,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Alles klar, ich verstehe."
           ],
@@ -39906,7 +39906,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Haben Sie noch etwas?"
           ],
@@ -39916,17 +39916,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schüler",
             "Es fährt!"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Ruhig bleiben, gut gemacht."
           ]
@@ -39961,7 +39961,7 @@ const SCENARIOS_DATA = [
             "Immer zu weit vom Bordstein."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -39971,7 +39971,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -39981,7 +39981,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -39991,7 +39991,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -40001,7 +40001,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -40011,7 +40011,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -40021,17 +40021,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrlehrer",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Fahrlehrer",
             "Schau in den rechten Spiegel. Besser."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schülerin",
             "Jetzt ist es gut?"
           ]
@@ -40301,7 +40301,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Ja, finden Sie auch?"
           ],
@@ -40311,7 +40311,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Das freut mich sehr."
           ],
@@ -40321,7 +40321,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -40331,7 +40331,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Nein, das ist alles für heute."
           ],
@@ -40341,7 +40341,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Ja, das ist eine gute Idee."
           ],
@@ -40396,7 +40396,7 @@ const SCENARIOS_DATA = [
             "Ja, nach dem Schwimmen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -40406,7 +40406,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -40416,7 +40416,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -40426,7 +40426,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -40436,7 +40436,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -40446,17 +40446,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kind",
             "Mit Wassergraben und Muscheln?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Die größte Sandburg am Strand."
           ]
@@ -40501,7 +40501,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -40511,7 +40511,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -40521,7 +40521,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -40531,7 +40531,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -40541,7 +40541,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -40551,7 +40551,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -40831,7 +40831,7 @@ const SCENARIOS_DATA = [
             "Ein Lebkuchenherz mit Aufschrift?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Oh, das ist interessant."
           ],
@@ -40841,7 +40841,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Auf jeden Fall."
           ],
@@ -40851,7 +40851,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Alles klar, ich verstehe."
           ],
@@ -40861,7 +40861,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Haben Sie noch etwas?"
           ],
@@ -40871,17 +40871,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Besucherin",
             "Ja, 'Für meine Liebste'."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Wie romantisch."
           ]
@@ -40926,7 +40926,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -40936,7 +40936,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Das habe ich mir schon gedacht."
           ],
@@ -40946,7 +40946,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -40956,7 +40956,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -40966,7 +40966,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -40976,7 +40976,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Ich hoffe, Sie haben recht."
           ],
@@ -41021,7 +41021,7 @@ const SCENARIOS_DATA = [
             "Eine gute Wahl. Sorgfältig verpackt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -41031,7 +41031,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -41041,7 +41041,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -41051,7 +41051,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -41061,7 +41061,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -41071,7 +41071,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -41081,17 +41081,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Danke. Verschenke ich an meine Mutter."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Darüber freut sie sich bestimmt."
           ]
@@ -41361,7 +41361,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -41371,7 +41371,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -41381,7 +41381,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -41391,7 +41391,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -41401,7 +41401,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -41456,7 +41456,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -41466,7 +41466,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das habe ich mir schon gedacht."
           ],
@@ -41476,7 +41476,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -41486,7 +41486,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -41496,7 +41496,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -41506,7 +41506,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -41561,7 +41561,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -41571,7 +41571,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -41581,7 +41581,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -41591,7 +41591,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -41601,7 +41601,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -41611,7 +41611,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -41891,7 +41891,7 @@ const SCENARIOS_DATA = [
             "Hast du Ohrstöpsel?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Oh, das ist interessant."
           ],
@@ -41901,7 +41901,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Auf jeden Fall."
           ],
@@ -41911,7 +41911,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Alles klar, ich verstehe."
           ],
@@ -41921,7 +41921,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Haben Sie noch etwas?"
           ],
@@ -41931,17 +41931,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Freund",
             "Ja, sicher ist sicher."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fan",
             "Es geht los!"
           ]
@@ -41986,7 +41986,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -41996,7 +41996,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Das habe ich mir schon gedacht."
           ],
@@ -42006,7 +42006,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -42016,7 +42016,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -42026,7 +42026,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -42036,7 +42036,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Ich hoffe, Sie haben recht."
           ],
@@ -42091,7 +42091,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -42101,7 +42101,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -42111,7 +42111,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -42121,7 +42121,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -42131,7 +42131,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -42141,7 +42141,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freund",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -42421,7 +42421,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Ja, finden Sie auch?"
           ],
@@ -42431,7 +42431,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Das freut mich sehr."
           ],
@@ -42441,7 +42441,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -42451,7 +42451,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Nein, das ist alles für heute."
           ],
@@ -42461,7 +42461,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Ja, das ist eine gute Idee."
           ],
@@ -42516,7 +42516,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -42526,7 +42526,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Das habe ich mir schon gedacht."
           ],
@@ -42536,7 +42536,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -42546,7 +42546,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -42556,7 +42556,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -42566,7 +42566,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -42621,7 +42621,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -42631,7 +42631,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -42641,7 +42641,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -42651,7 +42651,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -42661,7 +42661,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -42671,7 +42671,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -42941,7 +42941,7 @@ const SCENARIOS_DATA = [
             "Danke. Wann ist die Müllabfuhr?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Oh, das ist interessant."
           ],
@@ -42951,7 +42951,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Auf jeden Fall."
           ],
@@ -42961,7 +42961,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Alles klar, ich verstehe."
           ],
@@ -42971,7 +42971,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Haben Sie noch etwas?"
           ],
@@ -42981,7 +42981,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Schön, dann machen wir das so."
           ],
@@ -42991,17 +42991,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Nachbarin",
             "Donnerstag früh. Gelbe Tonne alle zwei Wochen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Alles klar, vielen Dank."
           ]
@@ -43036,7 +43036,7 @@ const SCENARIOS_DATA = [
             "Ich muss früh aufstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -43046,7 +43046,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -43056,7 +43056,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -43066,7 +43066,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -43076,7 +43076,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -43086,7 +43086,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -43096,17 +43096,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbar",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Neuer",
             "Verstehe. Kommt nicht wieder vor."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Danke, einen schönen Abend noch."
           ]
@@ -43151,7 +43151,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -43161,7 +43161,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -43171,7 +43171,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -43181,7 +43181,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -43191,7 +43191,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -43201,7 +43201,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nachbarin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -43481,7 +43481,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ja, finden Sie auch?"
           ],
@@ -43491,7 +43491,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Das freut mich sehr."
           ],
@@ -43501,7 +43501,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Gut, dann bin ich beruhigt."
           ],
@@ -43511,7 +43511,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Nein, das ist alles für heute."
           ],
@@ -43521,7 +43521,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ja, das ist eine gute Idee."
           ],
@@ -43576,7 +43576,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -43586,7 +43586,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Das habe ich mir schon gedacht."
           ],
@@ -43596,7 +43596,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -43606,7 +43606,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -43616,7 +43616,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -43626,7 +43626,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Ich hoffe, Sie haben recht."
           ],
@@ -43681,7 +43681,7 @@ const SCENARIOS_DATA = [
             "Ihr Wissen ist unersetzlich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -43691,7 +43691,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -43701,7 +43701,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -43711,7 +43711,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -43721,7 +43721,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -43731,17 +43731,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "Ich arbeite die Nachfolge gründlich ein."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Chef",
             "Danke. Die Tür bleibt offen."
           ]
@@ -44001,7 +44001,7 @@ const SCENARIOS_DATA = [
             "Super, ich nehme beides."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh, das ist interessant."
           ],
@@ -44011,7 +44011,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Auf jeden Fall."
           ],
@@ -44021,7 +44021,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Alles klar, ich verstehe."
           ],
@@ -44031,7 +44031,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie noch etwas?"
           ],
@@ -44041,7 +44041,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Schön, dann machen wir das so."
           ],
@@ -44051,17 +44051,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäufer",
             "Noch eine Tüte dazu?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, danke. Einen schönen Tag."
           ]
@@ -44106,7 +44106,7 @@ const SCENARIOS_DATA = [
             "20 Euro, mit Original-Cover."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -44116,7 +44116,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -44126,7 +44126,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -44136,7 +44136,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -44146,7 +44146,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -44156,17 +44156,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Sammler",
             "Top. Ich sammle das."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Dann viel Freude damit."
           ]
@@ -44211,7 +44211,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -44221,7 +44221,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -44231,7 +44231,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -44241,7 +44241,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -44251,7 +44251,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -44261,7 +44261,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -44541,7 +44541,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -44551,7 +44551,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Das freut mich sehr."
           ],
@@ -44561,7 +44561,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -44571,7 +44571,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -44581,7 +44581,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -44636,7 +44636,7 @@ const SCENARIOS_DATA = [
             "Gibt es eine Gebühr am Schalter?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -44646,7 +44646,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -44656,7 +44656,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -44666,7 +44666,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -44676,7 +44676,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -44686,17 +44686,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schalterbeamter",
             "Bei uns nicht, nein."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut. Hier ist Ihre Auszahlung."
           ]
@@ -44741,7 +44741,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -44751,7 +44751,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -44761,7 +44761,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -44771,7 +44771,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -44781,7 +44781,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -44791,7 +44791,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bankmitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -45061,7 +45061,7 @@ const SCENARIOS_DATA = [
             "Sind die Töpfe hier auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh, das ist interessant."
           ],
@@ -45071,7 +45071,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Auf jeden Fall."
           ],
@@ -45081,7 +45081,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Alles klar, ich verstehe."
           ],
@@ -45091,7 +45091,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie noch etwas?"
           ],
@@ -45101,7 +45101,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Schön, dann machen wir das so."
           ],
@@ -45111,17 +45111,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "Ja, Terrakotta oder Plastik?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Terrakotta sieht schöner aus."
           ]
@@ -45166,7 +45166,7 @@ const SCENARIOS_DATA = [
             "Vertikutieren? Was ist das?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -45176,7 +45176,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -45186,7 +45186,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -45196,7 +45196,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -45206,7 +45206,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -45216,17 +45216,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Gärtnerin",
             "Moos rausrechen. Ein Gerät kann man leihen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Gut, ich leihe es hier aus."
           ]
@@ -45271,7 +45271,7 @@ const SCENARIOS_DATA = [
             "Trägt der schon nächstes Jahr?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -45281,7 +45281,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -45291,7 +45291,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -45301,7 +45301,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -45311,7 +45311,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -45321,17 +45321,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Baumschuler",
             "In zwei bis drei Jahren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, ich warte gern."
           ]
@@ -45601,7 +45601,7 @@ const SCENARIOS_DATA = [
             "Ja, mit Massage und Übungen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Oh, das ist interessant."
           ],
@@ -45611,7 +45611,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Auf jeden Fall."
           ],
@@ -45621,7 +45621,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Alles klar, ich verstehe."
           ],
@@ -45631,7 +45631,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Haben Sie noch etwas?"
           ],
@@ -45641,17 +45641,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Wie viele Sitzungen brauche ich?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Etwa sechs Termine."
           ]
@@ -45696,7 +45696,7 @@ const SCENARIOS_DATA = [
             "Darf ich joggen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -45706,7 +45706,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -45716,7 +45716,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -45726,7 +45726,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -45736,7 +45736,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -45746,17 +45746,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Therapeut",
             "Noch nicht. Erst das Knie stärken."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patientin",
             "Gut, dann habe ich Geduld."
           ]
@@ -45801,7 +45801,7 @@ const SCENARIOS_DATA = [
             "Ja, aber jeden Tag."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -45811,7 +45811,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -45821,7 +45821,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -45831,7 +45831,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -45841,7 +45841,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -45851,17 +45851,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Physio",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Okay, ich verspreche es."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeut",
             "Gut. Hier ein Übungsblatt für zu Hause."
           ]
@@ -46131,7 +46131,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Ja, finden Sie auch?"
           ],
@@ -46141,7 +46141,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Das freut mich sehr."
           ],
@@ -46151,7 +46151,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Gut, dann bin ich beruhigt."
           ],
@@ -46161,7 +46161,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Nein, das ist alles für heute."
           ],
@@ -46171,7 +46171,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Ja, das ist eine gute Idee."
           ],
@@ -46226,7 +46226,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -46236,7 +46236,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Das habe ich mir schon gedacht."
           ],
@@ -46246,7 +46246,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -46256,7 +46256,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -46266,7 +46266,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -46276,7 +46276,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Ich hoffe, Sie haben recht."
           ],
@@ -46331,7 +46331,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -46341,7 +46341,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -46351,7 +46351,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -46361,7 +46361,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -46371,7 +46371,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -46381,7 +46381,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Angehörige",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -46651,7 +46651,7 @@ const SCENARIOS_DATA = [
             "Das ist jetzt Ihre Aufgabe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Oh, das ist interessant."
           ],
@@ -46661,7 +46661,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Auf jeden Fall."
           ],
@@ -46671,7 +46671,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Alles klar, ich verstehe."
           ],
@@ -46681,7 +46681,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Haben Sie noch etwas?"
           ],
@@ -46691,7 +46691,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Schön, dann machen wir das so."
           ],
@@ -46701,17 +46701,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Braut",
             "Ich bin so glücklich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Standesbeamte",
             "Hier die Ringe. Alles Gute für Sie beide."
           ]
@@ -46756,7 +46756,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -46766,7 +46766,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Das habe ich mir schon gedacht."
           ],
@@ -46776,7 +46776,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -46786,7 +46786,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -46796,7 +46796,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -46806,7 +46806,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Ich hoffe, Sie haben recht."
           ],
@@ -46861,7 +46861,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -46871,7 +46871,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -46881,7 +46881,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -46891,7 +46891,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -46901,7 +46901,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -46911,7 +46911,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bräutigam",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -47181,7 +47181,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Ja, finden Sie auch?"
           ],
@@ -47191,7 +47191,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Das freut mich sehr."
           ],
@@ -47201,7 +47201,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Gut, dann bin ich beruhigt."
           ],
@@ -47211,7 +47211,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Nein, das ist alles für heute."
           ],
@@ -47221,7 +47221,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Ja, das ist eine gute Idee."
           ],
@@ -47231,7 +47231,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -47286,7 +47286,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -47296,7 +47296,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Das habe ich mir schon gedacht."
           ],
@@ -47306,7 +47306,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -47316,7 +47316,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -47326,7 +47326,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -47336,7 +47336,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Ich hoffe, Sie haben recht."
           ],
@@ -47391,7 +47391,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -47401,7 +47401,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -47411,7 +47411,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -47421,7 +47421,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -47431,7 +47431,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -47441,7 +47441,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Teilnehmer",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -47711,7 +47711,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Ja, finden Sie auch?"
           ],
@@ -47721,7 +47721,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Das freut mich sehr."
           ],
@@ -47731,7 +47731,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Gut, dann bin ich beruhigt."
           ],
@@ -47741,7 +47741,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Nein, das ist alles für heute."
           ],
@@ -47751,7 +47751,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Ja, das ist eine gute Idee."
           ],
@@ -47761,7 +47761,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kassierer",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -47806,7 +47806,7 @@ const SCENARIOS_DATA = [
             "Die Skispitzen zusammen, die Enden auseinander."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -47816,7 +47816,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -47826,7 +47826,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -47836,7 +47836,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -47846,7 +47846,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -47856,7 +47856,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -47866,17 +47866,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schülerin",
             "So? Oh, es geht!"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skilehrer",
             "Super. Jetzt eine leichte Kurve."
           ]
@@ -47911,7 +47911,7 @@ const SCENARIOS_DATA = [
             "Muss ich ins Krankenhaus?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -47921,7 +47921,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -47931,7 +47931,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -47941,7 +47941,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -47951,7 +47951,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -47961,7 +47961,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -47971,17 +47971,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Skifahrer",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Pistenretter",
             "Der Arzt untersucht Sie unten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verletzter",
             "Danke für die schnelle Hilfe."
           ]
@@ -48251,7 +48251,7 @@ const SCENARIOS_DATA = [
             "Klar, der Platz ist frei."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Oh, das ist interessant."
           ],
@@ -48261,7 +48261,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Auf jeden Fall."
           ],
@@ -48271,7 +48271,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Alles klar, ich verstehe."
           ],
@@ -48281,7 +48281,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Haben Sie noch etwas?"
           ],
@@ -48291,17 +48291,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Gast",
             "Läuft das Fußballspiel heute?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Barkeeper",
             "Ja, ab 20:15 Uhr."
           ]
@@ -48346,7 +48346,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -48356,7 +48356,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das habe ich mir schon gedacht."
           ],
@@ -48366,7 +48366,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -48376,7 +48376,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -48386,7 +48386,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -48396,7 +48396,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich hoffe, Sie haben recht."
           ],
@@ -48451,7 +48451,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -48461,7 +48461,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -48471,7 +48471,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -48481,7 +48481,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -48491,7 +48491,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -48501,7 +48501,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -48781,7 +48781,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -48791,7 +48791,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -48801,7 +48801,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -48811,7 +48811,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -48821,7 +48821,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -48876,7 +48876,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -48886,7 +48886,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das habe ich mir schon gedacht."
           ],
@@ -48896,7 +48896,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -48906,7 +48906,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -48916,7 +48916,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -48926,7 +48926,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -48981,7 +48981,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -48991,7 +48991,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -49001,7 +49001,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -49011,7 +49011,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -49021,7 +49021,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -49031,7 +49031,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -49311,7 +49311,7 @@ const SCENARIOS_DATA = [
             "Ja, oder bar zahlen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Oh, das ist interessant."
           ],
@@ -49321,7 +49321,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Auf jeden Fall."
           ],
@@ -49331,7 +49331,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Alles klar, ich verstehe."
           ],
@@ -49341,7 +49341,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Haben Sie noch etwas?"
           ],
@@ -49351,17 +49351,17 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Studentin",
             "Dann bar. Hier bitte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Ihr Studentenausweis kommt per Post."
           ]
@@ -49396,7 +49396,7 @@ const SCENARIOS_DATA = [
             "Ich brauche auch einen Bibliotheksausweis."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -49406,7 +49406,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -49416,7 +49416,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -49426,7 +49426,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -49436,7 +49436,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -49446,7 +49446,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -49456,17 +49456,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiterin",
             "Den bekommen Sie in der Bib."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Student",
             "Vielen Dank für die Hilfe."
           ]
@@ -49501,7 +49501,7 @@ const SCENARIOS_DATA = [
             "Gibt es einen Deutschkurs?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -49511,7 +49511,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -49521,7 +49521,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -49531,7 +49531,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -49541,7 +49541,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -49551,7 +49551,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -49561,17 +49561,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Studierendenberater",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Koordinatorin",
             "Ja, das Sprachzentrum bietet kostenlose Kurse."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Austauschstudent",
             "Super, da melde ich mich an."
           ]
@@ -49841,7 +49841,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -49851,7 +49851,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -49861,7 +49861,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -49871,7 +49871,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -49881,7 +49881,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -49926,7 +49926,7 @@ const SCENARIOS_DATA = [
             "Nein, alles in Ordnung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -49936,7 +49936,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -49946,7 +49946,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -49956,7 +49956,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -49966,7 +49966,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -49976,7 +49976,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -49986,17 +49986,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiterin",
             "Dann ist die Kaution wieder frei."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Danke. Bis zum nächsten Mal."
           ]
@@ -50041,7 +50041,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -50051,7 +50051,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -50061,7 +50061,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -50071,7 +50071,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -50081,7 +50081,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -50091,7 +50091,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -50361,7 +50361,7 @@ const SCENARIOS_DATA = [
             "Ja, 'Es gibt keinen Planet B'."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Oh, das ist interessant."
           ],
@@ -50371,7 +50371,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Auf jeden Fall."
           ],
@@ -50381,7 +50381,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Alles klar, ich verstehe."
           ],
@@ -50391,7 +50391,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Haben Sie noch etwas?"
           ],
@@ -50401,7 +50401,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Schön, dann machen wir das so."
           ],
@@ -50411,17 +50411,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Freund",
             "Gut. Friedlich bleiben, ja?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Immer friedlich."
           ]
@@ -50456,7 +50456,7 @@ const SCENARIOS_DATA = [
             "Was erwarten Sie von der Politik?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -50466,7 +50466,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -50476,7 +50476,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -50486,7 +50486,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -50496,7 +50496,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -50506,7 +50506,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -50516,17 +50516,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Demonstrant",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Aktivist",
             "Mietendeckel und mehr Sozialwohnungen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Journalistin",
             "Danke für das Gespräch."
           ]
@@ -50561,7 +50561,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -50571,7 +50571,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -50581,7 +50581,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -50591,7 +50591,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -50601,7 +50601,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -50611,7 +50611,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -50621,7 +50621,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Menge",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -50891,7 +50891,7 @@ const SCENARIOS_DATA = [
             "Erzählen Sie von Ihrem Arbeitsalltag."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Oh, das ist interessant."
           ],
@@ -50901,7 +50901,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Auf jeden Fall."
           ],
@@ -50911,7 +50911,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Alles klar, ich verstehe."
           ],
@@ -50921,7 +50921,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Haben Sie noch etwas?"
           ],
@@ -50931,7 +50931,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Schön, dann machen wir das so."
           ],
@@ -50941,17 +50941,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Viel Druck, wenig Anerkennung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Das klingt belastend. Reden wir darüber."
           ]
@@ -50996,7 +50996,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -51006,7 +51006,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Das habe ich mir schon gedacht."
           ],
@@ -51016,7 +51016,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -51026,7 +51026,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -51036,7 +51036,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -51046,7 +51046,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ich hoffe, Sie haben recht."
           ],
@@ -51101,7 +51101,7 @@ const SCENARIOS_DATA = [
             "Manchmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -51111,7 +51111,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -51121,7 +51121,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -51131,7 +51131,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -51141,7 +51141,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -51151,17 +51151,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Therapeutin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Psychiaterin",
             "Danke für Ihre Ehrlichkeit. Wir helfen Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ich hoffe es."
           ]
@@ -51421,7 +51421,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Ja, finden Sie auch?"
           ],
@@ -51431,7 +51431,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Das freut mich sehr."
           ],
@@ -51441,7 +51441,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Gut, dann bin ich beruhigt."
           ],
@@ -51451,7 +51451,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Nein, das ist alles für heute."
           ],
@@ -51461,7 +51461,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Ja, das ist eine gute Idee."
           ],
@@ -51471,7 +51471,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -51526,7 +51526,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -51536,7 +51536,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Das habe ich mir schon gedacht."
           ],
@@ -51546,7 +51546,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -51556,7 +51556,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -51566,7 +51566,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -51576,7 +51576,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schlüsseldienst",
             "Ich hoffe, Sie haben recht."
           ],
@@ -51621,7 +51621,7 @@ const SCENARIOS_DATA = [
             "Wie viel?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -51631,7 +51631,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -51641,7 +51641,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -51651,7 +51651,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -51661,7 +51661,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -51671,7 +51671,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -51681,17 +51681,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Ausgesperrte",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Fachmann",
             "Etwa 150 Euro mit neuem Schloss."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mieter",
             "Machen Sie es. Ich will endlich rein."
           ]
@@ -51951,7 +51951,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, finden Sie auch?"
           ],
@@ -51961,7 +51961,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das freut mich sehr."
           ],
@@ -51971,7 +51971,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Gut, dann bin ich beruhigt."
           ],
@@ -51981,7 +51981,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist alles für heute."
           ],
@@ -51991,7 +51991,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, das ist eine gute Idee."
           ],
@@ -52001,7 +52001,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -52056,7 +52056,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -52066,7 +52066,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das habe ich mir schon gedacht."
           ],
@@ -52076,7 +52076,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -52086,7 +52086,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -52096,7 +52096,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -52106,7 +52106,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich hoffe, Sie haben recht."
           ],
@@ -52151,7 +52151,7 @@ const SCENARIOS_DATA = [
             "Kann ich eine andere Flasche haben?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -52161,7 +52161,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -52171,7 +52171,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -52181,7 +52181,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -52191,7 +52191,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -52201,7 +52201,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -52211,17 +52211,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Winzer",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Winzerin",
             "Selbstverständlich. Hier, Jahrgang 2023."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Weinkenner",
             "Viel besser. Danke."
           ]
@@ -52481,7 +52481,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ja, finden Sie auch?"
           ],
@@ -52491,7 +52491,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Das freut mich sehr."
           ],
@@ -52501,7 +52501,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -52511,7 +52511,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Nein, das ist alles für heute."
           ],
@@ -52521,7 +52521,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ja, das ist eine gute Idee."
           ],
@@ -52531,7 +52531,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -52576,7 +52576,7 @@ const SCENARIOS_DATA = [
             "Gut. Leon, hast du deine Sachen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -52586,7 +52586,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -52596,7 +52596,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -52606,7 +52606,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -52616,7 +52616,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -52626,7 +52626,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -52636,17 +52636,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kind",
             "Papa, ich habe ein Bild gemalt!"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das ist wunderschön. Für den Kühlschrank."
           ]
@@ -52681,7 +52681,7 @@ const SCENARIOS_DATA = [
             "Es ist nicht dramatisch, aber klären Sie es."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -52691,7 +52691,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -52701,7 +52701,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -52711,7 +52711,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -52721,7 +52721,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -52731,7 +52731,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -52741,17 +52741,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mutter",
             "Ja, sofort heute Abend."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Erzieherin",
             "Danke. Kooperation ist uns wichtig."
           ]
@@ -53011,7 +53011,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -53021,7 +53021,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -53031,7 +53031,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -53041,7 +53041,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -53051,7 +53051,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -53061,7 +53061,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -53116,7 +53116,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -53126,7 +53126,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das habe ich mir schon gedacht."
           ],
@@ -53136,7 +53136,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -53146,7 +53146,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -53156,7 +53156,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -53166,7 +53166,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -53211,7 +53211,7 @@ const SCENARIOS_DATA = [
             "Ja. Was kostet der Zuschnitt?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -53221,7 +53221,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -53231,7 +53231,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -53241,7 +53241,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -53251,7 +53251,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -53261,7 +53261,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -53271,17 +53271,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "50 Cent pro Schnitt. Also 2 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Günstig. Machen Sie bitte."
           ]
@@ -53541,7 +53541,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, finden Sie auch?"
           ],
@@ -53551,7 +53551,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das freut mich sehr."
           ],
@@ -53561,7 +53561,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Gut, dann bin ich beruhigt."
           ],
@@ -53571,7 +53571,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist alles für heute."
           ],
@@ -53581,7 +53581,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, das ist eine gute Idee."
           ],
@@ -53591,7 +53591,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -53636,7 +53636,7 @@ const SCENARIOS_DATA = [
             "Das Öl riecht gut."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -53646,7 +53646,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -53656,7 +53656,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -53666,7 +53666,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -53676,7 +53676,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -53686,7 +53686,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -53696,17 +53696,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Masseurin",
             "Lavendel. Entspannt die Muskeln."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Genau das brauche ich."
           ]
@@ -53741,7 +53741,7 @@ const SCENARIOS_DATA = [
             "Welcher Aufguss kommt als nächstes?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -53751,7 +53751,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -53761,7 +53761,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -53771,7 +53771,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -53781,7 +53781,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -53791,7 +53791,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -53801,17 +53801,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Empfangsdame",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Freundin",
             "Um 16 Uhr, mit Honig und Salz."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Freundin",
             "Den lassen wir uns nicht entgehen."
           ]
@@ -54071,7 +54071,7 @@ const SCENARIOS_DATA = [
             "Danke. Das habe ich alles im Keller."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Oh, das ist interessant."
           ],
@@ -54081,7 +54081,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Auf jeden Fall."
           ],
@@ -54091,7 +54091,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Alles klar, ich verstehe."
           ],
@@ -54101,7 +54101,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Haben Sie noch etwas?"
           ],
@@ -54111,7 +54111,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Schön, dann machen wir das so."
           ],
@@ -54121,17 +54121,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "Jetzt wird ausgemistet, was?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ja, endlich."
           ]
@@ -54166,7 +54166,7 @@ const SCENARIOS_DATA = [
             "Wo bekomme ich den?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -54176,7 +54176,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -54186,7 +54186,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -54196,7 +54196,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -54206,7 +54206,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -54216,7 +54216,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -54226,17 +54226,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürger",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verwalter",
             "Online beim Rathaus."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucherin",
             "Gut, dann komme ich nächste Woche wieder."
           ]
@@ -54271,7 +54271,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -54281,7 +54281,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -54291,7 +54291,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -54301,7 +54301,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -54311,7 +54311,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -54321,7 +54321,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -54331,7 +54331,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -54601,7 +54601,7 @@ const SCENARIOS_DATA = [
             "Nur ein kleiner Piks."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Oh, das ist interessant."
           ],
@@ -54611,7 +54611,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Auf jeden Fall."
           ],
@@ -54621,7 +54621,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Alles klar, ich verstehe."
           ],
@@ -54631,7 +54631,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Haben Sie noch etwas?"
           ],
@@ -54641,7 +54641,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Schön, dann machen wir das so."
           ],
@@ -54651,17 +54651,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Spender",
             "Gut, ich bin bereit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Danach gibt es Essen und Trinken."
           ]
@@ -54696,7 +54696,7 @@ const SCENARIOS_DATA = [
             "In drei Monaten, wenn der Wert stimmt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -54706,7 +54706,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -54716,7 +54716,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -54726,7 +54726,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -54736,7 +54736,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -54746,7 +54746,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -54756,17 +54756,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Spenderin",
             "Gut, ich achte darauf."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Arzt",
             "Schön, dass Sie trotzdem gekommen sind."
           ]
@@ -54801,7 +54801,7 @@ const SCENARIOS_DATA = [
             "Trinken Sie den Apfelsaft. Langsam."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -54811,7 +54811,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -54821,7 +54821,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -54831,7 +54831,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -54841,7 +54841,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -54851,7 +54851,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -54861,17 +54861,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Spender",
             "Danke. Ich habe schon oft gespendet."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwester",
             "Jede Spende rettet Leben. Danke."
           ]
@@ -55141,7 +55141,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Ja, finden Sie auch?"
           ],
@@ -55151,7 +55151,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Das freut mich sehr."
           ],
@@ -55161,7 +55161,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Gut, dann bin ich beruhigt."
           ],
@@ -55171,7 +55171,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Nein, das ist alles für heute."
           ],
@@ -55181,7 +55181,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Ja, das ist eine gute Idee."
           ],
@@ -55226,7 +55226,7 @@ const SCENARIOS_DATA = [
             "23 Euro insgesamt?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -55236,7 +55236,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -55246,7 +55246,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -55256,7 +55256,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -55266,7 +55266,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -55276,7 +55276,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -55286,17 +55286,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Fahrer",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kassierer",
             "Ja. Hier Ihre Quittung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Teure Verpeiltheit."
           ]
@@ -55331,7 +55331,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -55341,7 +55341,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -55351,7 +55351,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -55361,7 +55361,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -55371,7 +55371,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -55381,7 +55381,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -55391,7 +55391,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Wachmann",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -55661,7 +55661,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -55671,7 +55671,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -55681,7 +55681,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -55691,7 +55691,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist alles für heute."
           ],
@@ -55701,7 +55701,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, das ist eine gute Idee."
           ],
@@ -55711,7 +55711,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -55766,7 +55766,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -55776,7 +55776,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -55786,7 +55786,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -55796,7 +55796,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -55806,7 +55806,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -55816,7 +55816,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich hoffe, Sie haben recht."
           ],
@@ -55861,7 +55861,7 @@ const SCENARIOS_DATA = [
             "Geht das mit einer Blume?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -55871,7 +55871,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -55881,7 +55881,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -55891,7 +55891,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -55901,7 +55901,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -55911,7 +55911,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -55921,17 +55921,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tätowierer",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Artist",
             "Ja, eine Rose deckt gut. Ich zeichne vor."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Perfekt. Weg mit ihm."
           ]
@@ -56181,7 +56181,7 @@ const SCENARIOS_DATA = [
             "Gut. Wann kommst du mal wieder?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Oh, das ist interessant."
           ],
@@ -56191,7 +56191,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Auf jeden Fall."
           ],
@@ -56201,7 +56201,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Alles klar, ich verstehe."
           ],
@@ -56211,7 +56211,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Haben Sie noch etwas?"
           ],
@@ -56221,7 +56221,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Schön, dann machen wir das so."
           ],
@@ -56231,7 +56231,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ich bin ganz Ihrer Meinung."
           ],
@@ -56241,17 +56241,17 @@ const SCENARIOS_DATA = [
             "Vielen Dank für Ihre Hilfe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Tochter",
             "Vielleicht zu Weihnachten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Das wäre schön. Ich vermisse dich."
           ]
@@ -56286,7 +56286,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -56296,7 +56296,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Das habe ich mir schon gedacht."
           ],
@@ -56306,7 +56306,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -56316,7 +56316,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -56326,7 +56326,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -56336,7 +56336,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -56346,7 +56346,7 @@ const SCENARIOS_DATA = [
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Das beruhigt mich wirklich sehr."
           ],
@@ -56391,7 +56391,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -56401,7 +56401,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -56411,7 +56411,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -56421,7 +56421,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -56431,7 +56431,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -56441,7 +56441,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -56451,7 +56451,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tochter",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -56721,7 +56721,7 @@ const SCENARIOS_DATA = [
             "Wir prüfen es und rufen an."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Oh, das ist interessant."
           ],
@@ -56731,7 +56731,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Auf jeden Fall."
           ],
@@ -56741,7 +56741,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Alles klar, ich verstehe."
           ],
@@ -56751,7 +56751,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Haben Sie noch etwas?"
           ],
@@ -56761,7 +56761,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Schön, dann machen wir das so."
           ],
@@ -56771,17 +56771,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Gut. Wann kann ich den Wagen abholen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Morgen Nachmittag, schätze ich."
           ]
@@ -56826,7 +56826,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -56836,7 +56836,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das habe ich mir schon gedacht."
           ],
@@ -56846,7 +56846,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -56856,7 +56856,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -56866,7 +56866,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -56876,7 +56876,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich hoffe, Sie haben recht."
           ],
@@ -56921,7 +56921,7 @@ const SCENARIOS_DATA = [
             "Was kostet eine neue Batterie?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -56931,7 +56931,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -56941,7 +56941,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -56951,7 +56951,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -56961,7 +56961,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -56971,7 +56971,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -56981,17 +56981,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mechaniker",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mechaniker",
             "Je nach Modell 80 bis 150 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Wenn nötig, machen Sie sie neu."
           ]
@@ -57251,7 +57251,7 @@ const SCENARIOS_DATA = [
             "Durch die Glastür, dann links."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Oh, das ist interessant."
           ],
@@ -57261,7 +57261,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Auf jeden Fall."
           ],
@@ -57271,7 +57271,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Alles klar, ich verstehe."
           ],
@@ -57281,7 +57281,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Haben Sie noch etwas?"
           ],
@@ -57291,7 +57291,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Schön, dann machen wir das so."
           ],
@@ -57301,17 +57301,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Besucher",
             "Danke. Ist das Wasser warm?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "27 Grad."
           ]
@@ -57346,7 +57346,7 @@ const SCENARIOS_DATA = [
             "Alles klar. Wie tief ist das Becken?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -57356,7 +57356,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -57366,7 +57366,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -57376,7 +57376,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -57386,7 +57386,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -57396,7 +57396,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -57406,17 +57406,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bademeister",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Rettungsschwimmer",
             "1,80 Meter."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schwimmer",
             "Perfekt für Bahnen."
           ]
@@ -57451,7 +57451,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -57461,7 +57461,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -57471,7 +57471,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -57481,7 +57481,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -57491,7 +57491,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -57501,7 +57501,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -57511,7 +57511,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Besucher",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -57791,7 +57791,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -57801,7 +57801,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -57811,7 +57811,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -57821,7 +57821,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist alles für heute."
           ],
@@ -57831,7 +57831,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, das ist eine gute Idee."
           ],
@@ -57886,7 +57886,7 @@ const SCENARIOS_DATA = [
             "Schnürung ist besser."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -57896,7 +57896,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -57906,7 +57906,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -57916,7 +57916,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -57926,7 +57926,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -57936,17 +57936,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäuferin",
             "Diese hier sind im Angebot, 45 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Super, die probiert er zu Hause."
           ]
@@ -57981,7 +57981,7 @@ const SCENARIOS_DATA = [
             "Geht auch eine halbe Nummer größer?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -57991,7 +57991,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -58001,7 +58001,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -58011,7 +58011,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -58021,7 +58021,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -58031,7 +58031,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -58041,17 +58041,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Verkäufer",
             "Sicher. Hier in 39,5."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Die sind viel besser. Danke."
           ]
@@ -58311,7 +58311,7 @@ const SCENARIOS_DATA = [
             "Hier, ein Angebot mit Frühstück ab 1.299 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Oh, das ist interessant."
           ],
@@ -58321,7 +58321,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Auf jeden Fall."
           ],
@@ -58331,7 +58331,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Alles klar, ich verstehe."
           ],
@@ -58341,7 +58341,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Haben Sie noch etwas?"
           ],
@@ -58351,7 +58351,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Schön, dann machen wir das so."
           ],
@@ -58361,17 +58361,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Das klingt gut. Kann ich das buchen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Ja, mit 20 Prozent Anzahlung."
           ]
@@ -58416,7 +58416,7 @@ const SCENARIOS_DATA = [
             "Die Deckungssumme?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -58426,7 +58426,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -58436,7 +58436,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -58446,7 +58446,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -58456,7 +58456,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -58466,17 +58466,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Berater",
             "500.000 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ausreichend. Ich nehme es."
           ]
@@ -58521,7 +58521,7 @@ const SCENARIOS_DATA = [
             "Ist das All-Inclusive?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -58531,7 +58531,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -58541,7 +58541,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -58551,7 +58551,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -58561,7 +58561,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -58571,17 +58571,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reiseberaterin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Reiseberater",
             "Ja, alle Mahlzeiten und Getränke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Perfekt, das buche ich."
           ]
@@ -58841,7 +58841,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Ja, finden Sie auch?"
           ],
@@ -58851,7 +58851,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Das freut mich sehr."
           ],
@@ -58861,7 +58861,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Gut, dann bin ich beruhigt."
           ],
@@ -58871,7 +58871,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Nein, das ist alles für heute."
           ],
@@ -58881,7 +58881,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Ja, das ist eine gute Idee."
           ],
@@ -58891,7 +58891,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -58946,7 +58946,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -58956,7 +58956,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Das habe ich mir schon gedacht."
           ],
@@ -58966,7 +58966,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -58976,7 +58976,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -58986,7 +58986,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -58996,7 +58996,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kind",
             "Ich hoffe, Sie haben recht."
           ],
@@ -59041,7 +59041,7 @@ const SCENARIOS_DATA = [
             "Eine Kugel Schlumpf und eine Schoko."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -59051,7 +59051,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -59061,7 +59061,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -59071,7 +59071,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -59081,7 +59081,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -59091,7 +59091,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -59101,17 +59101,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäuferin",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Enkel",
             "Mit Sahne?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Oma",
             "Meinetwegen. Einmal Sahne obendrauf."
           ]
@@ -59371,7 +59371,7 @@ const SCENARIOS_DATA = [
             "Zum Mitnehmen oder hier essen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Oh, das ist interessant."
           ],
@@ -59381,7 +59381,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Auf jeden Fall."
           ],
@@ -59391,7 +59391,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Alles klar, ich verstehe."
           ],
@@ -59401,7 +59401,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Haben Sie noch etwas?"
           ],
@@ -59411,7 +59411,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Schön, dann machen wir das so."
           ],
@@ -59421,17 +59421,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kunde",
             "Hier essen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "5,50 Euro, bitte."
           ]
@@ -59466,7 +59466,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -59476,7 +59476,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das habe ich mir schon gedacht."
           ],
@@ -59486,7 +59486,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -59496,7 +59496,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -59506,7 +59506,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -59516,7 +59516,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich hoffe, Sie haben recht."
           ],
@@ -59526,7 +59526,7 @@ const SCENARIOS_DATA = [
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das beruhigt mich wirklich sehr."
           ],
@@ -59581,7 +59581,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -59591,7 +59591,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -59601,7 +59601,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -59611,7 +59611,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -59621,7 +59621,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -59631,7 +59631,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -59901,7 +59901,7 @@ const SCENARIOS_DATA = [
             "Richtig gemacht. Weiter geradeaus."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Oh, das ist interessant."
           ],
@@ -59911,7 +59911,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Auf jeden Fall."
           ],
@@ -59921,7 +59921,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Alles klar, ich verstehe."
           ],
@@ -59931,7 +59931,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Haben Sie noch etwas?"
           ],
@@ -59941,7 +59941,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Schön, dann machen wir das so."
           ],
@@ -59951,17 +59951,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schüler",
             "Höchstgeschwindigkeit 50 hier."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Achten Sie auf den Radfahrer vor Ihnen."
           ]
@@ -60006,7 +60006,7 @@ const SCENARIOS_DATA = [
             "Perfekt. Prüfung bestanden."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -60016,7 +60016,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -60026,7 +60026,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -60036,7 +60036,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -60046,7 +60046,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -60056,17 +60056,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüfer",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schülerin",
             "Wirklich? Ich habe bestanden!"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Prüferin",
             "Herzlichen Glückwunsch."
           ]
@@ -60111,7 +60111,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -60121,7 +60121,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -60131,7 +60131,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -60141,7 +60141,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -60151,7 +60151,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -60161,7 +60161,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schüler",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -60421,7 +60421,7 @@ const SCENARIOS_DATA = [
             "Die muss leider draußen bleiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Oh, das ist interessant."
           ],
@@ -60431,7 +60431,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Auf jeden Fall."
           ],
@@ -60441,7 +60441,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Alles klar, ich verstehe."
           ],
@@ -60451,7 +60451,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Haben Sie noch etwas?"
           ],
@@ -60461,7 +60461,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Schön, dann machen wir das so."
           ],
@@ -60471,7 +60471,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ich bin ganz Ihrer Meinung."
           ],
@@ -60481,17 +60481,17 @@ const SCENARIOS_DATA = [
             "Vielen Dank für Ihre Hilfe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Passagier",
             "Schade. Ist der Laptop extra?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ja, in eine separate Schale."
           ]
@@ -60516,7 +60516,7 @@ const SCENARIOS_DATA = [
             "Machen Sie ihn ab und gehen Sie nochmal durch."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -60526,7 +60526,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -60536,7 +60536,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -60546,7 +60546,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -60556,7 +60556,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -60566,7 +60566,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -60576,7 +60576,7 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ich habe schon viel Erfahrung damit."
           ],
@@ -60586,17 +60586,17 @@ const SCENARIOS_DATA = [
             "Das beruhigt mich wirklich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Wollen Sie es vielleicht ausprobieren?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Reisende",
             "So besser?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Jetzt ist es gut. Weitgehen."
           ]
@@ -60631,7 +60631,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist ärgerlich, wenn es konfisziert wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -60641,7 +60641,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -60651,7 +60651,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -60661,7 +60661,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -60671,7 +60671,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -60681,7 +60681,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -60691,17 +60691,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Sicherheitsbeamter",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kontrolleur",
             "Haben Sie noch Feuerzeuge?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Nein, nichtraucher."
           ]
@@ -60961,7 +60961,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, finden Sie auch?"
           ],
@@ -60971,7 +60971,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das freut mich sehr."
           ],
@@ -60981,7 +60981,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann bin ich beruhigt."
           ],
@@ -60991,7 +60991,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Nein, das ist alles für heute."
           ],
@@ -61001,7 +61001,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ja, das ist eine gute Idee."
           ],
@@ -61011,7 +61011,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -61066,7 +61066,7 @@ const SCENARIOS_DATA = [
             "Ich hoffe, das ist abgedeckt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -61076,7 +61076,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -61086,7 +61086,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -61096,7 +61096,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -61106,7 +61106,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -61116,17 +61116,17 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Sachbearbeiterin",
             "Ja, Ihre Hausrat deckt Leitungswasser."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Zum Glück."
           ]
@@ -61161,7 +61161,7 @@ const SCENARIOS_DATA = [
             "Wie viel etwa?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -61171,7 +61171,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -61181,7 +61181,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -61191,7 +61191,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -61201,7 +61201,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -61211,7 +61211,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -61221,17 +61221,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Versicherungsberater",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Berater",
             "Etwa 80 Euro monatlich für 1.500 Euro Rente."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist es mir wert. Machen wir."
           ]
@@ -61491,7 +61491,7 @@ const SCENARIOS_DATA = [
             "Ja, das wäre schön."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Oh, das ist interessant."
           ],
@@ -61501,7 +61501,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Auf jeden Fall."
           ],
@@ -61511,7 +61511,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Alles klar, ich verstehe."
           ],
@@ -61521,7 +61521,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Haben Sie noch etwas?"
           ],
@@ -61531,7 +61531,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Schön, dann machen wir das so."
           ],
@@ -61541,17 +61541,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Vater",
             "Kommen Sie oft hierher?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Fast jeden Nachmittag."
           ]
@@ -61586,7 +61586,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -61596,7 +61596,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das habe ich mir schon gedacht."
           ],
@@ -61606,7 +61606,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -61616,7 +61616,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -61626,7 +61626,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -61636,7 +61636,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Ich hoffe, Sie haben recht."
           ],
@@ -61646,7 +61646,7 @@ const SCENARIOS_DATA = [
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das beruhigt mich wirklich sehr."
           ],
@@ -61691,7 +61691,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -61701,7 +61701,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -61711,7 +61711,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -61721,7 +61721,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -61731,7 +61731,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -61741,7 +61741,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -61751,7 +61751,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Vater",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -62021,7 +62021,7 @@ const SCENARIOS_DATA = [
             "Wenn es ruhig ist, gern."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh, das ist interessant."
           ],
@@ -62031,7 +62031,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Auf jeden Fall."
           ],
@@ -62041,7 +62041,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Alles klar, ich verstehe."
           ],
@@ -62051,7 +62051,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Haben Sie noch etwas?"
           ],
@@ -62061,7 +62061,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Schön, dann machen wir das so."
           ],
@@ -62071,17 +62071,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Rezeptionistin",
             "Zimmer 502 ist ganz am Ende des Flurs."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Klingt gut. Danke."
           ]
@@ -62116,7 +62116,7 @@ const SCENARIOS_DATA = [
             "Können Sie das reparieren?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -62126,7 +62126,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -62136,7 +62136,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -62146,7 +62146,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -62156,7 +62156,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -62166,7 +62166,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -62176,17 +62176,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Haustechniker",
             "Ich stelle sie aus und bringe einen Ventilator."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Danke, hoffentlich schlafe ich jetzt."
           ]
@@ -62221,7 +62221,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -62231,7 +62231,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -62241,7 +62241,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -62251,7 +62251,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -62261,7 +62261,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -62271,7 +62271,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -62281,7 +62281,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Rezeptionistin",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -62561,7 +62561,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -62571,7 +62571,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -62581,7 +62581,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -62591,7 +62591,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -62601,7 +62601,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -62656,7 +62656,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -62666,7 +62666,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das habe ich mir schon gedacht."
           ],
@@ -62676,7 +62676,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -62686,7 +62686,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -62696,7 +62696,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -62706,7 +62706,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich hoffe, Sie haben recht."
           ],
@@ -62761,7 +62761,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -62771,7 +62771,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -62781,7 +62781,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -62791,7 +62791,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -62801,7 +62801,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -62811,7 +62811,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -63081,7 +63081,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ja, finden Sie auch?"
           ],
@@ -63091,7 +63091,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Das freut mich sehr."
           ],
@@ -63101,7 +63101,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Gut, dann bin ich beruhigt."
           ],
@@ -63111,7 +63111,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Nein, das ist alles für heute."
           ],
@@ -63121,7 +63121,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Ja, das ist eine gute Idee."
           ],
@@ -63131,7 +63131,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patient",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -63176,7 +63176,7 @@ const SCENARIOS_DATA = [
             "Kostet die Narkose extra?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -63186,7 +63186,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -63196,7 +63196,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -63206,7 +63206,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -63216,7 +63216,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -63226,7 +63226,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -63236,17 +63236,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Zahnärztin",
             "Leider ja, 150 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Patientin",
             "Das ist es mir wert. Ich habe solche Angst."
           ]
@@ -63281,7 +63281,7 @@ const SCENARIOS_DATA = [
             "Nicht auf der Seite kauen. Weiche Kost."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -63291,7 +63291,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -63301,7 +63301,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -63311,7 +63311,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -63321,7 +63321,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -63331,7 +63331,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -63341,17 +63341,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Patient",
             "Darf ich Kaffee trinken?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Zahnarzt",
             "Ja, aber lauwarm."
           ]
@@ -63611,7 +63611,7 @@ const SCENARIOS_DATA = [
             "2,20 Meter. Passt das?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Oh, das ist interessant."
           ],
@@ -63621,7 +63621,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Auf jeden Fall."
           ],
@@ -63631,7 +63631,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Alles klar, ich verstehe."
           ],
@@ -63641,7 +63641,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Haben Sie noch etwas?"
           ],
@@ -63651,7 +63651,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Schön, dann machen wir das so."
           ],
@@ -63661,17 +63661,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Pärchen",
             "Ja, perfekt. Liefern Sie?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Verkäufer",
             "In 3 Wochen, Lieferung kostet 49 Euro."
           ]
@@ -63716,7 +63716,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -63726,7 +63726,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Das habe ich mir schon gedacht."
           ],
@@ -63736,7 +63736,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -63746,7 +63746,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -63756,7 +63756,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -63766,7 +63766,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Ich hoffe, Sie haben recht."
           ],
@@ -63821,7 +63821,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -63831,7 +63831,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -63841,7 +63841,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -63851,7 +63851,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -63861,7 +63861,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -63871,7 +63871,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Pärchen",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -64141,7 +64141,7 @@ const SCENARIOS_DATA = [
             "Was kostet sie?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Oh, das ist interessant."
           ],
@@ -64151,7 +64151,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Auf jeden Fall."
           ],
@@ -64161,7 +64161,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Alles klar, ich verstehe."
           ],
@@ -64171,7 +64171,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Haben Sie noch etwas?"
           ],
@@ -64181,7 +64181,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Schön, dann machen wir das so."
           ],
@@ -64191,17 +64191,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiterin",
             "12 Euro pro Person."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Super, ich nehme zwei Karten."
           ]
@@ -64246,7 +64246,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -64256,7 +64256,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Das habe ich mir schon gedacht."
           ],
@@ -64266,7 +64266,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -64276,7 +64276,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -64286,7 +64286,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -64296,7 +64296,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Ich hoffe, Sie haben recht."
           ],
@@ -64351,7 +64351,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -64361,7 +64361,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -64371,7 +64371,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -64381,7 +64381,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -64391,7 +64391,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -64401,7 +64401,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiterin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -64671,7 +64671,7 @@ const SCENARIOS_DATA = [
             "Gibt es Gebühren?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Oh, das ist interessant."
           ],
@@ -64681,7 +64681,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Auf jeden Fall."
           ],
@@ -64691,7 +64691,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Alles klar, ich verstehe."
           ],
@@ -64701,7 +64701,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie noch etwas?"
           ],
@@ -64711,7 +64711,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Schön, dann machen wir das so."
           ],
@@ -64721,17 +64721,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Angestellter",
             "3 Euro pauschal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, hier ist das Geld."
           ]
@@ -64766,7 +64766,7 @@ const SCENARIOS_DATA = [
             "Kann ich mit Karte zahlen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -64776,7 +64776,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -64786,7 +64786,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -64796,7 +64796,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -64806,7 +64806,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -64816,7 +64816,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -64826,17 +64826,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kassiererin",
             "Nur Bargeld. Aber da vorne ist ein Automat."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Tourist",
             "Gut, ich hebe kurz ab."
           ]
@@ -64871,7 +64871,7 @@ const SCENARIOS_DATA = [
             "Weniger als ich dachte. Aber okay."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -64881,7 +64881,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -64891,7 +64891,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -64901,7 +64901,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -64911,7 +64911,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -64921,7 +64921,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -64931,17 +64931,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Wechsler",
             "Der Yen ist gerade schwach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Nächstes Mal hebe ich vor Ort ab."
           ]
@@ -65201,7 +65201,7 @@ const SCENARIOS_DATA = [
             "Wir stellen einen vorläufigen Pass aus."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Oh, das ist interessant."
           ],
@@ -65211,7 +65211,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Auf jeden Fall."
           ],
@@ -65221,7 +65221,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Alles klar, ich verstehe."
           ],
@@ -65231,7 +65231,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Haben Sie noch etwas?"
           ],
@@ -65241,7 +65241,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Schön, dann machen wir das so."
           ],
@@ -65251,17 +65251,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Bürger",
             "Wie schnell?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Morgen früh können Sie ihn abholen."
           ]
@@ -65296,7 +65296,7 @@ const SCENARIOS_DATA = [
             "Alles vollständig. Bearbeitungszeit 6 Wochen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -65306,7 +65306,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -65316,7 +65316,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -65326,7 +65326,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -65336,7 +65336,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -65346,7 +65346,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -65356,17 +65356,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Antragsteller",
             "Kann ich den Prozess beschleunigen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamtin",
             "Leider nein. Wir melden uns."
           ]
@@ -65401,7 +65401,7 @@ const SCENARIOS_DATA = [
             "Bekomme ich Bargeld?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -65411,7 +65411,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -65421,7 +65421,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -65431,7 +65431,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -65441,7 +65441,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -65451,7 +65451,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -65461,17 +65461,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Konsulatsmitarbeiter",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Konsul",
             "Ja, Ihre Familie kann es hier einzahlen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Bürgerin",
             "Danke, ich rufe meinen Bruder an."
           ]
@@ -65721,7 +65721,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, finden Sie auch?"
           ],
@@ -65731,7 +65731,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das freut mich sehr."
           ],
@@ -65741,7 +65741,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Gut, dann bin ich beruhigt."
           ],
@@ -65751,7 +65751,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist alles für heute."
           ],
@@ -65761,7 +65761,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, das ist eine gute Idee."
           ],
@@ -65771,7 +65771,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -65781,7 +65781,7 @@ const SCENARIOS_DATA = [
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Sie sind sehr nett."
           ],
@@ -65846,7 +65846,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -65856,7 +65856,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das habe ich mir schon gedacht."
           ],
@@ -65866,7 +65866,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -65876,7 +65876,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -65886,7 +65886,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -65931,7 +65931,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -65941,7 +65941,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -65951,7 +65951,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -65961,7 +65961,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -65971,7 +65971,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -65981,7 +65981,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -65991,7 +65991,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Gast",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -66251,7 +66251,7 @@ const SCENARIOS_DATA = [
             "Mit Umschlag oder einfach?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Oh, das ist interessant."
           ],
@@ -66261,7 +66261,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Auf jeden Fall."
           ],
@@ -66271,7 +66271,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Alles klar, ich verstehe."
           ],
@@ -66281,7 +66281,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Haben Sie noch etwas?"
           ],
@@ -66291,7 +66291,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Schön, dann machen wir das so."
           ],
@@ -66301,7 +66301,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Ich bin ganz Ihrer Meinung."
           ],
@@ -66311,17 +66311,17 @@ const SCENARIOS_DATA = [
             "Vielen Dank für Ihre Hilfe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Mit Umschlag."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "15 Euro. Kommen Sie morgen wieder."
           ]
@@ -66356,7 +66356,7 @@ const SCENARIOS_DATA = [
             "Gut. Die Jacke ist meine Lieblingsjacke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -66366,7 +66366,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -66376,7 +66376,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -66386,7 +66386,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -66396,7 +66396,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -66406,7 +66406,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -66416,17 +66416,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Schneiderin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Schneider",
             "Dann lohnt sich die Reparatur."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Absolut."
           ]
@@ -66461,7 +66461,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -66471,7 +66471,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -66481,7 +66481,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -66491,7 +66491,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -66501,7 +66501,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -66511,7 +66511,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -66521,7 +66521,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -66791,7 +66791,7 @@ const SCENARIOS_DATA = [
             "Wie viel möchten Sie ausgeben?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Oh, das ist interessant."
           ],
@@ -66801,7 +66801,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Auf jeden Fall."
           ],
@@ -66811,7 +66811,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Alles klar, ich verstehe."
           ],
@@ -66821,7 +66821,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Haben Sie noch etwas?"
           ],
@@ -66831,7 +66831,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Schön, dann machen wir das so."
           ],
@@ -66841,17 +66841,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kunde",
             "Etwa 30 Euro."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Dafür bekommen Sie einen schönen Strauß."
           ]
@@ -66886,7 +66886,7 @@ const SCENARIOS_DATA = [
             "Das klingt würdevoll."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -66896,7 +66896,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -66906,7 +66906,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -66916,7 +66916,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -66926,7 +66926,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -66936,7 +66936,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -66946,17 +66946,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Floristin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Florist",
             "Mit Kiefernzapfen und einer Schleife."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Schön. 40 Euro, bitte."
           ]
@@ -67001,7 +67001,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -67011,7 +67011,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -67021,7 +67021,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -67031,7 +67031,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -67041,7 +67041,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -67051,7 +67051,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -67321,7 +67321,7 @@ const SCENARIOS_DATA = [
             "Wo wohnen Sie?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Oh, das ist interessant."
           ],
@@ -67331,7 +67331,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Auf jeden Fall."
           ],
@@ -67341,7 +67341,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Alles klar, ich verstehe."
           ],
@@ -67351,7 +67351,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Haben Sie noch etwas?"
           ],
@@ -67361,7 +67361,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Schön, dann machen wir das so."
           ],
@@ -67371,17 +67371,17 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Reisender",
             "Im Hotel Excelsior."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Gut. Willkommen in Deutschland."
           ]
@@ -67426,7 +67426,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -67436,7 +67436,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Das habe ich mir schon gedacht."
           ],
@@ -67446,7 +67446,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -67456,7 +67456,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -67466,7 +67466,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -67476,7 +67476,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Reisender",
             "Ich hoffe, Sie haben recht."
           ],
@@ -67521,7 +67521,7 @@ const SCENARIOS_DATA = [
             "Kommen Sie bitte mit zur Klärung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -67531,7 +67531,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -67541,7 +67541,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -67551,7 +67551,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -67561,7 +67561,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -67571,7 +67571,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -67581,17 +67581,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Reisender",
             "Das ist ein Missverständnis."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Beamter",
             "Wir prüfen das im Büro."
           ]
@@ -67851,7 +67851,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, finden Sie auch?"
           ],
@@ -67861,7 +67861,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Das freut mich sehr."
           ],
@@ -67871,7 +67871,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -67881,7 +67881,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Nein, das ist alles für heute."
           ],
@@ -67891,7 +67891,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Ja, das ist eine gute Idee."
           ],
@@ -67901,7 +67901,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mitarbeiter",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -67946,7 +67946,7 @@ const SCENARIOS_DATA = [
             "Können Sie nachwaschen?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -67956,7 +67956,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -67966,7 +67966,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -67976,7 +67976,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -67986,7 +67986,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -67996,7 +67996,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -68006,17 +68006,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Betreiber",
             "Ja, einmal kostenlos durch die Anlage."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kunde",
             "Danke, das ist fair."
           ]
@@ -68041,7 +68041,7 @@ const SCENARIOS_DATA = [
             "Reichen 5 Minuten?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -68051,7 +68051,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -68061,7 +68061,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -68071,7 +68071,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -68081,7 +68081,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -68091,7 +68091,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -68101,7 +68101,7 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
@@ -68111,17 +68111,17 @@ const SCENARIOS_DATA = [
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Es ist eigentlich ganz einfach: Folgen Sie den Anweisungen, und nichts kann schiefgehen."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Mitarbeiter",
             "Wenn Sie nur schnell saugen, ja."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Ich nehme zwei Münzen."
           ]
@@ -68381,7 +68381,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Ja, finden Sie auch?"
           ],
@@ -68391,7 +68391,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Das freut mich sehr."
           ],
@@ -68401,7 +68401,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Gut, dann bin ich beruhigt."
           ],
@@ -68411,7 +68411,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Nein, das ist alles für heute."
           ],
@@ -68421,7 +68421,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Ja, das ist eine gute Idee."
           ],
@@ -68431,7 +68431,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -68476,7 +68476,7 @@ const SCENARIOS_DATA = [
             "Welches?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -68486,7 +68486,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -68496,7 +68496,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -68506,7 +68506,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -68516,7 +68516,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -68526,7 +68526,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -68536,17 +68536,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Mutter",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Vater",
             "La-Le-Lu. Das kennt er."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Gut, ich versuche es."
           ]
@@ -68581,7 +68581,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -68591,7 +68591,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -68601,7 +68601,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -68611,7 +68611,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -68621,7 +68621,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -68631,7 +68631,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -68641,7 +68641,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Babysitter",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -68911,7 +68911,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Ja, finden Sie auch?"
           ],
@@ -68921,7 +68921,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das freut mich sehr."
           ],
@@ -68931,7 +68931,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Gut, dann bin ich beruhigt."
           ],
@@ -68941,7 +68941,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Nein, das ist alles für heute."
           ],
@@ -68951,7 +68951,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Ja, das ist eine gute Idee."
           ],
@@ -68961,7 +68961,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -69006,7 +69006,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -69016,7 +69016,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das habe ich mir schon gedacht."
           ],
@@ -69026,7 +69026,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -69036,7 +69036,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -69046,7 +69046,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -69056,7 +69056,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Ich hoffe, Sie haben recht."
           ],
@@ -69066,7 +69066,7 @@ const SCENARIOS_DATA = [
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das beruhigt mich wirklich sehr."
           ],
@@ -69111,7 +69111,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -69121,7 +69121,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -69131,7 +69131,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -69141,7 +69141,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -69151,7 +69151,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -69161,7 +69161,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -69171,7 +69171,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Platzwart",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -69431,7 +69431,7 @@ const SCENARIOS_DATA = [
             "Ja."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Oh, das ist interessant."
           ],
@@ -69441,7 +69441,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Auf jeden Fall."
           ],
@@ -69451,7 +69451,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Alles klar, ich verstehe."
           ],
@@ -69461,7 +69461,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Haben Sie noch etwas?"
           ],
@@ -69471,7 +69471,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Schön, dann machen wir das so."
           ],
@@ -69481,7 +69481,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Ich bin ganz Ihrer Meinung."
           ],
@@ -69491,17 +69491,17 @@ const SCENARIOS_DATA = [
             "Vielen Dank für Ihre Hilfe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Notrufzentrale",
             "Der Techniker kommt in 15 Minuten."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Bitte schnell, ich habe Platzangst."
           ]
@@ -69536,7 +69536,7 @@ const SCENARIOS_DATA = [
             "Bestimmt nicht lang."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -69546,7 +69546,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -69556,7 +69556,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -69566,7 +69566,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -69576,7 +69576,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -69586,7 +69586,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -69596,17 +69596,17 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagier",
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Passagierin2",
             "Ich wollte die Treppe nehmen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Passagierin1",
             "Nächstes Mal wieder Treppe."
           ]
@@ -69641,7 +69641,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -69651,7 +69651,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -69661,7 +69661,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -69671,7 +69671,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -69681,7 +69681,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -69691,7 +69691,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -69701,7 +69701,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Notrufzentrale",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
@@ -69961,7 +69961,7 @@ const SCENARIOS_DATA = [
             "Mit Design oder einfach?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Oh, das ist interessant."
           ],
@@ -69971,7 +69971,7 @@ const SCENARIOS_DATA = [
             "Ja, finden Sie auch?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Auf jeden Fall."
           ],
@@ -69981,7 +69981,7 @@ const SCENARIOS_DATA = [
             "Das freut mich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Alles klar, ich verstehe."
           ],
@@ -69991,7 +69991,7 @@ const SCENARIOS_DATA = [
             "Gut, dann bin ich beruhigt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Haben Sie noch etwas?"
           ],
@@ -70001,7 +70001,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist alles für heute."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Schön, dann machen wir das so."
           ],
@@ -70011,7 +70011,7 @@ const SCENARIOS_DATA = [
             "Ja, das ist eine gute Idee."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Ich bin ganz Ihrer Meinung."
           ],
@@ -70021,17 +70021,17 @@ const SCENARIOS_DATA = [
             "Vielen Dank für Ihre Hilfe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Kein Problem, das mache ich gern."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Kundin",
             "Einfach, aber mit Glitzer."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Dauert etwa eine Stunde."
           ]
@@ -70056,7 +70056,7 @@ const SCENARIOS_DATA = [
             "Ja. Wie lange hält das Gel?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
@@ -70066,7 +70066,7 @@ const SCENARIOS_DATA = [
             "Oh ja, ich höre Ihnen gerne zu."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Sie sollten immer ganz genau aufpassen."
           ],
@@ -70076,7 +70076,7 @@ const SCENARIOS_DATA = [
             "Das habe ich mir schon gedacht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
@@ -70086,7 +70086,7 @@ const SCENARIOS_DATA = [
             "Ja, ich habe es verstanden, danke."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Haben Sie das schon einmal gemacht?"
           ],
@@ -70096,7 +70096,7 @@ const SCENARIOS_DATA = [
             "Nein, das ist das erste Mal für mich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Ach so, dann erkläre ich es noch einmal."
           ],
@@ -70106,7 +70106,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr freundlich von Ihnen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
@@ -70116,7 +70116,7 @@ const SCENARIOS_DATA = [
             "Ich hoffe, Sie haben recht."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Ich habe schon viel Erfahrung damit."
           ],
@@ -70126,17 +70126,17 @@ const SCENARIOS_DATA = [
             "Das beruhigt mich wirklich sehr."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Wollen Sie es vielleicht ausprobieren?"
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Technikerin",
             "Drei Wochen, dann zum Auffüllen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann komme ich in drei Wochen."
           ]
@@ -70171,7 +70171,7 @@ const SCENARIOS_DATA = [
             "Ist das teurer als normales Gel?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
@@ -70181,7 +70181,7 @@ const SCENARIOS_DATA = [
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
@@ -70191,7 +70191,7 @@ const SCENARIOS_DATA = [
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
@@ -70201,7 +70201,7 @@ const SCENARIOS_DATA = [
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
@@ -70211,7 +70211,7 @@ const SCENARIOS_DATA = [
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
@@ -70221,7 +70221,7 @@ const SCENARIOS_DATA = [
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
@@ -70231,17 +70231,17 @@ const SCENARIOS_DATA = [
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Nageldesignerin",
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-b",
+            "speaker-a",
             "Technikerin",
             "5 Euro mehr, aber es lohnt sich."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kundin",
             "Gut, dann BIAB."
           ]
@@ -70501,7 +70501,7 @@ const SCENARIOS_DATA = [
             "Oh, das ist interessant."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Ja, finden Sie auch?"
           ],
@@ -70511,7 +70511,7 @@ const SCENARIOS_DATA = [
             "Auf jeden Fall."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das freut mich sehr."
           ],
@@ -70521,7 +70521,7 @@ const SCENARIOS_DATA = [
             "Alles klar, ich verstehe."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Gut, dann bin ich beruhigt."
           ],
@@ -70531,7 +70531,7 @@ const SCENARIOS_DATA = [
             "Haben Sie noch etwas?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Nein, das ist alles für heute."
           ],
@@ -70541,7 +70541,7 @@ const SCENARIOS_DATA = [
             "Schön, dann machen wir das so."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Ja, das ist eine gute Idee."
           ],
@@ -70551,7 +70551,7 @@ const SCENARIOS_DATA = [
             "Ich bin ganz Ihrer Meinung."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Vielen Dank für Ihre Hilfe."
           ],
@@ -70596,7 +70596,7 @@ const SCENARIOS_DATA = [
             "Ich möchte Ihnen noch einen guten Rat geben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Oh ja, ich höre Ihnen gerne zu."
           ],
@@ -70606,7 +70606,7 @@ const SCENARIOS_DATA = [
             "Sie sollten immer ganz genau aufpassen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das habe ich mir schon gedacht."
           ],
@@ -70616,7 +70616,7 @@ const SCENARIOS_DATA = [
             "Es ist wirklich wichtig, dass Sie das verstehen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Ja, ich habe es verstanden, danke."
           ],
@@ -70626,7 +70626,7 @@ const SCENARIOS_DATA = [
             "Haben Sie das schon einmal gemacht?"
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Nein, das ist das erste Mal für mich."
           ],
@@ -70636,7 +70636,7 @@ const SCENARIOS_DATA = [
             "Ach so, dann erkläre ich es noch einmal."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das ist sehr freundlich von Ihnen."
           ],
@@ -70646,7 +70646,7 @@ const SCENARIOS_DATA = [
             "Machen Sie sich keine Sorgen, es ist ganz einfach."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Ich hoffe, Sie haben recht."
           ],
@@ -70656,7 +70656,7 @@ const SCENARIOS_DATA = [
             "Ich habe schon viel Erfahrung damit."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das beruhigt mich wirklich sehr."
           ],
@@ -70701,7 +70701,7 @@ const SCENARIOS_DATA = [
             "Bevor wir zum Ende kommen, möchte ich noch etwas Wichtiges ansprechen."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Natürlich, ich höre genau zu, denn ich will wirklich alles richtig verstehen."
           ],
@@ -70711,7 +70711,7 @@ const SCENARIOS_DATA = [
             "Wenn Sie das, was wir besprochen haben, genau so umsetzen, dann wird es sehr gut funktionieren."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das werde ich auf jeden Fall tun, denn ich habe gemerkt, dass Ihre Ratschläge immer hilfreich sind."
           ],
@@ -70721,7 +70721,7 @@ const SCENARIOS_DATA = [
             "Es freut mich, dass Sie so verantwortungsbewusst damit umgehen, weil viele Menschen das leider nicht tun."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Ich habe in der Vergangenheit gelernt, dass es besser ist, auf Experten zu hören."
           ],
@@ -70731,7 +70731,7 @@ const SCENARIOS_DATA = [
             "Das ist eine weise Einstellung, die sich langfristig auf jeden Fall auszahlen wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Danke, das hoffe ich auch, denn ich habe viel Zeit in diese Sache investiert."
           ],
@@ -70741,7 +70741,7 @@ const SCENARIOS_DATA = [
             "Falls später noch Fragen auftauchen, können Sie mich jederzeit anrufen oder eine E-Mail schreiben."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Das ist sehr gut zu wissen, und ich werde davon Gebrauch machen, wenn es nötig sein sollte."
           ],
@@ -70751,7 +70751,7 @@ const SCENARIOS_DATA = [
             "Ich bin sicher, dass Sie das auch alleine schaffen werden, aber Unterstützung ist nie verkehrt."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Genau so sehe ich es auch, deshalb bin ich froh, dass ich heute hier war."
           ],
@@ -70761,7 +70761,7 @@ const SCENARIOS_DATA = [
             "Dann lassen Sie uns das Ganze zum Abschluss bringen, bevor es zu spät wird."
           ],
           [
-            "speaker-a",
+            "speaker-b",
             "Kartenverkäufer",
             "Einverstanden, ich bin bereit für den letzten Schritt, den Sie mir noch erklären wollten."
           ],
