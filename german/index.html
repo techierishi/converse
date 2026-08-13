@@ -287,6 +287,36 @@ button.practiced-btn.active {
   padding: 2px 0 4px 0;
   font-size: 0.85rem;
   line-height: 1.4;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.translation-text {
+  flex: 1;
+}
+.en-audio-btn {
+  flex-shrink: 0;
+  opacity: 0.7;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 3px;
+  align-self: center;
+}
+.en-audio-btn svg {
+  width: 14px;
+  height: 14px;
+}
+.en-audio-btn:hover {
+  opacity: 1;
+  color: #2b7cff;
+}
+.word-btn {
+  opacity: 0.45;
+}
+.word-btn:hover {
+  opacity: 1;
+  color: #8e44ad;
+  background: rgba(142, 68, 173, 0.08);
 }
 
 /* badges */
@@ -366,6 +396,20 @@ button.practiced-btn.active {
   .speaker-b { color: #ff9b5b; }
   .progress-bar { background: #333; }
 }
+
+/* English audio button — compact & vertically centered with translation text */
+.translation .en-audio-btn {
+  min-width: 20px !important;
+  min-height: 20px !important;
+  padding: 2px !important;
+  align-self: center;
+  flex-shrink: 0;
+  opacity: 0.75;
+}
+.translation .en-audio-btn svg {
+  width: 14px !important;
+  height: 14px !important;
+}
 </style>
 </head>
 <body>
@@ -394,6 +438,37 @@ function speak(text) {
   const utterance = new SpeechSynthesisUtterance(text);
   utterance.lang = 'de-DE';
   utterance.rate = isMobile ? 0.9 : 1.0;
+  utterance.pitch = 1.0;
+  speechSynthesis.speak(utterance);
+}
+
+// Word-by-word: split by whitespace, speak each word with a gap
+function speakWordByWord(text) {
+  speechSynthesis.cancel();
+  const words = text.split(/\s+/).filter(Boolean);
+  if (!words.length) return;
+  const gapMs = 350;
+  let idx = 0;
+  function speakNext() {
+    if (idx >= words.length) return;
+    const u = new SpeechSynthesisUtterance(words[idx]);
+    u.lang = 'de-DE';
+    u.rate = 0.7;
+    u.pitch = 1.0;
+    let advanced = false;
+    u.onend = () => { if (!advanced) { advanced = true; idx++; setTimeout(speakNext, gapMs); } };
+    u.onerror = () => { if (!advanced) { advanced = true; idx++; setTimeout(speakNext, gapMs); } };
+    speechSynthesis.speak(u);
+  }
+  speakNext();
+}
+
+// English translation read all at once
+function speakEnglish(text) {
+  speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = 'en-US';
+  utterance.rate = 0.95;
   utterance.pitch = 1.0;
   speechSynthesis.speak(utterance);
 }
@@ -605,15 +680,38 @@ function createScenario(index) {
     audioBtn.addEventListener('click', () => speak(text));
     lineRow.appendChild(audioBtn);
 
+    const wordBtn = document.createElement('button');
+    wordBtn.type = 'button';
+    wordBtn.className = 'audio-btn word-btn';
+    wordBtn.title = 'Read word by word';
+    wordBtn.setAttribute('aria-label', 'Read word by word');
+    wordBtn.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="2.2"/><circle cx="12" cy="14" r="7"/></svg>';
+    wordBtn.addEventListener('click', () => speakWordByWord(text));
+    lineRow.appendChild(wordBtn);
+
     li.appendChild(lineRow);
 
     const translDiv = document.createElement('div');
     translDiv.className = 'translation';
     translDiv.style.display = 'none';
 
+    const enAudioBtn = document.createElement('button');
+    enAudioBtn.type = 'button';
+    enAudioBtn.className = 'audio-btn en-audio-btn';
+    enAudioBtn.title = 'Read English translation';
+    enAudioBtn.setAttribute('aria-label', 'Read English translation');
+    enAudioBtn.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
+    enAudioBtn.style.display = 'none';
+    translDiv.appendChild(enAudioBtn);
+
+    const translText = document.createElement('span');
+    translText.className = 'translation-text';
+    translDiv.appendChild(translText);
+
     eyeBtn.addEventListener('click', async () => {
       if (translDiv.style.display === 'block') {
         translDiv.style.display = 'none';
+        enAudioBtn.style.display = 'none';
         eyeBtn.classList.remove('active');
         return;
       }
@@ -633,8 +731,10 @@ function createScenario(index) {
         eyeBtn.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>';
         eyeBtn.style.opacity = '';
       }
-      translDiv.textContent = en;
+      translText.textContent = en;
       translDiv.style.display = 'block';
+      enAudioBtn.style.display = 'inline-flex';
+      enAudioBtn.onclick = () => speakEnglish(en);
       eyeBtn.classList.add('active');
     });
 
